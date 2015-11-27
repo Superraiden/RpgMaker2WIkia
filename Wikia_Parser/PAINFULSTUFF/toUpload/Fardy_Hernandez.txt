@@ -1,0 +1,142 @@
+{{Template:Party_Member
+| name                = Fardy
+| image               = File:FardyHernandez.png
+| imagewidth          = 100
+| caption             = A middle-aged man stripped of his masculinity.
+| title               = 
+| fullname            = Fardy Hernandez
+| nickname            = Fardy
+| class               = Truck Driver
+| auto_state          = [[Depression]]
+| location            = 
+| weapon_types        = [[Club]]
+| armor_types         = [[Accessory]] / [[Nude]] / [[Small Shield]]
+| skill_types         = [[Skills]]
+| Target_Rate         = 100%
+| Evasion             = 0%
+| Hit_Rate            = 80%
+| Crit_Chance         = 3%
+| feature1            = 
+| feature2            = 
+| feature3            = 
+| feature4            = 
+| feature5            = 
+| feature6            = 
+| feature7            = 
+| feature8            = 
+| feature9            = 
+| feature10           = 
+| feature11           = 
+| feature12           = 
+}}
+This is a Blurb of the Character
+==Appearance and Personality==
+Description of the character
+
+
+
+
+
+
+
+
+
+
+
+==Battle==
+This is a description of the battle styles of the Party Member
+
+===Skills===
+{| class="PartyTable" border="1" cellpadding="2" cellspacing="0"
+| style="width:20%;" class="Header2 TopLeft" |'''Skill Name'''
+| style="width:55%;" class="Header2" |'''Description'''
+| style="width:15%;" class="Header2" |'''Level Learned'''
+| style="width:10%;" class="Header2 TopRight" |'''MP Cost'''
+|-
+| class="Content Text" |[[Weep|Weep]]
+| class="Content Text" |Sometimes you just have to cry it out...
+| class="Content" |1
+| class="Content" |0
+|-
+| class="Content Text" |[[Truck Slam 2|Truck Slam 2]]
+| class="Content Text" |Peel out hard as Heck.
+| class="Content" |15
+| class="Content" |25
+|-
+| class="Content Text" |[[Truck Slam 3|Truck Slam 3]]
+| class="Content Text" |Peel out hard as Hell.
+| class="Content" |20
+| class="Content" |30
+|-
+| class="Content Text BottomLeft" |[[Truck Slam 4|Truck Slam 4]]
+| class="Content Text" |Peel out hard as fuck.
+| class="Content" |25
+| class="Content BottomRight" |40
+
+|}
+
+===Statistics===
+Statistics analysis
+
+{| class="PartyTable" border="1" cellpadding="2" cellspacing="0"
+| colspan="10" class="Header1 TopLeft TopRight" |'''Core Statistics'''
+|-
+| width="10%;" class="Header2" |Level
+| width="10%;" class="Header2" |HP
+| width="10%;" class="Header2" |SP
+| width="10%;" class="Header2" |ATK
+| width="10%;" class="Header2" |DEF
+| width="10%;" class="Header2" |SATK
+| width="10%;" class="Header2" |SDEF
+| width="10%;" class="Header2" |AGI
+| width="10%;" class="Header2" |LUCK
+|-
+| class="Content BottomLeft" |6
+| class="Content" |62
+| class="Content" |31
+| class="Content" |28
+| class="Content" |20
+| class="Content" |30
+| class="Content" |32
+| class="Content" |10
+| class="Content BottomRight" |1
+|}
+
+==Battle Quotes==
+{| class="" style="width:100%; vertical-align: top;" border="0" cellpadding="0" cellspacing="0"
+|
+===Win Quotes===
+|
+===Level Quotes===
+|
+===Drop Quotes===
+|-
+| style="vertical-align: top;" |
+* I miss nacho cheese...
+* [new quote]
+* I'm unhappy with my figure...
+* [new quote]
+* ... I want to be viewed as a man...
+
+| style="vertical-align: top;" |
+* Huh? What's a level up?
+
+| style="vertical-align: top;" |
+* ... Anyone see my contacts?
+
+|}
+
+==Art==
+<gallery>
+Fardy_Hernandez_HD.png
+</gallery>
+
+
+
+==Tips==
+
+==Trivia==
+
+{{Party_Members}}
+[[Category:Character]]
+[[Category:Party Member]]

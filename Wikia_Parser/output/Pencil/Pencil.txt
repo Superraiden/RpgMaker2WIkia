@@ -1,0 +1,37 @@
+{{Template:Weapon
+| name       = Pencil
+| image      = File:115Pencil.png
+| imagewidth = 100px
+| caption    = 
+| id         = 115
+| weaponType = [[Pencil]]
+| Para_ATK   = 0
+| Para_DEF   = 0
+| Para_SATK  = 11
+| Para_SDEF  = 0
+| Para_AGI   = 0
+| Para_LUCK  = 0
+| Para_HP    = 0
+| Para_SP    = 7
+| feature1   = Attack Element: Physical
+| feature2   = 
+| feature3   = 
+| feature4   = 
+| feature5   = 
+| feature6   = 
+| feature7   = 
+| feature8   = 
+| feature9   = 
+| feature10  = 
+| feature11  = 
+| feature12  = 
+}}
+ 
+==Description==
+A rare tool in this climate...
+
+==Features==
+==Locations==
+==Notes==
+
+[[Category:Weapon]]

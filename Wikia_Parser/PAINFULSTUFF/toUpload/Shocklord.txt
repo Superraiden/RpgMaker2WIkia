@@ -1,0 +1,123 @@
+{{Template:Party_Member
+| name                = Shocklord
+| image               = File:Shocklord.png
+| imagewidth          = 100
+| caption             = A powerful man prone to making mistakes after a life altering ring entrance.
+| title               = 
+| fullname            = Shocklord
+| nickname            = Shocklord
+| class               = Sports Entertainer
+| auto_state          = 
+| location            = 
+| weapon_types        = 
+| armor_types         = [[Accessory]] / [[Nude]] / [[Shawl]] / [[Mask]] / [[Blouse]] / [[Manly]]
+| skill_types         = [[Powers]]
+| Target_Rate         = 200%
+| Evasion             = 0%
+| Hit_Rate            = 
+| Crit_Chance         = 10%
+| feature1            = 
+| feature2            = 
+| feature3            = 
+| feature4            = 
+| feature5            = 
+| feature6            = 
+| feature7            = 
+| feature8            = 
+| feature9            = 
+| feature10           = 
+| feature11           = 
+| feature12           = 
+}}
+This is a Blurb of the Character
+==Appearance and Personality==
+Description of the character
+
+
+
+
+
+
+
+
+
+
+
+==Battle==
+This is a description of the battle styles of the Party Member
+
+===Skills===
+{| class="PartyTable" border="1" cellpadding="2" cellspacing="0"
+| style="width:20%;" class="Header2 TopLeft" |'''Skill Name'''
+| style="width:55%;" class="Header2" |'''Description'''
+| style="width:15%;" class="Header2" |'''Level Learned'''
+| style="width:10%;" class="Header2 TopRight" |'''MP Cost'''
+|-
+| class="Content Text BottomLeft" |[[Big Shock|Big Shock!]]
+| class="Content Text" |The most electrifying entrance in sports entertainment... But always 100% botched.
+| class="Content" |1
+| class="Content BottomRight" |20
+
+|}
+
+===Statistics===
+Statistics analysis
+
+{| class="PartyTable" border="1" cellpadding="2" cellspacing="0"
+| colspan="10" class="Header1 TopLeft TopRight" |'''Core Statistics'''
+|-
+| width="10%;" class="Header2" |Level
+| width="10%;" class="Header2" |HP
+| width="10%;" class="Header2" |SP
+| width="10%;" class="Header2" |ATK
+| width="10%;" class="Header2" |DEF
+| width="10%;" class="Header2" |SATK
+| width="10%;" class="Header2" |SDEF
+| width="10%;" class="Header2" |AGI
+| width="10%;" class="Header2" |LUCK
+|-
+| class="Content BottomLeft" |6
+| class="Content" |62
+| class="Content" |31
+| class="Content" |28
+| class="Content" |20
+| class="Content" |30
+| class="Content" |32
+| class="Content" |10
+| class="Content BottomRight" |1
+|}
+
+==Battle Quotes==
+{| class="" style="width:100%; vertical-align: top;" border="0" cellpadding="0" cellspacing="0"
+|
+===Win Quotes===
+|
+===Level Quotes===
+|
+===Drop Quotes===
+|-
+| style="vertical-align: top;" |
+* Oh yeah!
+
+| style="vertical-align: top;" |
+* Power up, brother!
+
+| style="vertical-align: top;" |
+* Right on!
+
+|}
+
+==Art==
+<gallery>
+Shocklord_HD.png
+</gallery>
+
+
+
+==Tips==
+
+==Trivia==
+
+{{Party_Members}}
+[[Category:Character]]
+[[Category:Party Member]]

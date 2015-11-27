@@ -1,0 +1,78 @@
+{{Template:Enemy
+| name               = Gary The Hot Soup 
+| image              = File:Battler_sweat.png
+| imagewidth         = 100px
+| gold               = 8
+| battler_hue        = 0
+| exp                = 500
+| battler_name       = sweat
+| hit                =  
+| id                 = 257
+| eva                =  
+| Para_ATK           = 45
+| Para_DEF           = 10
+| Para_SATK          = 10
+| Para_SDEF          = 10
+| Para_AGI           = 10
+| Para_LUCK          = 10
+| Para_HP            = 5000
+| Para_SP            = 0
+| feature1           = [[HIT]] * 95%
+| feature2           = [[EVA]] * 5%
+| feature3           = Attack Element: Physical
+| feature4           = 
+| feature5           = 
+| feature6           = 
+| feature7           = 
+| feature8           = 
+| feature9           = 
+| feature10          = 
+| feature11          = 
+| feature12          = 
+| action1_skill      = [[Steel Chair|Steel Chair]]
+| action1_condition  = Always
+| action1_r          = 5
+| action2_skill      = [[Bottle Throw|Bottle Throw]]
+| action2_condition  = Always
+| action2_r          = 4
+| action3_skill      = [[Gator Clamp|Gator Clamp]]
+| action3_condition  = Always
+| action3_r          = 5
+| action4_skill      = [[Piledriver|Piledriver]]
+| action4_condition  = Always
+| action4_r          = 5
+| action5_skill      = [[Pump Up|Pump Up]]
+| action5_condition  = Always
+| action5_r          = 3
+| action6_skill      = 
+| action6_condition  = 
+| action6_r          = 
+| action7_skill      = 
+| action7_condition  = 
+| action7_r          = 
+| action8_skill      = 
+| action8_condition  = 
+| action8_r          = 
+| action9_skill      = 
+| action9_condition  = 
+| action9_r          = 
+| action10_skill     = 
+| action10_condition = 
+| action10_r         = 
+| action11_skill     = 
+| action11_condition = 
+| action11_r         = 
+| action12_skill     = 
+| action12_condition = 
+| action12_r         = 
+| itemdrop1          = 1/1 chance of [[Fancy Perfume|Fancy Perfume]]
+| itemdrop2          = 
+| itemdrop3          = 
+}}
+
+ 
+==Description==
+==Locations==
+==Notes==
+
+[[Category:Enemies]][[Category:Joyful]][[Category:Painful Enemies]][[Category:LISA:_THE_JOYFUL]]

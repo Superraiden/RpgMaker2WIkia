@@ -1,0 +1,4195 @@
+{
+    "bgm": null,
+    "width": 17,
+    "autoplay_bgs": true,
+    "parallax_show": true,
+    "note": "",
+    "battleback2_name": "",
+    "battleback1_name": "",
+    "parallax_loop_y": false,
+    "tileset_id": 6,
+    "display_name": "",
+    "disable_dashing": true,
+    "scroll_type": 0,
+    "parallax_name": "Dessert2 blur copy",
+    "encounter_step": 30,
+    "data": {
+        "y": 13,
+        "z": 4,
+        "x": 17,
+        "data": [
+            "0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608",
+            "0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608",
+            "0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608",
+            "0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608",
+            "0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608",
+            "0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608",
+            "0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608 0608",
+            "0608 0608 0608 0608 0608 0608 0608 0601 0602 0602 0603 0608 0608 0608 0608 0608 0608",
+            "0608 0608 0608 0608 0608 0608 0608 0609 060a 060a 060b 0608 0608 0608 0608 0608 0608",
+            "0608 0608 0608 0608 0608 0601 0602 0602 0602 0602 0602 0602 0603 0608 0608 0608 0608",
+            "0608 0608 0608 0608 0601 0609 060a 060a 060a 060a 060a 060a 060b 0608 0608 0608 0608",
+            "0602 0602 0602 0602 0602 0602 0602 0602 0602 0602 0602 0602 0602 0602 0603 0608 0608",
+            "060a 060a 060a 060a 060a 060a 060a 060a 060a 060a 060a 060a 060a 060a 060c 0608 0608",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0046 0047 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 01c2 003f 003f 01c3 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0054 0055 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 005c 005d 031c 031d 0000 0000 031c 031d 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0324 0325 0000 01b5 008e 0326 0327 0000 0052 0053 0000",
+            "0000 0000 0000 00c0 00c1 0077 0000 018d 01ac 0095 0096 0097 031c 031d 005a 005b 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0100 0100 0100 0100 0100 0100 0100 0100 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0100 0100 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0100 0100 0100 0400 0400 0100 0100 0100 0100 0100 0100 0100 0100 0100 0100 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000"
+        ],
+        "dim": 3
+    },
+    "parallax_sy": 0,
+    "specify_battleback": false,
+    "bgs": null,
+    "events": {
+        "1": {
+            "y": 9,
+            "id": 1,
+            "pages": [
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": false,
+                        "switch1_id": 7,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": true,
+                    "list": [
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 2,
+                        "tile_id": 0,
+                        "character_name": "",
+                        "pattern": 0
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": false,
+                    "priority_type": 0,
+                    "trigger": 2,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                },
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": true,
+                        "switch1_id": 6,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": true,
+                    "list": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 2,
+                        "tile_id": 0,
+                        "character_name": "",
+                        "pattern": 0
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": false,
+                    "priority_type": 0,
+                    "trigger": 2,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                }
+            ],
+            "x": 6,
+            "name": "EV001"
+        },
+        "2": {
+            "y": 8,
+            "id": 2,
+            "pages": [
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": false,
+                        "switch1_id": 7,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": true,
+                    "list": [
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 2,
+                        "tile_id": 0,
+                        "character_name": "",
+                        "pattern": 0
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": false,
+                    "priority_type": 0,
+                    "trigger": 2,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                },
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": true,
+                        "switch1_id": 6,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": true,
+                    "list": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 2,
+                        "tile_id": 0,
+                        "character_name": "",
+                        "pattern": 0
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": false,
+                    "priority_type": 0,
+                    "trigger": 2,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                }
+            ],
+            "x": 13,
+            "name": "EV002"
+        },
+        "3": {
+            "y": 9,
+            "id": 3,
+            "pages": [
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": false,
+                        "switch1_id": 7,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": true,
+                    "list": [
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 2,
+                        "tile_id": 0,
+                        "character_name": "",
+                        "pattern": 0
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": false,
+                    "priority_type": 0,
+                    "trigger": 2,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                },
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": true,
+                        "switch1_id": 6,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": true,
+                    "list": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 2,
+                        "tile_id": 0,
+                        "character_name": "",
+                        "pattern": 0
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": false,
+                    "priority_type": 0,
+                    "trigger": 2,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                }
+            ],
+            "x": 3,
+            "name": "EV003"
+        },
+        "4": {
+            "y": 8,
+            "id": 4,
+            "pages": [
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": false,
+                        "switch1_id": 7,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": true,
+                    "list": [
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 2,
+                        "tile_id": 0,
+                        "character_name": "",
+                        "pattern": 0
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": false,
+                    "priority_type": 0,
+                    "trigger": 2,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                },
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": true,
+                        "switch1_id": 6,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": true,
+                    "list": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 2,
+                        "tile_id": 0,
+                        "character_name": "",
+                        "pattern": 0
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": false,
+                    "priority_type": 0,
+                    "trigger": 2,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                }
+            ],
+            "x": 4,
+            "name": "EV004"
+        },
+        "5": {
+            "y": 8,
+            "id": 5,
+            "pages": [
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": false,
+                        "switch1_id": 7,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": true,
+                    "list": [
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 2,
+                        "tile_id": 0,
+                        "character_name": "",
+                        "pattern": 0
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": false,
+                    "priority_type": 0,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                },
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": true,
+                        "switch1_id": 6,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": true,
+                    "list": [
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 2,
+                        "tile_id": 0,
+                        "character_name": "",
+                        "pattern": 0
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": false,
+                    "priority_type": 0,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                }
+            ],
+            "x": 5,
+            "name": "EV005"
+        },
+        "6": {
+            "y": 9,
+            "id": 6,
+            "pages": [
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": false,
+                        "switch1_id": 7,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": true,
+                    "list": [
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 2,
+                        "tile_id": 0,
+                        "character_name": "",
+                        "pattern": 0
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": false,
+                    "priority_type": 0,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                },
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": true,
+                        "switch1_id": 6,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": true,
+                    "list": [
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 2,
+                        "tile_id": 0,
+                        "character_name": "",
+                        "pattern": 0
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": false,
+                    "priority_type": 0,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                }
+            ],
+            "x": 4,
+            "name": "EV006"
+        },
+        "7": {
+            "y": 9,
+            "id": 7,
+            "pages": [
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": false,
+                        "switch1_id": 7,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": true,
+                    "list": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 2,
+                        "tile_id": 0,
+                        "character_name": "",
+                        "pattern": 0
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": false,
+                    "priority_type": 0,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                },
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": true,
+                        "switch1_id": 6,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": true,
+                    "list": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 2,
+                        "tile_id": 0,
+                        "character_name": "",
+                        "pattern": 0
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": false,
+                    "priority_type": 0,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                }
+            ],
+            "x": 5,
+            "name": "EV007"
+        },
+        "8": {
+            "y": 10,
+            "id": 8,
+            "pages": [
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": false,
+                        "switch1_id": 7,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": true,
+                    "list": [
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 2,
+                        "tile_id": 0,
+                        "character_name": "",
+                        "pattern": 0
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": false,
+                    "priority_type": 0,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                },
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": true,
+                        "switch1_id": 6,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": true,
+                    "list": [
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 2,
+                        "tile_id": 0,
+                        "character_name": "",
+                        "pattern": 0
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": false,
+                    "priority_type": 0,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                }
+            ],
+            "x": 5,
+            "name": "EV008"
+        },
+        "9": {
+            "y": 10,
+            "id": 9,
+            "pages": [
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": false,
+                        "switch1_id": 7,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": true,
+                    "list": [
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 2
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 2,
+                        "tile_id": 0,
+                        "character_name": "",
+                        "pattern": 0
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": false,
+                    "priority_type": 0,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                },
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": true,
+                        "switch1_id": 6,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": true,
+                    "list": [
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 2,
+                        "tile_id": 0,
+                        "character_name": "",
+                        "pattern": 0
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": false,
+                    "priority_type": 0,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                }
+            ],
+            "x": 4,
+            "name": "EV009"
+        },
+        "10": {
+            "y": 10,
+            "id": 10,
+            "pages": [
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": false,
+                        "switch1_id": 7,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": true,
+                    "list": [
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 0
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 2,
+                        "tile_id": 0,
+                        "character_name": "",
+                        "pattern": 0
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": false,
+                    "priority_type": 0,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                },
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": true,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": false,
+                        "switch1_id": 7,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": true,
+                    "list": [
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 0
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 2,
+                        "tile_id": 0,
+                        "character_name": "",
+                        "pattern": 0
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": false,
+                    "priority_type": 0,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                },
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "B",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": true,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": false,
+                        "switch1_id": 7,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": true,
+                    "list": [
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 0
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 2,
+                        "tile_id": 0,
+                        "character_name": "",
+                        "pattern": 0
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": false,
+                    "priority_type": 0,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                },
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "C",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": true,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": false,
+                        "switch1_id": 7,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": true,
+                    "list": [
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 0
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 2,
+                        "tile_id": 0,
+                        "character_name": "",
+                        "pattern": 0
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": false,
+                    "priority_type": 0,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                },
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "D",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": true,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": false,
+                        "switch1_id": 7,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": true,
+                    "list": [
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 0
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 2,
+                        "tile_id": 0,
+                        "character_name": "",
+                        "pattern": 0
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": false,
+                    "priority_type": 0,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                }
+            ],
+            "x": 10,
+            "name": "EV010"
+        },
+        "11": {
+            "y": 8,
+            "id": 11,
+            "pages": [
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": false,
+                        "switch1_id": 1,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": false,
+                    "list": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 7,
+                        "direction": 4,
+                        "tile_id": 0,
+                        "character_name": "misc1",
+                        "pattern": 1
+                    },
+                    "move_type": 0,
+                    "walk_anime": false,
+                    "direction_fix": true,
+                    "priority_type": 1,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                },
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": true,
+                        "switch1_id": 293,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": true,
+                    "list": [
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 2,
+                        "tile_id": 0,
+                        "character_name": "",
+                        "pattern": 0
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": false,
+                    "priority_type": 0,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                }
+            ],
+            "x": 9,
+            "name": "EV011"
+        },
+        "12": {
+            "y": 10,
+            "id": 12,
+            "pages": [
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": false,
+                        "switch1_id": 1,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": true,
+                    "list": [
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 2,
+                        "tile_id": 0,
+                        "character_name": "",
+                        "pattern": 0
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": false,
+                    "priority_type": 0,
+                    "trigger": 1,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                }
+            ],
+            "x": 0,
+            "name": "EV012"
+        },
+        "13": {
+            "y": 10,
+            "id": 13,
+            "pages": [
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": false,
+                        "switch1_id": 7,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": true,
+                    "list": [
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 2,
+                        "tile_id": 0,
+                        "character_name": "",
+                        "pattern": 0
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": false,
+                    "priority_type": 0,
+                    "trigger": 2,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                },
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": true,
+                        "switch1_id": 6,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": true,
+                    "list": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 1
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 2,
+                        "tile_id": 0,
+                        "character_name": "",
+                        "pattern": 0
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": false,
+                    "priority_type": 0,
+                    "trigger": 2,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                }
+            ],
+            "x": 15,
+            "name": "EV013"
+        }
+    },
+    "autoplay_bgm": true,
+    "parallax_loop_x": false,
+    "height": 13,
+    "encounter_list": [],
+    "parallax_sx": 0
+}

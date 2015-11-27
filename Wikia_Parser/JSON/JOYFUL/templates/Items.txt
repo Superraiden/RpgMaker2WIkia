@@ -1,0 +1,37 @@
+{{Template:Item
+| name       = %(name)s
+| image      = File:%(image)s
+| imagewidth = 100
+| caption    =
+| description  = 
+| name         = %(name)s
+| consumable   = %(consumable)s
+| occasion     = %(occasion)s
+| price        = %(price)s
+| scope        = %(scope)s
+| note         = 
+| speed        = %(speed)s
+| id           = %(id)s
+| features     = 
+| effects      = %(effects)s
+| damage_type  = %(damage_type)s
+| success_rate = %(success_rate)s
+| hit_type     = %(hit_type)s
+| item_type    = %(item_type)s
+| repeats      = %(repeats)s
+| tp_gain      = %(tp_gain)s
+| element_type = %(element_type)s
+| formula      = %(formula)s
+| variance     = %(variance)s
+| critical     = %(critical)s
+}}
+
+==Description==
+%(description)s
+
+==Features==
+==Locations==
+==Notes==
+%(note)s
+
+[[Category:Item]]

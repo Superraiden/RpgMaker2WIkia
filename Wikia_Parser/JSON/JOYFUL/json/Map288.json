@@ -1,0 +1,683 @@
+{
+    "bgm": null,
+    "width": 17,
+    "autoplay_bgs": true,
+    "parallax_show": true,
+    "note": "",
+    "battleback2_name": "",
+    "battleback1_name": "",
+    "parallax_loop_y": false,
+    "tileset_id": 11,
+    "display_name": "",
+    "disable_dashing": true,
+    "scroll_type": 0,
+    "parallax_name": "",
+    "encounter_step": 30,
+    "data": {
+        "y": 13,
+        "z": 4,
+        "x": 17,
+        "data": [
+            "0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600",
+            "0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600",
+            "0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600",
+            "0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600",
+            "0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600",
+            "0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600",
+            "0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600",
+            "0600 0600 0600 0600 0600 063e 0626 0626 0626 0626 0626 063e 0600 0600 0600 0600 0600",
+            "0600 0600 0600 0600 0600 062d 062e 062e 062e 062e 062e 0618 0600 0600 0600 0600 0600",
+            "0600 0600 0600 0600 0600 062d 062e 062e 062e 062e 062e 062f 0600 0600 0600 0600 0600",
+            "0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600",
+            "0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600",
+            "0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128",
+            "0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128",
+            "0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128",
+            "0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128",
+            "0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128",
+            "0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128",
+            "0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128",
+            "0128 0128 0128 0128 0128 02cc 02d8 02d9 02da 02d9 02f1 02ce 0128 0128 0128 0128 0128",
+            "0128 0128 0128 0128 0128 02e8 0000 0000 0000 02e9 0000 02ea 0128 0128 0128 0128 0128",
+            "0128 0128 0128 0128 0128 02f8 00a0 00a1 00a2 00a3 00a4 02fa 0128 0128 0128 0128 0128",
+            "0128 0128 0128 0128 0128 027c 027d 027d 027d 027d 027d 027e 0128 0128 0128 0128 0128",
+            "0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128",
+            "0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128 0128",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 1500 0a00 0a00 0a00 0a00 0a00 1500 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000"
+        ],
+        "dim": 3
+    },
+    "parallax_sy": 0,
+    "specify_battleback": false,
+    "bgs": null,
+    "events": {
+        "1": {
+            "y": 11,
+            "id": 1,
+            "pages": [
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": false,
+                        "switch1_id": 1,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": false,
+                    "list": [
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 4,
+                        "tile_id": 0,
+                        "character_name": "$death",
+                        "pattern": 2
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": true,
+                    "priority_type": 0,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                }
+            ],
+            "x": 6,
+            "name": "EV001"
+        },
+        "2": {
+            "y": 11,
+            "id": 2,
+            "pages": [
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": false,
+                        "switch1_id": 1,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": false,
+                    "list": [
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 4,
+                        "tile_id": 0,
+                        "character_name": "$death",
+                        "pattern": 2
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": true,
+                    "priority_type": 0,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                }
+            ],
+            "x": 8,
+            "name": "EV002"
+        },
+        "3": {
+            "y": 11,
+            "id": 3,
+            "pages": [
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": false,
+                        "switch1_id": 1,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": false,
+                    "list": [
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 4,
+                        "tile_id": 0,
+                        "character_name": "$death",
+                        "pattern": 2
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": true,
+                    "priority_type": 0,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                }
+            ],
+            "x": 10,
+            "name": "EV003"
+        },
+        "4": {
+            "y": 11,
+            "id": 4,
+            "pages": [
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": false,
+                        "switch1_id": 1,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": false,
+                    "list": [
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 4,
+                        "tile_id": 0,
+                        "character_name": "$death",
+                        "pattern": 1
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": true,
+                    "priority_type": 0,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                }
+            ],
+            "x": 9,
+            "name": "EV004"
+        },
+        "5": {
+            "y": 11,
+            "id": 5,
+            "pages": [
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": false,
+                        "switch1_id": 1,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": false,
+                    "list": [
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 4,
+                        "tile_id": 0,
+                        "character_name": "$death",
+                        "pattern": 1
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": true,
+                    "priority_type": 0,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                }
+            ],
+            "x": 7,
+            "name": "EV005"
+        },
+        "6": {
+            "y": 9,
+            "id": 6,
+            "pages": [
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": false,
+                        "switch1_id": 1,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": true,
+                    "list": [
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 8,
+                        "tile_id": 0,
+                        "character_name": "$wrestle2",
+                        "pattern": 1
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": true,
+                    "priority_type": 0,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                }
+            ],
+            "x": 8,
+            "name": "EV006"
+        },
+        "10": {
+            "y": 9,
+            "id": 10,
+            "pages": [
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": false,
+                        "switch1_id": 1,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": false,
+                    "list": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                0,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 0
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 8,
+                        "tile_id": 0,
+                        "character_name": "$wrestle2",
+                        "pattern": 0
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": true,
+                    "priority_type": 1,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                },
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": true,
+                        "switch1_id": 381,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": false,
+                    "list": [
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 2,
+                        "tile_id": 0,
+                        "character_name": "",
+                        "pattern": 0
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": false,
+                    "priority_type": 0,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                }
+            ],
+            "x": 6,
+            "name": "EV010"
+        },
+        "11": {
+            "y": 9,
+            "id": 11,
+            "pages": [
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": false,
+                        "switch1_id": 1,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": false,
+                    "list": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 2,
+                        "tile_id": 0,
+                        "character_name": "",
+                        "pattern": 0
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": true,
+                    "priority_type": 1,
+                    "trigger": 1,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                }
+            ],
+            "x": 12,
+            "name": "EV011"
+        },
+        "12": {
+            "y": 7,
+            "id": 12,
+            "pages": [
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": false,
+                        "switch1_id": 1,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": false,
+                    "list": [
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 2,
+                        "tile_id": 754,
+                        "character_name": "",
+                        "pattern": 0
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": false,
+                    "priority_type": 0,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                }
+            ],
+            "x": 11,
+            "name": "EV012"
+        },
+        "13": {
+            "y": 7,
+            "id": 13,
+            "pages": [
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": false,
+                        "switch1_id": 1,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": false,
+                    "list": [
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 2,
+                        "tile_id": 752,
+                        "character_name": "",
+                        "pattern": 0
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": false,
+                    "priority_type": 0,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                }
+            ],
+            "x": 5,
+            "name": "EV013"
+        }
+    },
+    "autoplay_bgm": true,
+    "parallax_loop_x": true,
+    "height": 13,
+    "encounter_list": [],
+    "parallax_sx": 0
+}

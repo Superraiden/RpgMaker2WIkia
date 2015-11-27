@@ -1,0 +1,921 @@
+{
+    "bgm": null,
+    "width": 30,
+    "autoplay_bgs": true,
+    "parallax_show": false,
+    "note": "",
+    "battleback2_name": "",
+    "battleback1_name": "",
+    "parallax_loop_y": false,
+    "tileset_id": 7,
+    "display_name": "",
+    "disable_dashing": true,
+    "scroll_type": 0,
+    "parallax_name": "",
+    "encounter_step": 30,
+    "data": {
+        "y": 13,
+        "z": 4,
+        "x": 30,
+        "data": [
+            "0000 0000 0000 0000 0000 0000 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0600 0600 0600 0600 0600 0600 0645 0646 0646 0647 0600 0600 0600 0600 0600 0600 0600 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0600 0600 0600 0600 0600 0600 064d 064e 064e 064f 0600 0600 0600 0600 0600 0600 0600 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0600 0600 0600 0600 0600 0600 063e 063e 063e 063e 0600 0600 0600 0600 0600 0600 0600 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028",
+            "0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028",
+            "0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028",
+            "0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028",
+            "0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028",
+            "0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 02f1 0000 0000 0000 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028",
+            "0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 02f9 0000 0000 0000 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028",
+            "0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 01db 01dc 01dc 01dd 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028",
+            "0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028",
+            "0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028",
+            "0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028",
+            "0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028",
+            "0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028 0028",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0200 0200 0200 0200 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000",
+            "0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000"
+        ],
+        "dim": 3
+    },
+    "parallax_sy": 0,
+    "specify_battleback": false,
+    "bgs": null,
+    "events": {
+        "1": {
+            "y": 6,
+            "id": 1,
+            "pages": [
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": false,
+                        "switch1_id": 1,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": true,
+                    "list": [
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 2,
+                        "direction": 8,
+                        "tile_id": 0,
+                        "character_name": "misc1",
+                        "pattern": 0
+                    },
+                    "move_type": 0,
+                    "walk_anime": false,
+                    "direction_fix": true,
+                    "priority_type": 2,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                }
+            ],
+            "x": 13,
+            "name": "EV001"
+        },
+        "3": {
+            "y": 6,
+            "id": 3,
+            "pages": [
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": false,
+                        "switch1_id": 1,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": false,
+                    "list": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                0,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 0
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 2,
+                        "tile_id": 0,
+                        "character_name": "$olan",
+                        "pattern": 2
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": true,
+                    "priority_type": 1,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                },
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": true,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": false,
+                        "switch1_id": 1,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": false,
+                    "list": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 2,
+                        "tile_id": 0,
+                        "character_name": "$olan",
+                        "pattern": 2
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": true,
+                    "priority_type": 1,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                },
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": true,
+                        "switch1_id": 332,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": false,
+                    "list": [
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 2,
+                        "tile_id": 0,
+                        "character_name": "",
+                        "pattern": 0
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": false,
+                    "priority_type": 0,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                },
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": true,
+                        "switch1_id": 333,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": false,
+                    "list": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 0
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 8,
+                        "tile_id": 0,
+                        "character_name": "$olan",
+                        "pattern": 2
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": true,
+                    "priority_type": 1,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                },
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": true,
+                        "switch1_id": 334,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": false,
+                    "list": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 8,
+                        "tile_id": 0,
+                        "character_name": "$olan",
+                        "pattern": 2
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": true,
+                    "priority_type": 1,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                },
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": true,
+                        "switch1_id": 335,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": false,
+                    "list": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 8,
+                        "tile_id": 0,
+                        "character_name": "$olan",
+                        "pattern": 2
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": true,
+                    "priority_type": 1,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                },
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": true,
+                        "switch1_id": 336,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": false,
+                    "list": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 8,
+                        "tile_id": 0,
+                        "character_name": "$olan",
+                        "pattern": 2
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": true,
+                    "priority_type": 1,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                },
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": true,
+                        "switch1_id": 337,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": false,
+                    "list": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                0,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 0
+                        },
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 8,
+                        "tile_id": 0,
+                        "character_name": "$olan",
+                        "pattern": 2
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": true,
+                    "priority_type": 1,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                },
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": true,
+                        "switch1_id": 338,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": false,
+                    "list": [
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 2,
+                        "tile_id": 0,
+                        "character_name": "",
+                        "pattern": 0
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": false,
+                    "priority_type": 0,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                }
+            ],
+            "x": 15,
+            "name": "EV003"
+        },
+        "4": {
+            "y": 6,
+            "id": 4,
+            "pages": [
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": false,
+                        "switch1_id": 1,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": false,
+                    "list": [
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 2,
+                        "tile_id": 0,
+                        "character_name": "",
+                        "pattern": 0
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": false,
+                    "priority_type": 0,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                },
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": true,
+                        "switch1_id": 336,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": false,
+                    "list": [
+                        null,
+                        {
+                            "c": 205,
+                            "p": [
+                                -1,
+                                {
+                                    "skippable": false,
+                                    "repeat": false,
+                                    "list": [
+                                        null,
+                                        null
+                                    ],
+                                    "wait": true
+                                }
+                            ],
+                            "i": 0
+                        },
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 2,
+                        "tile_id": 0,
+                        "character_name": "",
+                        "pattern": 0
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": false,
+                    "priority_type": 0,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                },
+                {
+                    "move_speed": 3,
+                    "condition": {
+                        "self_switch_ch": "A",
+                        "item_id": 1,
+                        "item_valid": false,
+                        "variable_id": 1,
+                        "self_switch_valid": false,
+                        "actor_id": 1,
+                        "switch2_id": 1,
+                        "variable_value": 0,
+                        "switch2_valid": false,
+                        "variable_valid": false,
+                        "switch1_valid": true,
+                        "switch1_id": 337,
+                        "actor_valid": false
+                    },
+                    "step_anime": false,
+                    "through": false,
+                    "list": [
+                        null,
+                        null
+                    ],
+                    "move_frequency": 3,
+                    "graphic": {
+                        "character_index": 0,
+                        "direction": 2,
+                        "tile_id": 0,
+                        "character_name": "",
+                        "pattern": 0
+                    },
+                    "move_type": 0,
+                    "walk_anime": true,
+                    "direction_fix": false,
+                    "priority_type": 0,
+                    "trigger": 0,
+                    "move_route": {
+                        "skippable": false,
+                        "repeat": true,
+                        "list": [
+                            null
+                        ],
+                        "wait": false
+                    }
+                }
+            ],
+            "x": 12,
+            "name": "EV004"
+        }
+    },
+    "autoplay_bgm": true,
+    "parallax_loop_x": false,
+    "height": 13,
+    "encounter_list": [],
+    "parallax_sx": 0
+}

@@ -1,0 +1,115 @@
+{{Template:Party_Member
+| name                = %(name)s
+| image               = File:%(image)s
+| imagewidth          = 100
+| caption             = %(caption)s
+| title               = 
+| fullname            = %(fullname)s
+| nickname            = %(name)s
+| class               = %(class_name)s
+| auto_state          = %(auto_state)s
+| location            = 
+| weapon_types        = %(weapon_types)s
+| armor_types         = %(armor_types)s
+| skill_types         = %(skill_types)s
+| Target_Rate         = %(Target_Rate)s
+| Evasion             = %(Evasion)s
+| Hit_Rate            = %(Hit_Rate)s
+| Crit_Chance         = %(Crit_Chance)s
+| feature1            = %(feature1)s
+| feature2            = %(feature2)s
+| feature3            = %(feature3)s
+| feature4            = %(feature4)s
+| feature5            = %(feature5)s
+| feature6            = %(feature6)s
+| feature7            = %(feature7)s
+| feature8            = %(feature8)s
+| feature9            = %(feature9)s
+| feature10           = %(feature10)s
+| feature11           = %(feature11)s
+| feature12           = %(feature12)s
+}}
+This is a Blurb of the Character
+==Appearance and Personality==
+Description of the character
+
+
+
+
+
+
+
+
+
+
+
+==Battle==
+This is a description of the battle styles of the Party Member
+
+===Skills===
+{| class="PartyTable" border="1" cellpadding="2" cellspacing="0"
+| style="width:20%%;" class="Header2 TopLeft" |'''Skill Name'''
+| style="width:55%%;" class="Header2" |'''Description'''
+| style="width:15%%;" class="Header2" |'''Level Learned'''
+| style="width:10%%;" class="Header2 TopRight" |'''MP Cost'''
+%(skills)s
+|}
+
+===Statistics===
+Statistics analysis
+
+{| class="PartyTable" border="1" cellpadding="2" cellspacing="0"
+| colspan="10" class="Header1 TopLeft TopRight" |'''Core Statistics'''
+|-
+| width="10%%;" class="Header2" |Level
+| width="10%%;" class="Header2" |HP
+| width="10%%;" class="Header2" |SP
+| width="10%%;" class="Header2" |ATK
+| width="10%%;" class="Header2" |DEF
+| width="10%%;" class="Header2" |SATK
+| width="10%%;" class="Header2" |SDEF
+| width="10%%;" class="Header2" |AGI
+| width="10%%;" class="Header2" |LUCK
+|-
+| class="Content BottomLeft" |%(level)s
+| class="Content" |%(HP)s
+| class="Content" |%(SP)s
+| class="Content" |%(ATK)s
+| class="Content" |%(DEF)s
+| class="Content" |%(SATK)s
+| class="Content" |%(SDEF)s
+| class="Content" |%(AGI)s
+| class="Content BottomRight" |%(LUCK)s
+|}
+
+==Battle Quotes==
+{| class="" style="width:100%%; vertical-align: top;" border="0" cellpadding="0" cellspacing="0"
+|
+===Win Quotes===
+|
+===Level Quotes===
+|
+===Drop Quotes===
+|-
+| style="vertical-align: top;" |
+%(win_quotes)s
+| style="vertical-align: top;" |
+%(level_quotes)s
+| style="vertical-align: top;" |
+%(drop_quotes)s
+|}
+
+==Art==
+<gallery>
+%(hd)s
+</gallery>
+
+
+
+==Tips==
+
+==Trivia==
+
+{{Party_Members}}
+[[Category:Character]]
+[[Category:Party Member]]

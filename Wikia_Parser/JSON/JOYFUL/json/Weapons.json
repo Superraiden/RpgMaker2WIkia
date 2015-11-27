@@ -1,0 +1,4559 @@
+[
+    null,
+    {
+        "wtype_id": 13,
+        "note": "",
+        "price": 33,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": -0.1
+            },
+            {
+                "code": 33,
+                "data_id": 0,
+                "value": -5.0
+            },
+            {
+                "code": 32,
+                "data_id": 32,
+                "value": 0.4
+            }
+        ],
+        "etype_id": 0,
+        "id": 1,
+        "params": [
+            0,
+            0,
+            6,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "Spiked Club",
+        "description": "A barbarian classic!",
+        "animation_id": 0,
+        "icon_index": 60
+    },
+    {
+        "wtype_id": 13,
+        "note": "",
+        "price": 21,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": -0.1
+            },
+            {
+                "code": 33,
+                "data_id": 0,
+                "value": -5.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 2,
+        "params": [
+            0,
+            0,
+            4,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "Dry Stick",
+        "description": "Often used to poke at lifeless bodies.",
+        "animation_id": 0,
+        "icon_index": 54
+    },
+    {
+        "wtype_id": 13,
+        "note": "",
+        "price": 45,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": -0.1
+            },
+            {
+                "code": 32,
+                "data_id": 32,
+                "value": 0.5
+            }
+        ],
+        "etype_id": 0,
+        "id": 3,
+        "params": [
+            0,
+            0,
+            20,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "Chopping Axe",
+        "description": "Good for chopping.",
+        "animation_id": 0,
+        "icon_index": 44
+    },
+    {
+        "wtype_id": 13,
+        "note": "",
+        "price": 31,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": -0.1
+            }
+        ],
+        "etype_id": 0,
+        "id": 4,
+        "params": [
+            0,
+            0,
+            15,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "Wooden Bat",
+        "description": "Meant for hitting balls... But you're going to\r\nuse it for violence... Aren't you?",
+        "animation_id": 7,
+        "icon_index": 76
+    },
+    {
+        "wtype_id": 13,
+        "note": "",
+        "price": 41,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": -0.1
+            },
+            {
+                "code": 33,
+                "data_id": 0,
+                "value": -5.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 5,
+        "params": [
+            0,
+            0,
+            19,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "Metal Bat",
+        "description": "Makes a satisfactory noise upon contact\r\nwith a skull.",
+        "animation_id": 7,
+        "icon_index": 28
+    },
+    {
+        "wtype_id": 13,
+        "note": "",
+        "price": 37,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": -0.1
+            },
+            {
+                "code": 22,
+                "data_id": 2,
+                "value": 0.03
+            },
+            {
+                "code": 33,
+                "data_id": 0,
+                "value": 5.0
+            },
+            {
+                "code": 11,
+                "data_id": 3,
+                "value": 1.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 6,
+        "params": [
+            0,
+            0,
+            17,
+            0,
+            0,
+            0,
+            3,
+            0
+        ],
+        "name": "Big Zinger",
+        "description": "This bat swings so fast it sizzles upon contact!\r\nThat's hot baby!",
+        "animation_id": 7,
+        "icon_index": 12
+    },
+    {
+        "wtype_id": 13,
+        "note": "",
+        "price": 46,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": -0.1
+            },
+            {
+                "code": 22,
+                "data_id": 2,
+                "value": 0.03
+            },
+            {
+                "code": 33,
+                "data_id": 0,
+                "value": -5.0
+            },
+            {
+                "code": 32,
+                "data_id": 8,
+                "value": 0.4
+            }
+        ],
+        "etype_id": 0,
+        "id": 7,
+        "params": [
+            0,
+            0,
+            20,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "Head Rocker",
+        "description": "This baby will blast your brain hardcore.\r\nCan cause stunning.",
+        "animation_id": 7,
+        "icon_index": 108
+    },
+    {
+        "wtype_id": 13,
+        "note": "",
+        "price": 65,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": -0.1
+            },
+            {
+                "code": 32,
+                "data_id": 32,
+                "value": 0.6
+            }
+        ],
+        "etype_id": 0,
+        "id": 8,
+        "params": [
+            0,
+            0,
+            24,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "Nail Bat",
+        "description": "Not ideal for major league play.",
+        "animation_id": 7,
+        "icon_index": 124
+    },
+    {
+        "wtype_id": 13,
+        "note": "",
+        "price": 78,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": -0.1
+            },
+            {
+                "code": 22,
+                "data_id": 2,
+                "value": 0.06
+            },
+            {
+                "code": 33,
+                "data_id": 0,
+                "value": -5.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 9,
+        "params": [
+            0,
+            0,
+            30,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "Sluginator",
+        "description": "A cool name for a cool bat.",
+        "animation_id": 7,
+        "icon_index": 92
+    },
+    {
+        "wtype_id": 13,
+        "note": "",
+        "price": 130,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": -0.1
+            },
+            {
+                "code": 22,
+                "data_id": 2,
+                "value": 0.03
+            },
+            {
+                "code": 33,
+                "data_id": 0,
+                "value": -5.0
+            },
+            {
+                "code": 32,
+                "data_id": 41,
+                "value": 0.55
+            }
+        ],
+        "etype_id": 0,
+        "id": 10,
+        "params": [
+            0,
+            0,
+            39,
+            0,
+            0,
+            0,
+            -10,
+            20
+        ],
+        "name": "The Homer",
+        "description": "Belonged to the legendary\r\nBabe Doof...",
+        "animation_id": 7,
+        "icon_index": 140
+    },
+    {
+        "wtype_id": 13,
+        "note": "",
+        "price": 22,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": -0.1
+            },
+            {
+                "code": 31,
+                "data_id": 8,
+                "value": 1.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 11,
+        "params": [
+            0,
+            0,
+            10,
+            0,
+            0,
+            0,
+            4,
+            0
+        ],
+        "name": "Wet Stick",
+        "description": "A damp... Limp... Stick.",
+        "animation_id": 0,
+        "icon_index": 54
+    },
+    {
+        "wtype_id": 2,
+        "note": "",
+        "price": 6,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.04
+            },
+            {
+                "code": 54,
+                "data_id": 1,
+                "value": 0.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 12,
+        "params": [
+            0,
+            0,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "Sweaty Wristbands",
+        "description": "Sweaty from years of balling.",
+        "animation_id": 1,
+        "icon_index": 132
+    },
+    {
+        "wtype_id": 2,
+        "note": "",
+        "price": 44,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.04
+            },
+            {
+                "code": 54,
+                "data_id": 1,
+                "value": 0.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 13,
+        "params": [
+            0,
+            0,
+            5,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "Wool Wristbands",
+        "description": "Itchy to wear. Tight to stare.",
+        "animation_id": 1,
+        "icon_index": 148
+    },
+    {
+        "wtype_id": 2,
+        "note": "",
+        "price": 41,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.04
+            },
+            {
+                "code": 54,
+                "data_id": 1,
+                "value": 0.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 14,
+        "params": [
+            0,
+            0,
+            8,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "Red Armbands",
+        "description": "I don't know why. I don't know how.\r\nI just know it helps your attack.",
+        "animation_id": 1,
+        "icon_index": 52
+    },
+    {
+        "wtype_id": 2,
+        "note": "",
+        "price": 48,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.04
+            },
+            {
+                "code": 54,
+                "data_id": 1,
+                "value": 0.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 15,
+        "params": [
+            0,
+            0,
+            13,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "All-Star Bands",
+        "description": "Wristbands endorsed by McKill Jurdeen.",
+        "animation_id": 1,
+        "icon_index": 164
+    },
+    {
+        "wtype_id": 2,
+        "note": "",
+        "price": 51,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.04
+            },
+            {
+                "code": 54,
+                "data_id": 1,
+                "value": 0.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 16,
+        "params": [
+            0,
+            0,
+            35,
+            0,
+            0,
+            0,
+            -8,
+            0
+        ],
+        "name": "Studded Bands",
+        "description": "Makes you look badass when shaking hands.",
+        "animation_id": 1,
+        "icon_index": 180
+    },
+    {
+        "wtype_id": 2,
+        "note": "",
+        "price": 55,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.04
+            },
+            {
+                "code": 54,
+                "data_id": 1,
+                "value": 0.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 17,
+        "params": [
+            0,
+            0,
+            38,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "Cotton Wristbands",
+        "description": "The cleanest wristbands around.",
+        "animation_id": 1,
+        "icon_index": 196
+    },
+    {
+        "wtype_id": 2,
+        "note": "",
+        "price": 121,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.04
+            },
+            {
+                "code": 54,
+                "data_id": 1,
+                "value": 0.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 18,
+        "params": [
+            0,
+            0,
+            50,
+            0,
+            0,
+            0,
+            5,
+            0
+        ],
+        "name": "Queen Bands",
+        "description": "Wristbands belonging to an underrated female\r\nbasketball player... Sadly her name is unknown.",
+        "animation_id": 1,
+        "icon_index": 212
+    },
+    {
+        "wtype_id": 4,
+        "note": "",
+        "price": 100,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 19,
+        "params": [
+            0,
+            0,
+            10,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "KNIFE----------------------",
+        "description": "Light and easy-to-use short sword.",
+        "animation_id": 7,
+        "icon_index": 147
+    },
+    {
+        "wtype_id": 7,
+        "note": "",
+        "price": 33,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.0
+            },
+            {
+                "code": 13,
+                "data_id": 32,
+                "value": 0.5
+            },
+            {
+                "code": 13,
+                "data_id": 2,
+                "value": 0.5
+            }
+        ],
+        "etype_id": 0,
+        "id": 20,
+        "params": [
+            0,
+            0,
+            23,
+            0,
+            0,
+            0,
+            5,
+            0
+        ],
+        "name": "Rusty Knife",
+        "description": "Don't use this on your dinner,\r\nyou'll get sick. Can cause poison.",
+        "animation_id": 0,
+        "icon_index": 53
+    },
+    {
+        "wtype_id": 7,
+        "note": "",
+        "price": 44,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.0
+            },
+            {
+                "code": 13,
+                "data_id": 32,
+                "value": 0.5
+            }
+        ],
+        "etype_id": 0,
+        "id": 21,
+        "params": [
+            0,
+            0,
+            23,
+            0,
+            0,
+            0,
+            4,
+            0
+        ],
+        "name": "Butter Knife",
+        "description": "Works great for spreading butter \r\non toast.",
+        "animation_id": 0,
+        "icon_index": 53
+    },
+    {
+        "wtype_id": 7,
+        "note": "",
+        "price": 56,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.0
+            },
+            {
+                "code": 13,
+                "data_id": 32,
+                "value": 0.5
+            }
+        ],
+        "etype_id": 0,
+        "id": 22,
+        "params": [
+            0,
+            0,
+            34,
+            0,
+            0,
+            0,
+            6,
+            0
+        ],
+        "name": "Machete",
+        "description": "Once used by the great Dolph Luggage.",
+        "animation_id": 0,
+        "icon_index": 53
+    },
+    {
+        "wtype_id": 7,
+        "note": "",
+        "price": 67,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.0
+            },
+            {
+                "code": 13,
+                "data_id": 32,
+                "value": 0.7
+            }
+        ],
+        "etype_id": 0,
+        "id": 23,
+        "params": [
+            0,
+            0,
+            50,
+            0,
+            0,
+            0,
+            12,
+            0
+        ],
+        "name": "Switchblade",
+        "description": "You'll look like a badass greaser with this.",
+        "animation_id": 0,
+        "icon_index": 53
+    },
+    {
+        "wtype_id": 7,
+        "note": "",
+        "price": 78,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.0
+            },
+            {
+                "code": 13,
+                "data_id": 32,
+                "value": 0.7
+            }
+        ],
+        "etype_id": 0,
+        "id": 24,
+        "params": [
+            0,
+            0,
+            76,
+            0,
+            0,
+            0,
+            12,
+            0
+        ],
+        "name": "Combat Knife",
+        "description": "Designed for combat.",
+        "animation_id": 0,
+        "icon_index": 41
+    },
+    {
+        "wtype_id": 4,
+        "note": "",
+        "price": 88,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.0
+            },
+            {
+                "code": 13,
+                "data_id": 32,
+                "value": 0.5
+            }
+        ],
+        "etype_id": 0,
+        "id": 25,
+        "params": [
+            0,
+            0,
+            22,
+            0,
+            0,
+            0,
+            4,
+            0
+        ],
+        "name": "Eastern Blade",
+        "description": "If things aren't working out,\r\ncommit suicide with this.",
+        "animation_id": 0,
+        "icon_index": 237
+    },
+    {
+        "wtype_id": 5,
+        "note": "",
+        "price": 498,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": -0.08
+            },
+            {
+                "code": 54,
+                "data_id": 1,
+                "value": 0.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 26,
+        "params": [
+            0,
+            0,
+            35,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "Zanbatou",
+        "description": "Excellent sword with destructive power.",
+        "animation_id": 7,
+        "icon_index": 148
+    },
+    {
+        "wtype_id": 5,
+        "note": "",
+        "price": 3000,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": -0.08
+            },
+            {
+                "code": 54,
+                "data_id": 1,
+                "value": 0.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 27,
+        "params": [
+            0,
+            0,
+            55,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "Toratouru",
+        "description": "A short sword tempered with frost.",
+        "animation_id": 7,
+        "icon_index": 148
+    },
+    {
+        "wtype_id": 5,
+        "note": "",
+        "price": 6000,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": -0.08
+            },
+            {
+                "code": 54,
+                "data_id": 1,
+                "value": 0.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 28,
+        "params": [
+            0,
+            0,
+            72,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "Reigin no Tachi",
+        "description": "Magic katana made of the magic mineral.",
+        "animation_id": 7,
+        "icon_index": 148
+    },
+    {
+        "wtype_id": 5,
+        "note": "",
+        "price": 15000,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": -0.08
+            },
+            {
+                "code": 54,
+                "data_id": 1,
+                "value": 0.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 29,
+        "params": [
+            0,
+            0,
+            99,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "Shichishitou",
+        "description": "An ancient sword with hidden power.",
+        "animation_id": 7,
+        "icon_index": 148
+    },
+    {
+        "wtype_id": 5,
+        "note": "",
+        "price": 30000,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": -0.05
+            },
+            {
+                "code": 54,
+                "data_id": 1,
+                "value": 0.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 30,
+        "params": [
+            0,
+            0,
+            128,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "BOWS------------------",
+        "description": "A demonic sword that sucks the life of the wielder.",
+        "animation_id": 7,
+        "icon_index": 148
+    },
+    {
+        "wtype_id": 6,
+        "note": "",
+        "price": 8,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.0
+            },
+            {
+                "code": 54,
+                "data_id": 1,
+                "value": 0.0
+            },
+            {
+                "code": 22,
+                "data_id": 2,
+                "value": 0.03
+            },
+            {
+                "code": 33,
+                "data_id": 0,
+                "value": 5.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 31,
+        "params": [
+            0,
+            0,
+            7,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "Wooden Bow",
+        "description": "Nothing special about this bow.",
+        "animation_id": 13,
+        "icon_index": 129
+    },
+    {
+        "wtype_id": 6,
+        "note": "",
+        "price": 30,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.0
+            },
+            {
+                "code": 54,
+                "data_id": 1,
+                "value": 0.0
+            },
+            {
+                "code": 22,
+                "data_id": 2,
+                "value": 0.03
+            },
+            {
+                "code": 33,
+                "data_id": 0,
+                "value": 5.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 32,
+        "params": [
+            0,
+            0,
+            14,
+            0,
+            0,
+            0,
+            4,
+            0
+        ],
+        "name": "Longbow",
+        "description": "This bow provides greater range.",
+        "animation_id": 13,
+        "icon_index": 145
+    },
+    {
+        "wtype_id": 6,
+        "note": "",
+        "price": 34,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.0
+            },
+            {
+                "code": 54,
+                "data_id": 1,
+                "value": 0.0
+            },
+            {
+                "code": 22,
+                "data_id": 2,
+                "value": 0.03
+            },
+            {
+                "code": 33,
+                "data_id": 0,
+                "value": 5.0
+            },
+            {
+                "code": 31,
+                "data_id": 14,
+                "value": 1.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 33,
+        "params": [
+            0,
+            0,
+            18,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "Hunting Bow",
+        "description": "Designed specifically to end animal life.",
+        "animation_id": 13,
+        "icon_index": 49
+    },
+    {
+        "wtype_id": 6,
+        "note": "",
+        "price": 48,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.0
+            },
+            {
+                "code": 54,
+                "data_id": 1,
+                "value": 0.0
+            },
+            {
+                "code": 22,
+                "data_id": 2,
+                "value": 0.03
+            },
+            {
+                "code": 33,
+                "data_id": 0,
+                "value": 5.0
+            },
+            {
+                "code": 32,
+                "data_id": 3,
+                "value": 0.33
+            }
+        ],
+        "etype_id": 0,
+        "id": 34,
+        "params": [
+            0,
+            0,
+            23,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "Smoky Bow",
+        "description": "This bow is so dirty, it causes blindness.",
+        "animation_id": 13,
+        "icon_index": 161
+    },
+    {
+        "wtype_id": 6,
+        "note": "",
+        "price": 51,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.0
+            },
+            {
+                "code": 54,
+                "data_id": 1,
+                "value": 0.0
+            },
+            {
+                "code": 22,
+                "data_id": 2,
+                "value": 0.03
+            },
+            {
+                "code": 33,
+                "data_id": 0,
+                "value": 5.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 35,
+        "params": [
+            0,
+            0,
+            31,
+            0,
+            0,
+            0,
+            0,
+            30
+        ],
+        "name": "Gwyn's Bow",
+        "description": "Holding this feels like the body of a woman.",
+        "animation_id": 13,
+        "icon_index": 177
+    },
+    {
+        "wtype_id": 6,
+        "note": "",
+        "price": 56,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.0
+            },
+            {
+                "code": 54,
+                "data_id": 1,
+                "value": 0.0
+            },
+            {
+                "code": 22,
+                "data_id": 2,
+                "value": 0.03
+            },
+            {
+                "code": 33,
+                "data_id": 0,
+                "value": 5.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 36,
+        "params": [
+            0,
+            0,
+            36,
+            0,
+            0,
+            0,
+            7,
+            0
+        ],
+        "name": "Bone Bow",
+        "description": "A bow made from the rib of a jaguar.",
+        "animation_id": 13,
+        "icon_index": 193
+    },
+    {
+        "wtype_id": 6,
+        "note": "",
+        "price": 66,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.0
+            },
+            {
+                "code": 54,
+                "data_id": 1,
+                "value": 0.0
+            },
+            {
+                "code": 22,
+                "data_id": 2,
+                "value": 0.03
+            },
+            {
+                "code": 33,
+                "data_id": 0,
+                "value": 5.0
+            },
+            {
+                "code": 32,
+                "data_id": 32,
+                "value": 0.33
+            }
+        ],
+        "etype_id": 0,
+        "id": 37,
+        "params": [
+            0,
+            0,
+            40,
+            0,
+            0,
+            0,
+            7,
+            0
+        ],
+        "name": "Blood Bow",
+        "description": "The bowstring is coated in human blood.\r\nThat's very cool.",
+        "animation_id": 13,
+        "icon_index": 209
+    },
+    {
+        "wtype_id": 6,
+        "note": "",
+        "price": 81,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.0
+            },
+            {
+                "code": 54,
+                "data_id": 1,
+                "value": 0.0
+            },
+            {
+                "code": 33,
+                "data_id": 0,
+                "value": 5.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 38,
+        "params": [
+            0,
+            0,
+            45,
+            0,
+            0,
+            0,
+            7,
+            0
+        ],
+        "name": "Christmas Day",
+        "description": "A seasonal bow... Why anyone would make a\r\nweapon designed for Christmas is beyond me.",
+        "animation_id": 13,
+        "icon_index": 225
+    },
+    {
+        "wtype_id": 6,
+        "note": "",
+        "price": 111,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.0
+            },
+            {
+                "code": 54,
+                "data_id": 1,
+                "value": 0.0
+            },
+            {
+                "code": 22,
+                "data_id": 2,
+                "value": 0.06
+            },
+            {
+                "code": 33,
+                "data_id": 0,
+                "value": 5.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 39,
+        "params": [
+            0,
+            0,
+            60,
+            0,
+            0,
+            0,
+            21,
+            -5
+        ],
+        "name": "Martlo Bow",
+        "description": "This bow could only be obtained from the\r\nMartlo Cigarette Catalogue for 1,000 points.",
+        "animation_id": 13,
+        "icon_index": 241
+    },
+    {
+        "wtype_id": 6,
+        "note": "",
+        "price": 111,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.0
+            },
+            {
+                "code": 54,
+                "data_id": 1,
+                "value": 0.0
+            },
+            {
+                "code": 22,
+                "data_id": 2,
+                "value": 0.06
+            },
+            {
+                "code": 33,
+                "data_id": 0,
+                "value": 5.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 40,
+        "params": [
+            0,
+            0,
+            60,
+            0,
+            0,
+            0,
+            21,
+            -5
+        ],
+        "name": "Martlo Bow",
+        "description": "This bow could only be obtained from the\r\nMartlo Cigarette Catalogue for 1,000 points.",
+        "animation_id": 13,
+        "icon_index": 241
+    },
+    {
+        "wtype_id": 1,
+        "note": "",
+        "price": 22,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.04
+            },
+            {
+                "code": 22,
+                "data_id": 2,
+                "value": 0.07
+            },
+            {
+                "code": 22,
+                "data_id": 1,
+                "value": 0.07
+            }
+        ],
+        "etype_id": 0,
+        "id": 41,
+        "params": [
+            0,
+            0,
+            13,
+            0,
+            0,
+            0,
+            5,
+            0
+        ],
+        "name": "Broken Boomerang",
+        "description": "This one doesn't come back...",
+        "animation_id": 7,
+        "icon_index": 48
+    },
+    {
+        "wtype_id": 1,
+        "note": "",
+        "price": 33,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.04
+            },
+            {
+                "code": 22,
+                "data_id": 1,
+                "value": 0.07
+            }
+        ],
+        "etype_id": 0,
+        "id": 42,
+        "params": [
+            0,
+            0,
+            17,
+            0,
+            0,
+            0,
+            7,
+            0
+        ],
+        "name": "Wooden Boomerang",
+        "description": "Nothing special about this rang.",
+        "animation_id": 7,
+        "icon_index": 48
+    },
+    {
+        "wtype_id": 8,
+        "note": "",
+        "price": 120,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 43,
+        "params": [
+            0,
+            0,
+            8,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "Spiked Bat",
+        "description": "Not really used for regulation baseball.",
+        "animation_id": 19,
+        "icon_index": 54
+    },
+    {
+        "wtype_id": 1,
+        "note": "",
+        "price": 50,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.04
+            },
+            {
+                "code": 22,
+                "data_id": 2,
+                "value": 0.07
+            },
+            {
+                "code": 22,
+                "data_id": 1,
+                "value": 0.07
+            }
+        ],
+        "etype_id": 0,
+        "id": 44,
+        "params": [
+            0,
+            0,
+            20,
+            0,
+            0,
+            0,
+            14,
+            0
+        ],
+        "name": "Decent Boomerang",
+        "description": "Alligator Diddly's old rang.",
+        "animation_id": 7,
+        "icon_index": 48
+    },
+    {
+        "wtype_id": 8,
+        "note": "",
+        "price": 3000,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 45,
+        "params": [
+            0,
+            0,
+            26,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "War Hammer",
+        "description": "A steel hammer made for battle.",
+        "animation_id": 19,
+        "icon_index": 151
+    },
+    {
+        "wtype_id": 8,
+        "note": "",
+        "price": 6000,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 46,
+        "params": [
+            0,
+            0,
+            36,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "Mithril Mace",
+        "description": "Mithril mace made of the magic mineral.",
+        "animation_id": 19,
+        "icon_index": 151
+    },
+    {
+        "wtype_id": 8,
+        "note": "",
+        "price": 15000,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 47,
+        "params": [
+            0,
+            0,
+            45,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "Ground Breaker",
+        "description": "The earth can crack from this magical hammer.",
+        "animation_id": 19,
+        "icon_index": 151
+    },
+    {
+        "wtype_id": 8,
+        "note": "",
+        "price": 30000,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 48,
+        "params": [
+            0,
+            0,
+            65,
+            0,
+            10,
+            0,
+            0,
+            0
+        ],
+        "name": "Mourner Hammer ",
+        "description": "The \"Crusher\" is what the God of War nicknamed this.",
+        "animation_id": 19,
+        "icon_index": 151
+    },
+    {
+        "wtype_id": 9,
+        "note": "",
+        "price": 100,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.0
+            },
+            {
+                "code": 54,
+                "data_id": 1,
+                "value": 0.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 49,
+        "params": [
+            0,
+            0,
+            1,
+            0,
+            3,
+            0,
+            0,
+            0
+        ],
+        "name": "Wood Staff",
+        "description": "Sturdy staff made of oak.",
+        "animation_id": 19,
+        "icon_index": 55
+    },
+    {
+        "wtype_id": 9,
+        "note": "",
+        "price": 500,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.0
+            },
+            {
+                "code": 54,
+                "data_id": 1,
+                "value": 0.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 50,
+        "params": [
+            0,
+            0,
+            6,
+            0,
+            5,
+            0,
+            0,
+            0
+        ],
+        "name": "Magic Staff",
+        "description": "An orb attached to this staff helps with casting magic.",
+        "animation_id": 19,
+        "icon_index": 152
+    },
+    {
+        "wtype_id": 9,
+        "note": "",
+        "price": 3000,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.0
+            },
+            {
+                "code": 54,
+                "data_id": 1,
+                "value": 0.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 51,
+        "params": [
+            0,
+            0,
+            14,
+            0,
+            8,
+            0,
+            0,
+            0
+        ],
+        "name": "Force Wand",
+        "description": "Silver amplifies the magic cast from this wand.",
+        "animation_id": 19,
+        "icon_index": 152
+    },
+    {
+        "wtype_id": 9,
+        "note": "",
+        "price": 6000,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.0
+            },
+            {
+                "code": 54,
+                "data_id": 1,
+                "value": 0.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 52,
+        "params": [
+            0,
+            0,
+            22,
+            0,
+            12,
+            5,
+            0,
+            0
+        ],
+        "name": "Mithril Rod",
+        "description": "Mithril rod made of the magic mineral.",
+        "animation_id": 19,
+        "icon_index": 152
+    },
+    {
+        "wtype_id": 9,
+        "note": "",
+        "price": 15000,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.0
+            },
+            {
+                "code": 54,
+                "data_id": 1,
+                "value": 0.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 53,
+        "params": [
+            0,
+            0,
+            30,
+            0,
+            15,
+            8,
+            0,
+            0
+        ],
+        "name": "Spirit Staff",
+        "description": "A cane made from an old tree of mistletoe.",
+        "animation_id": 19,
+        "icon_index": 152
+    },
+    {
+        "wtype_id": 9,
+        "note": "",
+        "price": 30000,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.0
+            },
+            {
+                "code": 54,
+                "data_id": 1,
+                "value": 0.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 54,
+        "params": [
+            0,
+            0,
+            40,
+            0,
+            20,
+            10,
+            0,
+            0
+        ],
+        "name": "Magic Wand Azert",
+        "description": "A magic wand embedded with the Philosopher's Stone.",
+        "animation_id": 19,
+        "icon_index": 152
+    },
+    {
+        "wtype_id": 10,
+        "note": "",
+        "price": 100,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": -0.05
+            },
+            {
+                "code": 54,
+                "data_id": 1,
+                "value": 0.0
+            },
+            {
+                "code": 33,
+                "data_id": 0,
+                "value": -5.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 55,
+        "params": [
+            0,
+            0,
+            16,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "Flint Lock",
+        "description": "Antique pistol with a funky brace.",
+        "animation_id": 91,
+        "icon_index": 153
+    },
+    {
+        "wtype_id": 10,
+        "note": "",
+        "price": 500,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": -0.05
+            },
+            {
+                "code": 54,
+                "data_id": 1,
+                "value": 0.0
+            },
+            {
+                "code": 33,
+                "data_id": 0,
+                "value": -5.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 56,
+        "params": [
+            0,
+            0,
+            30,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "Musket",
+        "description": "A gun used by musketeers.",
+        "animation_id": 91,
+        "icon_index": 153
+    },
+    {
+        "wtype_id": 10,
+        "note": "",
+        "price": 3000,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": -0.05
+            },
+            {
+                "code": 54,
+                "data_id": 1,
+                "value": 0.0
+            },
+            {
+                "code": 33,
+                "data_id": 0,
+                "value": -5.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 57,
+        "params": [
+            0,
+            0,
+            48,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "Dragoon",
+        "description": "Used by the cavalry.",
+        "animation_id": 91,
+        "icon_index": 153
+    },
+    {
+        "wtype_id": 10,
+        "note": "",
+        "price": 6000,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": -0.05
+            },
+            {
+                "code": 54,
+                "data_id": 1,
+                "value": 0.0
+            },
+            {
+                "code": 33,
+                "data_id": 0,
+                "value": -5.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 58,
+        "params": [
+            0,
+            0,
+            66,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "GUN--------------------------",
+        "description": "Mithril gun made of the magic mineral.",
+        "animation_id": 91,
+        "icon_index": 153
+    },
+    {
+        "wtype_id": 11,
+        "note": "",
+        "price": 22,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": -0.05
+            },
+            {
+                "code": 33,
+                "data_id": 0,
+                "value": -5.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 59,
+        "params": [
+            0,
+            0,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "Revolver",
+        "description": "Bullets usually put ends to lives.",
+        "animation_id": 0,
+        "icon_index": 131
+    },
+    {
+        "wtype_id": 10,
+        "note": "",
+        "price": 34,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": -0.05
+            },
+            {
+                "code": 33,
+                "data_id": 0,
+                "value": -5.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 60,
+        "params": [
+            0,
+            0,
+            9,
+            0,
+            5,
+            0,
+            0,
+            0
+        ],
+        "name": "Pea Shooter",
+        "description": "These peas are non-nutritious.",
+        "animation_id": 91,
+        "icon_index": 179
+    },
+    {
+        "wtype_id": 10,
+        "note": "",
+        "price": 45,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.0
+            },
+            {
+                "code": 54,
+                "data_id": 1,
+                "value": 0.0
+            },
+            {
+                "code": 22,
+                "data_id": 2,
+                "value": 0.03
+            },
+            {
+                "code": 33,
+                "data_id": 0,
+                "value": 5.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 61,
+        "params": [
+            0,
+            0,
+            13,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "Show Stopper",
+        "description": "You'll be dead at the end of this show.",
+        "animation_id": 0,
+        "icon_index": 147
+    },
+    {
+        "wtype_id": 11,
+        "note": "",
+        "price": 56,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": -0.05
+            },
+            {
+                "code": 33,
+                "data_id": 0,
+                "value": -5.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 62,
+        "params": [
+            0,
+            0,
+            20,
+            0,
+            5,
+            0,
+            0,
+            0
+        ],
+        "name": "Nosey",
+        "description": "You got a problem? I have a problem solver, \r\nhis name is long nose revolver.",
+        "animation_id": 91,
+        "icon_index": 163
+    },
+    {
+        "wtype_id": 10,
+        "note": "",
+        "price": 67,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 63,
+        "params": [
+            0,
+            0,
+            23,
+            0,
+            10,
+            0,
+            0,
+            0
+        ],
+        "name": "Peacemaker",
+        "description": "Peace is absolutley not what this gun makes.",
+        "animation_id": 0,
+        "icon_index": 211
+    },
+    {
+        "wtype_id": 11,
+        "note": "",
+        "price": 78,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 64,
+        "params": [
+            0,
+            0,
+            28,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "The Ruler",
+        "description": "You can measure a man's worth by the\r\nsize of his gun.",
+        "animation_id": 0,
+        "icon_index": 195
+    },
+    {
+        "wtype_id": 11,
+        "note": "",
+        "price": 123,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": -0.05
+            },
+            {
+                "code": 54,
+                "data_id": 1,
+                "value": 0.0
+            },
+            {
+                "code": 33,
+                "data_id": 0,
+                "value": -5.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 65,
+        "params": [
+            0,
+            0,
+            33,
+            0,
+            0,
+            0,
+            0,
+            33
+        ],
+        "name": "Sunsetter",
+        "description": "The gold standard of fancy weaponry.",
+        "animation_id": 0,
+        "icon_index": 227
+    },
+    {
+        "wtype_id": 10,
+        "note": "",
+        "price": 144,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 66,
+        "params": [
+            0,
+            0,
+            45,
+            0,
+            0,
+            0,
+            16,
+            0
+        ],
+        "name": "Snubby",
+        "description": "It's not the size that counts, it's the contents.",
+        "animation_id": 0,
+        "icon_index": 243
+    },
+    {
+        "wtype_id": 0,
+        "note": "",
+        "price": 0,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 67,
+        "params": [
+            0,
+            0,
+            89,
+            0,
+            0,
+            0,
+            21,
+            0
+        ],
+        "name": "UZI----------------------------",
+        "description": "It's not the size that counts, it's the contents.",
+        "animation_id": 0,
+        "icon_index": 243
+    },
+    {
+        "wtype_id": 12,
+        "note": "",
+        "price": 33,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": -0.05
+            }
+        ],
+        "etype_id": 0,
+        "id": 68,
+        "params": [
+            0,
+            0,
+            6,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "Suzi",
+        "description": "A cute little machine gun.",
+        "animation_id": 0,
+        "icon_index": 130
+    },
+    {
+        "wtype_id": 12,
+        "note": "",
+        "price": 44,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": -0.1
+            },
+            {
+                "code": 33,
+                "data_id": 0,
+                "value": -5.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 69,
+        "params": [
+            0,
+            0,
+            12,
+            0,
+            5,
+            0,
+            0,
+            0
+        ],
+        "name": "Potato Peeler",
+        "description": "Not popular in kitchens.",
+        "animation_id": 91,
+        "icon_index": 146
+    },
+    {
+        "wtype_id": 12,
+        "note": "",
+        "price": 55,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": -0.1
+            },
+            {
+                "code": 33,
+                "data_id": 0,
+                "value": -5.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 70,
+        "params": [
+            0,
+            0,
+            19,
+            0,
+            5,
+            0,
+            0,
+            0
+        ],
+        "name": "Pissler",
+        "description": "This thing just pisses bullets.",
+        "animation_id": 91,
+        "icon_index": 162
+    },
+    {
+        "wtype_id": 12,
+        "note": "",
+        "price": 67,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 33,
+                "data_id": 0,
+                "value": -5.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 71,
+        "params": [
+            0,
+            0,
+            25,
+            0,
+            5,
+            0,
+            0,
+            -20
+        ],
+        "name": "Luckluster",
+        "description": "The black cat of guns.",
+        "animation_id": 91,
+        "icon_index": 178
+    },
+    {
+        "wtype_id": 12,
+        "note": "",
+        "price": 82,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 33,
+                "data_id": 0,
+                "value": -5.0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": -0.1
+            }
+        ],
+        "etype_id": 0,
+        "id": 72,
+        "params": [
+            0,
+            0,
+            34,
+            0,
+            5,
+            0,
+            0,
+            0
+        ],
+        "name": "Tuesday Morning",
+        "description": "A high powered sub machine gun.",
+        "animation_id": 91,
+        "icon_index": 194
+    },
+    {
+        "wtype_id": 12,
+        "note": "",
+        "price": 111,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 73,
+        "params": [
+            0,
+            0,
+            45,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "Crimson Tide",
+        "description": "Parting your head like the sea.",
+        "animation_id": 0,
+        "icon_index": 210
+    },
+    {
+        "wtype_id": 12,
+        "note": "",
+        "price": 130,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 74,
+        "params": [
+            0,
+            0,
+            52,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "Grenada 9",
+        "description": "An oddly colored gun.",
+        "animation_id": 0,
+        "icon_index": 226
+    },
+    {
+        "wtype_id": 12,
+        "note": "",
+        "price": 140,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 75,
+        "params": [
+            0,
+            0,
+            70,
+            0,
+            0,
+            0,
+            11,
+            0
+        ],
+        "name": "Dandy Boy",
+        "description": "A powerful gun... For weak men.",
+        "animation_id": 0,
+        "icon_index": 242
+    },
+    {
+        "wtype_id": 5,
+        "note": "",
+        "price": 30000,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": -0.05
+            },
+            {
+                "code": 54,
+                "data_id": 1,
+                "value": 0.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 76,
+        "params": [
+            0,
+            0,
+            128,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "WRISTBANDS MORE------------------",
+        "description": "A demonic sword that sucks the life of the wielder.",
+        "animation_id": 7,
+        "icon_index": 148
+    },
+    {
+        "wtype_id": 2,
+        "note": "",
+        "price": 5,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.04
+            },
+            {
+                "code": 54,
+                "data_id": 1,
+                "value": 0.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 77,
+        "params": [
+            0,
+            0,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "Hint Lord Sweatbands",
+        "description": "Terry's childhood sweatbands.",
+        "animation_id": 1,
+        "icon_index": 52
+    },
+    {
+        "wtype_id": 0,
+        "note": "",
+        "price": 0,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 78,
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "",
+        "description": "",
+        "animation_id": 0,
+        "icon_index": 0
+    },
+    {
+        "wtype_id": 0,
+        "note": "",
+        "price": 0,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 79,
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "",
+        "description": "",
+        "animation_id": 0,
+        "icon_index": 0
+    },
+    {
+        "wtype_id": 0,
+        "note": "",
+        "price": 0,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 80,
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "",
+        "description": "",
+        "animation_id": 0,
+        "icon_index": 0
+    },
+    {
+        "wtype_id": 0,
+        "note": "",
+        "price": 0,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 81,
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "",
+        "description": "",
+        "animation_id": 0,
+        "icon_index": 0
+    },
+    {
+        "wtype_id": 0,
+        "note": "",
+        "price": 0,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 82,
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "",
+        "description": "",
+        "animation_id": 0,
+        "icon_index": 0
+    },
+    {
+        "wtype_id": 0,
+        "note": "",
+        "price": 0,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 83,
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "",
+        "description": "",
+        "animation_id": 0,
+        "icon_index": 0
+    },
+    {
+        "wtype_id": 0,
+        "note": "",
+        "price": 0,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 84,
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "",
+        "description": "",
+        "animation_id": 0,
+        "icon_index": 0
+    },
+    {
+        "wtype_id": 0,
+        "note": "",
+        "price": 0,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 85,
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "",
+        "description": "",
+        "animation_id": 0,
+        "icon_index": 0
+    },
+    {
+        "wtype_id": 0,
+        "note": "",
+        "price": 0,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 86,
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "",
+        "description": "",
+        "animation_id": 0,
+        "icon_index": 0
+    },
+    {
+        "wtype_id": 0,
+        "note": "",
+        "price": 0,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 87,
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "GUITARS---------------------",
+        "description": "",
+        "animation_id": 0,
+        "icon_index": 97
+    },
+    {
+        "wtype_id": 14,
+        "note": "",
+        "price": 23,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 88,
+        "params": [
+            5,
+            12,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "Guitar",
+        "description": "A one stringed guitar.",
+        "animation_id": 0,
+        "icon_index": 97
+    },
+    {
+        "wtype_id": 0,
+        "note": "",
+        "price": 0,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 89,
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "",
+        "description": "",
+        "animation_id": 0,
+        "icon_index": 0
+    },
+    {
+        "wtype_id": 0,
+        "note": "",
+        "price": 0,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 90,
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "",
+        "description": "",
+        "animation_id": 0,
+        "icon_index": 0
+    },
+    {
+        "wtype_id": 0,
+        "note": "",
+        "price": 0,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 91,
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "",
+        "description": "",
+        "animation_id": 0,
+        "icon_index": 0
+    },
+    {
+        "wtype_id": 0,
+        "note": "",
+        "price": 0,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 92,
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "",
+        "description": "",
+        "animation_id": 0,
+        "icon_index": 0
+    },
+    {
+        "wtype_id": 0,
+        "note": "",
+        "price": 0,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 93,
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "",
+        "description": "",
+        "animation_id": 0,
+        "icon_index": 0
+    },
+    {
+        "wtype_id": 0,
+        "note": "",
+        "price": 0,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 94,
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "",
+        "description": "",
+        "animation_id": 0,
+        "icon_index": 0
+    },
+    {
+        "wtype_id": 0,
+        "note": "",
+        "price": 0,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 95,
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "",
+        "description": "",
+        "animation_id": 0,
+        "icon_index": 0
+    },
+    {
+        "wtype_id": 0,
+        "note": "",
+        "price": 0,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 96,
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "SWORD-------------------------",
+        "description": "",
+        "animation_id": 0,
+        "icon_index": 0
+    },
+    {
+        "wtype_id": 5,
+        "note": "",
+        "price": 0,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.0
+            },
+            {
+                "code": 13,
+                "data_id": 32,
+                "value": 0.5
+            }
+        ],
+        "etype_id": 0,
+        "id": 97,
+        "params": [
+            0,
+            0,
+            30,
+            0,
+            17,
+            0,
+            4,
+            0
+        ],
+        "name": "Sword Bundle",
+        "description": "A collection of katanas. Crisp refuses to\r\nlet them go.",
+        "animation_id": 0,
+        "icon_index": 237
+    },
+    {
+        "wtype_id": 4,
+        "note": "",
+        "price": 0,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.0
+            },
+            {
+                "code": 13,
+                "data_id": 32,
+                "value": 0.5
+            }
+        ],
+        "etype_id": 0,
+        "id": 98,
+        "params": [
+            0,
+            0,
+            14,
+            0,
+            0,
+            0,
+            4,
+            0
+        ],
+        "name": "Sabre",
+        "description": "Sabre means \"to cut.\"",
+        "animation_id": 0,
+        "icon_index": 237
+    },
+    {
+        "wtype_id": 0,
+        "note": "",
+        "price": 0,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 99,
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "",
+        "description": "",
+        "animation_id": 0,
+        "icon_index": 0
+    },
+    {
+        "wtype_id": 0,
+        "note": "",
+        "price": 0,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 100,
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "",
+        "description": "",
+        "animation_id": 0,
+        "icon_index": 0
+    },
+    {
+        "wtype_id": 0,
+        "note": "",
+        "price": 0,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 101,
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "",
+        "description": "",
+        "animation_id": 0,
+        "icon_index": 0
+    },
+    {
+        "wtype_id": 0,
+        "note": "",
+        "price": 0,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 102,
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "",
+        "description": "",
+        "animation_id": 0,
+        "icon_index": 0
+    },
+    {
+        "wtype_id": 0,
+        "note": "",
+        "price": 0,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 103,
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "",
+        "description": "",
+        "animation_id": 0,
+        "icon_index": 0
+    },
+    {
+        "wtype_id": 0,
+        "note": "",
+        "price": 0,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 104,
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "",
+        "description": "",
+        "animation_id": 0,
+        "icon_index": 0
+    },
+    {
+        "wtype_id": 0,
+        "note": "",
+        "price": 0,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 105,
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "",
+        "description": "",
+        "animation_id": 0,
+        "icon_index": 0
+    },
+    {
+        "wtype_id": 0,
+        "note": "",
+        "price": 0,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 106,
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "",
+        "description": "",
+        "animation_id": 0,
+        "icon_index": 0
+    },
+    {
+        "wtype_id": 0,
+        "note": "",
+        "price": 0,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 107,
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "SPEAR-------------------------",
+        "description": "",
+        "animation_id": 0,
+        "icon_index": 0
+    },
+    {
+        "wtype_id": 3,
+        "note": "",
+        "price": 44,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.0
+            },
+            {
+                "code": 13,
+                "data_id": 32,
+                "value": 0.5
+            }
+        ],
+        "etype_id": 0,
+        "id": 108,
+        "params": [
+            0,
+            0,
+            4,
+            0,
+            0,
+            0,
+            4,
+            0
+        ],
+        "name": "Wushu Spear",
+        "description": "A dull tipped spear with a flexible shaft.\r\nIt's poorly made.",
+        "animation_id": 0,
+        "icon_index": 39
+    },
+    {
+        "wtype_id": 3,
+        "note": "",
+        "price": 87,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.0
+            },
+            {
+                "code": 13,
+                "data_id": 32,
+                "value": 0.5
+            }
+        ],
+        "etype_id": 0,
+        "id": 109,
+        "params": [
+            0,
+            3,
+            8,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "Sharpened Curtain Rod",
+        "description": "Somebody's home is really missing this...",
+        "animation_id": 0,
+        "icon_index": 38
+    },
+    {
+        "wtype_id": 3,
+        "note": "",
+        "price": 132,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.0
+            },
+            {
+                "code": 13,
+                "data_id": 32,
+                "value": 0.5
+            }
+        ],
+        "etype_id": 0,
+        "id": 110,
+        "params": [
+            0,
+            7,
+            13,
+            0,
+            0,
+            0,
+            3,
+            0
+        ],
+        "name": "Mighty Spear",
+        "description": "No jokes... It's a good spear.",
+        "animation_id": 0,
+        "icon_index": 39
+    },
+    {
+        "wtype_id": 0,
+        "note": "",
+        "price": 0,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 111,
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "",
+        "description": "",
+        "animation_id": 0,
+        "icon_index": 0
+    },
+    {
+        "wtype_id": 0,
+        "note": "",
+        "price": 0,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 112,
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "",
+        "description": "",
+        "animation_id": 0,
+        "icon_index": 0
+    },
+    {
+        "wtype_id": 0,
+        "note": "",
+        "price": 0,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 113,
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "GIMMICKS-----------------",
+        "description": "",
+        "animation_id": 0,
+        "icon_index": 0
+    },
+    {
+        "wtype_id": 15,
+        "note": "",
+        "price": 200,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 114,
+        "params": [
+            0,
+            7,
+            0,
+            0,
+            15,
+            0,
+            0,
+            0
+        ],
+        "name": "Playing Cards",
+        "description": "A great resource in the apocalypse.",
+        "animation_id": 0,
+        "icon_index": 207
+    },
+    {
+        "wtype_id": 16,
+        "note": "",
+        "price": 40,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 115,
+        "params": [
+            0,
+            7,
+            0,
+            0,
+            11,
+            0,
+            0,
+            0
+        ],
+        "name": "Pencil",
+        "description": "A rare tool in this climate...",
+        "animation_id": 0,
+        "icon_index": 175
+    },
+    {
+        "wtype_id": 17,
+        "note": "",
+        "price": 13,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 116,
+        "params": [
+            0,
+            0,
+            12,
+            0,
+            0,
+            0,
+            4,
+            0
+        ],
+        "name": "Whip",
+        "description": "Use for animals. Not for perversion.",
+        "animation_id": 0,
+        "icon_index": 159
+    },
+    {
+        "wtype_id": 17,
+        "note": "",
+        "price": 44,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 117,
+        "params": [
+            0,
+            0,
+            19,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "Extension Cord",
+        "description": "This hurts like Hell to get whipped with!",
+        "animation_id": 0,
+        "icon_index": 159
+    },
+    {
+        "wtype_id": 17,
+        "note": "",
+        "price": 77,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 118,
+        "params": [
+            0,
+            0,
+            25,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "Adventure Whip",
+        "description": "Pried from Ethiopia Jones' cold dead hands.",
+        "animation_id": 0,
+        "icon_index": 159
+    },
+    {
+        "wtype_id": 18,
+        "note": "",
+        "price": 37,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.0
+            }
+        ],
+        "etype_id": 0,
+        "id": 119,
+        "params": [
+            0,
+            6,
+            25,
+            0,
+            0,
+            0,
+            0,
+            4
+        ],
+        "name": "Duffel Bag",
+        "description": "Who knows what the Hell is in here...",
+        "animation_id": 0,
+        "icon_index": 127
+    },
+    {
+        "wtype_id": 0,
+        "note": "",
+        "price": 0,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 120,
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "",
+        "description": "",
+        "animation_id": 0,
+        "icon_index": 0
+    },
+    {
+        "wtype_id": 0,
+        "note": "",
+        "price": 0,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 121,
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "",
+        "description": "",
+        "animation_id": 0,
+        "icon_index": 0
+    },
+    {
+        "wtype_id": 0,
+        "note": "",
+        "price": 0,
+        "features": [
+            {
+                "code": 31,
+                "data_id": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0
+            }
+        ],
+        "etype_id": 0,
+        "id": 122,
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "name": "",
+        "description": "",
+        "animation_id": 0,
+        "icon_index": 0
+    }
+]

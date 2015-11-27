@@ -1,0 +1,37 @@
+{{Template:Weapon
+| name       = Red Armbands
+| image      = File:014RedArmbands.png
+| imagewidth = 100px
+| caption    = 
+| id         = 14
+| weaponType = [[Wristband]]
+| Para_ATK   = 8
+| Para_DEF   = 0
+| Para_SATK  = 0
+| Para_SDEF  = 0
+| Para_AGI   = 0
+| Para_LUCK  = 0
+| Para_HP    = 0
+| Para_SP    = 0
+| feature1   = Attack Element: Physical
+| feature2   = [[HIT]] * 4%
+| feature3   = Seal Equip: Shield
+| feature4   = 
+| feature5   = 
+| feature6   = 
+| feature7   = 
+| feature8   = 
+| feature9   = 
+| feature10  = 
+| feature11  = 
+| feature12  = 
+}}
+ 
+==Description==
+I don't know why. I don't know how. I just know it helps your attack.
+
+==Features==
+==Locations==
+==Notes==
+
+[[Category:Weapon]]

@@ -1,0 +1,37 @@
+{{Template:Weapon
+| name       = Smoky Bow
+| image      = File:034SmokyBow.png
+| imagewidth = 100px
+| caption    = 
+| id         = 34
+| weaponType = [[Bow]]
+| Para_ATK   = 23
+| Para_DEF   = 0
+| Para_SATK  = 0
+| Para_SDEF  = 0
+| Para_AGI   = 0
+| Para_LUCK  = 0
+| Para_HP    = 0
+| Para_SP    = 0
+| feature1   = Attack Element: Physical
+| feature2   = Seal Equip: Shield
+| feature3   = [[CRI]] * 3%
+| feature4   = Attack Speed + 5
+| feature5   = Attack State: [[Blind]] + 33%
+| feature6   = 
+| feature7   = 
+| feature8   = 
+| feature9   = 
+| feature10  = 
+| feature11  = 
+| feature12  = 
+}}
+ 
+==Description==
+This bow is so dirty, it causes blindness.
+
+==Features==
+==Locations==
+==Notes==
+
+[[Category:Weapon]]

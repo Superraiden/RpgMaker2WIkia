@@ -1,0 +1,78 @@
+{{Template:Enemy
+| name               = %(name)s
+| image              = File:%(image)s
+| imagewidth         = 100px
+| gold               = %(gold)s
+| battler_hue        = %(battler_hue)s
+| exp                = %(exp)s
+| battler_name       = %(battler_name)s
+| hit                = %(hit)s
+| id                 = %(id)s
+| eva                = %(eva)s
+| Para_ATK           = %(ATK)s
+| Para_DEF           = %(DEF)s
+| Para_SATK          = %(SATK)s
+| Para_SDEF          = %(SDEF)s
+| Para_AGI           = %(AGI)s
+| Para_LUCK          = %(LUCK)s
+| Para_HP            = %(HP)s
+| Para_SP            = %(SP)s
+| feature1           = %(feature1)s
+| feature2           = %(feature2)s
+| feature3           = %(feature3)s
+| feature4           = %(feature4)s
+| feature5           = %(feature5)s
+| feature6           = %(feature6)s
+| feature7           = %(feature7)s
+| feature8           = %(feature8)s
+| feature9           = %(feature9)s
+| feature10          = %(feature10)s
+| feature11          = %(feature11)s
+| feature12          = %(feature12)s
+| action1_skill      = %(action1_skill)s
+| action1_condition  = %(action1_condition)s
+| action1_r          = %(action1_r)s
+| action2_skill      = %(action2_skill)s
+| action2_condition  = %(action2_condition)s
+| action2_r          = %(action2_r)s
+| action3_skill      = %(action3_skill)s
+| action3_condition  = %(action3_condition)s
+| action3_r          = %(action3_r)s
+| action4_skill      = %(action4_skill)s
+| action4_condition  = %(action4_condition)s
+| action4_r          = %(action4_r)s
+| action5_skill      = %(action5_skill)s
+| action5_condition  = %(action5_condition)s
+| action5_r          = %(action5_r)s
+| action6_skill      = %(action6_skill)s
+| action6_condition  = %(action6_condition)s
+| action6_r          = %(action6_r)s
+| action7_skill      = %(action7_skill)s
+| action7_condition  = %(action7_condition)s
+| action7_r          = %(action7_r)s
+| action8_skill      = %(action8_skill)s
+| action8_condition  = %(action8_condition)s
+| action8_r          = %(action8_r)s
+| action9_skill      = %(action9_skill)s
+| action9_condition  = %(action9_condition)s
+| action9_r          = %(action9_r)s
+| action10_skill     = %(action10_skill)s
+| action10_condition = %(action10_condition)s
+| action10_r         = %(action10_r)s
+| action11_skill     = %(action11_skill)s
+| action11_condition = %(action11_condition)s
+| action11_r         = %(action11_r)s
+| action12_skill     = %(action12_skill)s
+| action12_condition = %(action12_condition)s
+| action12_r         = %(action12_r)s
+| itemdrop1          = %(itemdrop1)s
+| itemdrop2          = %(itemdrop2)s
+| itemdrop3          = %(itemdrop3)s
+}}
+
+ 
+==Description==
+==Locations==
+==Notes==
+
+[[Category:Enemy]]

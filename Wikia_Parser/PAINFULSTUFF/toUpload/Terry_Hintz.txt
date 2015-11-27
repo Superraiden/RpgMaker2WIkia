@@ -1,0 +1,205 @@
+{{Template:Party_Member
+| name                = Terry
+| image               = File:TerryHintz.png
+| imagewidth          = 100
+| caption             = A lonely man who puts his heart and soul into his hints. He'd be a real asset if he wasn't so weak.
+| title               = 
+| fullname            = Terry Hintz
+| nickname            = Terry
+| class               = Hint Lord
+| auto_state          = 
+| location            = 
+| weapon_types        = [[Wristband]]
+| armor_types         = [[Accessory]] / [[Blouse]] / [[Small Shield]]
+| skill_types         = [[Hints]] / [[Skills]]
+| Target_Rate         = 100%
+| Evasion             = 5%
+| Hit_Rate            = 95%
+| Crit_Chance         = 4%
+| feature1            = 
+| feature2            = 
+| feature3            = 
+| feature4            = 
+| feature5            = 
+| feature6            = 
+| feature7            = 
+| feature8            = 
+| feature9            = 
+| feature10           = 
+| feature11           = 
+| feature12           = 
+}}
+This is a Blurb of the Character
+==Appearance and Personality==
+Description of the character
+
+
+
+
+
+
+
+
+
+
+
+==Battle==
+This is a description of the battle styles of the Party Member
+
+===Skills===
+{| class="PartyTable" border="1" cellpadding="2" cellspacing="0"
+| style="width:20%;" class="Header2 TopLeft" |'''Skill Name'''
+| style="width:55%;" class="Header2" |'''Description'''
+| style="width:15%;" class="Header2" |'''Level Learned'''
+| style="width:10%;" class="Header2 TopRight" |'''MP Cost'''
+|-
+| class="Content Text" |[[Little Cheer|Little Cheer]]
+| class="Content Text" |Gives an enthusiastic chant.
+| class="Content" |1
+| class="Content" |40
+|-
+| class="Content Text" |[[Cheer|Cheer!]]
+| class="Content Text" |Gives a restorative chant.
+| class="Content" |6
+| class="Content" |20
+|-
+| class="Content Text" |[[Verbal Bash|Verbal Bash]]
+| class="Content Text" |Use disparaging words to upset the opponent. This can either make them cry or get pissed.
+| class="Content" |3
+| class="Content" |10
+|-
+| class="Content Text" |[[Inform|Inform]]
+| class="Content Text" |Tell your friend some of your favorite combat tips. Increases SP.
+| class="Content" |4
+| class="Content" |10
+|-
+| class="Content Text" |[[Knuckle Drop|Knuckle Drop]]
+| class="Content Text" |A momentum based fist punch. A poor maneuver.
+| class="Content" |5
+| class="Content" |3
+|-
+| class="Content Text" |[[Cool Pose|Cool Pose]]
+| class="Content Text" |Makes you feel like you're cool, but you're really not.
+| class="Content" |7
+| class="Content" |15
+|-
+| class="Content Text" |[[Hype Up|Hype Up!]]
+| class="Content Text" |Send raging vibes to your friend with these awesome words! Increases CRITs.
+| class="Content" |9
+| class="Content" |15
+|-
+| class="Content Text" |[[Big Knuckle Drop|Big Knuckle Drop   ]]
+| class="Content Text" |A momentum based fist punch. Still a poor maneuver.
+| class="Content" |12
+| class="Content" |6
+|-
+| class="Content Text" |[[Sailing Knuckle|Sailing Knuckle      ]]
+| class="Content Text" |A Knuckle Drop from above.
+| class="Content" |14
+| class="Content" |15
+|-
+| class="Content Text" |[[Hot Dance|Hot Dance]]
+| class="Content Text" |A mysterious attack, it's hard to decipher what is going on...
+| class="Content" |16
+| class="Content" |30
+|-
+| class="Content Text" |[[Weather Alert|Weather Alert]]
+| class="Content Text" |Terry hints that a storm is coming. Tricks enemies into hitting the deck.
+| class="Content" |18
+| class="Content" |10
+|-
+| class="Content Text" |[[Big Bad Knuckle Drop|Big Bad Knuckle Drop]]
+| class="Content Text" |A momentum based fist punch. It will never not be a poor maneuver.
+| class="Content" |20
+| class="Content" |9
+|-
+| class="Content Text" |[[Super Cool Pose|Super Cool Pose       ]]
+| class="Content Text" |Makes you feel like you're super cool, but you're really not.
+| class="Content" |21
+| class="Content" |30
+|-
+| class="Content Text" |[[The Last Cheer|The Last Cheer!]]
+| class="Content Text" |A cheer that is so enthusiastically restorative, it brings tears to the recipient's eyes.
+| class="Content" |22
+| class="Content" |80
+|-
+| class="Content Text" |[[Soaring Knuckle|Soaring Knuckle     ]]
+| class="Content Text" |A heavier Knuckle Drop from above.
+| class="Content" |23
+| class="Content" |25
+|-
+| class="Content Text" |[[Knuckle Voyage|Knuckle Voyage]]
+| class="Content Text" |Terry puts forth his best effort with this Knuckle Drop from above.
+| class="Content" |24
+| class="Content" |40
+|-
+| class="Content Text BottomLeft" |[[The Hottest Dance|The Hottest Dance          ]]
+| class="Content Text" |What is this?! This POWER!
+| class="Content" |25
+| class="Content BottomRight" |40
+
+|}
+
+===Statistics===
+Statistics analysis
+
+{| class="PartyTable" border="1" cellpadding="2" cellspacing="0"
+| colspan="10" class="Header1 TopLeft TopRight" |'''Core Statistics'''
+|-
+| width="10%;" class="Header2" |Level
+| width="10%;" class="Header2" |HP
+| width="10%;" class="Header2" |SP
+| width="10%;" class="Header2" |ATK
+| width="10%;" class="Header2" |DEF
+| width="10%;" class="Header2" |SATK
+| width="10%;" class="Header2" |SDEF
+| width="10%;" class="Header2" |AGI
+| width="10%;" class="Header2" |LUCK
+|-
+| class="Content BottomLeft" |6
+| class="Content" |62
+| class="Content" |31
+| class="Content" |28
+| class="Content" |20
+| class="Content" |30
+| class="Content" |32
+| class="Content" |10
+| class="Content BottomRight" |1
+|}
+
+==Battle Quotes==
+{| class="" style="width:100%; vertical-align: top;" border="0" cellpadding="0" cellspacing="0"
+|
+===Win Quotes===
+|
+===Level Quotes===
+|
+===Drop Quotes===
+|-
+| style="vertical-align: top;" |
+* I am the Lord of Hints!!!
+* Shout out to all my fans.
+* Here's a hint, you suck. I rule.
+
+| style="vertical-align: top;" |
+* The Hintster's movin' on up!
+
+| style="vertical-align: top;" |
+* Sick drops.
+
+|}
+
+==Art==
+<gallery>
+Terry_Hintz_HD.png
+</gallery>
+
+
+
+==Tips==
+
+==Trivia==
+
+{{Party_Members}}
+[[Category:Character]]
+[[Category:Party Member]]

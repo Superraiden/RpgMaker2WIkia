@@ -1,0 +1,51 @@
+{{Template:Skill
+| name              = Wild Strikes
+| image             = File:025EasternBlade.png
+| imagewidth        = 100
+| caption           =
+| description       = 
+| name              = Wild Strikes
+| mp_cost           = 
+| occasion          = Always
+| tp_cost           = 
+| scope             = One Enemy
+| note              = 
+| speed             = 10
+| id                = 851
+| features          = 
+| damage_type       = HP Damage
+| success_rate      = 50
+| hit_type          = Certain Hit
+| skill_type        = Skills
+| repeats           = 3
+| tp_gain           = 
+| element_type      = None
+| formula           = 500 + a.atk * 2 - b.mdf * 2
+| variance          = 20
+| critical          = False
+| message           = (User)  is getting wild!
+| required_weapon1  = Sword
+| required_weapon2  = 
+| effect1           = 
+| effect2           = 
+| effect3           = 
+| effect4           = 
+| effect5           = 
+| effect6           = 
+| effect7           = 
+| effect8           = 
+| effect9           = 
+| effect10           = 
+| effect11           = 
+| effect12           = 
+}}
+
+==Description==
+A flash of random wild thrusts. 
+
+==Features==
+==Locations==
+==Notes==
+
+
+[[Category:Skills]][[Category:Joyful]][[Category:Joyful]][[Category:Joyful Skills]][[Category:LISA:_THE_JOYFUL]]

@@ -1,0 +1,163 @@
+{{Template:Party_Member
+| name                = Sonny
+| image               = File:SonnyBackluwitz.png
+| imagewidth          = 100
+| caption             = A former wrestler exiled for his violent, insane behavior. His only friend is his dog Harvey...
+| title               = 
+| fullname            = Sonny Backluwitz
+| nickname            = Sonny
+| class               = Schizo-Wrestler
+| auto_state          = 
+| location            = 
+| weapon_types        = 
+| armor_types         = [[Accessory]] / [[Harvey]] / [[Nude]]
+| skill_types         = [[Skills]]
+| Target_Rate         = 200%
+| Evasion             = 5%
+| Hit_Rate            = 95%
+| Crit_Chance         = 4%
+| feature1            = Lock Equip Head
+| feature2            = 
+| feature3            = 
+| feature4            = 
+| feature5            = 
+| feature6            = 
+| feature7            = 
+| feature8            = 
+| feature9            = 
+| feature10           = 
+| feature11           = 
+| feature12           = 
+}}
+This is a Blurb of the Character
+==Appearance and Personality==
+Description of the character
+
+
+
+
+
+
+
+
+
+
+
+==Battle==
+This is a description of the battle styles of the Party Member
+
+===Skills===
+{| class="PartyTable" border="1" cellpadding="2" cellspacing="0"
+| style="width:20%;" class="Header2 TopLeft" |'''Skill Name'''
+| style="width:55%;" class="Header2" |'''Description'''
+| style="width:15%;" class="Header2" |'''Level Learned'''
+| style="width:10%;" class="Header2 TopRight" |'''MP Cost'''
+|-
+| class="Content Text" |[[Lights Out|Lights Out]]
+| class="Content Text" |A stunning clothesline. Capable of stunning.
+| class="Content" |1
+| class="Content" |7
+|-
+| class="Content Text" |[[Flail|Flail]]
+| class="Content Text" |A discharge of all Sonny's emotions.
+| class="Content" |5
+| class="Content" |5
+|-
+| class="Content Text" |[[Frogsplash|Frogsplash]]
+| class="Content Text" |A flying chest slam.
+| class="Content" |10
+| class="Content" |10
+|-
+| class="Content Text" |[[Scary Clothesline|Scary Clothesline]]
+| class="Content Text" |A clothesline so powerful it strikes fear into the enemy.
+| class="Content" |15
+| class="Content" |15
+|-
+| class="Content Text" |[[Bear Hug|Bear Hug]]
+| class="Content Text" |A paralyzing squeeze.
+| class="Content" |17
+| class="Content" |10
+|-
+| class="Content Text" |[[Terrifying Clothesline|Terrifying Clothesline]]
+| class="Content Text" |A clothesline so powerful it strikes fear into the enemy.
+| class="Content" |20
+| class="Content" |20
+|-
+| class="Content Text" |[[Senton Bomb|Senton Bomb]]
+| class="Content Text" |A flying backdrop.
+| class="Content" |21
+| class="Content" |25
+|-
+| class="Content Text" |[[Hideous Clothesline|Hideous Clothesline]]
+| class="Content Text" |A clothesline so powerful it strikes fear into the enemy.
+| class="Content" |23
+| class="Content" |30
+|-
+| class="Content Text BottomLeft" |[[Lights Out Forever|Lights Out Forever]]
+| class="Content Text" |A stunning clothesline.
+| class="Content" |25
+| class="Content BottomRight" |40
+
+|}
+
+===Statistics===
+Statistics analysis
+
+{| class="PartyTable" border="1" cellpadding="2" cellspacing="0"
+| colspan="10" class="Header1 TopLeft TopRight" |'''Core Statistics'''
+|-
+| width="10%;" class="Header2" |Level
+| width="10%;" class="Header2" |HP
+| width="10%;" class="Header2" |SP
+| width="10%;" class="Header2" |ATK
+| width="10%;" class="Header2" |DEF
+| width="10%;" class="Header2" |SATK
+| width="10%;" class="Header2" |SDEF
+| width="10%;" class="Header2" |AGI
+| width="10%;" class="Header2" |LUCK
+|-
+| class="Content BottomLeft" |19
+| class="Content" |685
+| class="Content" |72
+| class="Content" |19
+| class="Content" |22
+| class="Content" |19
+| class="Content" |10
+| class="Content" |20
+| class="Content BottomRight" |15
+|}
+
+==Battle Quotes==
+{| class="" style="width:100%; vertical-align: top;" border="0" cellpadding="0" cellspacing="0"
+|
+===Win Quotes===
+|
+===Level Quotes===
+|
+===Drop Quotes===
+|-
+| style="vertical-align: top;" |
+* AAARGH!
+
+| style="vertical-align: top;" |
+* POWER!
+
+| style="vertical-align: top;" |
+* Harvey...
+
+|}
+
+==Art==
+<gallery>
+Sonny_Backluwitz_HD.png
+</gallery>
+
+
+
+==Tips==
+
+==Trivia==
+
+{{Party_Members}}
+[[Category:Character]]
+[[Category:Party Member]]
