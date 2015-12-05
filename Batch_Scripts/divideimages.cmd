@@ -1,1 +1,0 @@
-FORFILES /M *.png /c "cmd /c convert @FILE -crop 12x8@ +adjoin @FNAME_%d.@EXT"
