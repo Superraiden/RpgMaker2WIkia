@@ -1,0 +1,159 @@
+{{Template:Party_Member
+| name                = Garth
+| image               = File:Garth.png
+| imagewidth          = 100
+| caption             = A wandering artist. It's unclear what his motives are, but he really likes to draw dirty stuff.
+| title               = 
+| fullname            = Garth
+| nickname            = Garth
+| class               = Artist
+| auto_state          = 
+| location            = 
+| weapon_types        = [[Pencil]]
+| armor_types         = [[Mask]] / [[Nude]] / [[Accessory]]
+| skill_types         = [[Draw]]
+| Target_Rate         = 65%
+| Evasion             = 5%
+| Hit_Rate            = 95%
+| Crit_Chance         = 4%
+| feature1            = Lock Equip Weapon
+| feature2            = 
+| feature3            = 
+| feature4            = 
+| feature5            = 
+| feature6            = 
+| feature7            = 
+| feature8            = 
+| feature9            = 
+| feature10           = 
+| feature11           = 
+| feature12           = 
+}}
+This is a Blurb of the Character
+==Appearance and Personality==
+Description of the character
+
+
+
+
+
+
+
+
+
+
+
+==Battle==
+This is a description of the battle styles of the Party Member
+
+===Skills===
+{| class="PartyTable" border="1" cellpadding="2" cellspacing="0"
+| style="width:20%;" class="Header2 TopLeft" |'''Skill Name'''
+| style="width:55%;" class="Header2" |'''Description'''
+| style="width:15%;" class="Header2" |'''Level Learned'''
+| style="width:10%;" class="Header2 TopRight" |'''MP Cost'''
+|-
+| class="Content Text" |[[Risky Drawing|Risky Drawing]]
+| class="Content Text" |Show off some risky pictures... Raises attack.
+| class="Content" |1
+| class="Content" |10
+|-
+| class="Content Text" |[[Uncomfortable Drawing|Uncomfortable Drawing]]
+| class="Content Text" |Show off some weird pictures... Makes an ally defensive.
+| class="Content" |10
+| class="Content" |10
+|-
+| class="Content Text" |[[Agreeable Drawing|Agreeable Drawing]]
+| class="Content Text" |Show off some decent pictures... Cures many aliments.
+| class="Content" |15
+| class="Content" |15
+|-
+| class="Content Text" |[[Questionable Drawing|Questionable Drawing]]
+| class="Content Text" |Show off some heinous pictures... Enrages an opponent.
+| class="Content" |18
+| class="Content" |15
+|-
+| class="Content Text" |[[Perplexing Drawing|Perplexing Drawing]]
+| class="Content Text" |Show off some odd pictures... Confuses an opponent.
+| class="Content" |20
+| class="Content" |20
+|-
+| class="Content Text" |[[Unspeakable Drawing|Unspeakable Drawing]]
+| class="Content Text" |Show off some explicit pictures... Stuns an opponent.
+| class="Content" |21
+| class="Content" |15
+|-
+| class="Content Text" |[[Artistic Discussion|Artistic Discussion]]
+| class="Content Text" |Drone on about the finer points of art. Often puts people to sleep.
+| class="Content" |23
+| class="Content" |20
+|-
+| class="Content Text BottomLeft" |[[Creepy Drawing|Creepy Drawing]]
+| class="Content Text" |Show off some very uneasy pictures... Scares an opponent.
+| class="Content" |25
+| class="Content BottomRight" |20
+
+|}
+
+===Statistics===
+Statistics analysis
+
+{| class="PartyTable" border="1" cellpadding="2" cellspacing="0"
+| colspan="10" class="Header1 TopLeft TopRight" |'''Core Statistics'''
+|-
+| width="10%;" class="Header2" |Level
+| width="10%;" class="Header2" |HP
+| width="10%;" class="Header2" |SP
+| width="10%;" class="Header2" |ATK
+| width="10%;" class="Header2" |DEF
+| width="10%;" class="Header2" |SATK
+| width="10%;" class="Header2" |SDEF
+| width="10%;" class="Header2" |AGI
+| width="10%;" class="Header2" |LUCK
+|-
+| class="Content BottomLeft" |6
+| class="Content" |62
+| class="Content" |31
+| class="Content" |28
+| class="Content" |20
+| class="Content" |30
+| class="Content" |32
+| class="Content" |10
+| class="Content BottomRight" |1
+|}
+
+==Battle Quotes==
+{| class="" style="width:100%; vertical-align: top;" border="0" cellpadding="0" cellspacing="0"
+|
+===Win Quotes===
+|
+===Level Quotes===
+|
+===Drop Quotes===
+|-
+| style="vertical-align: top;" |
+* Did they see my work?
+* Death... A true work of art...
+
+| style="vertical-align: top;" |
+* Glorious!
+
+| style="vertical-align: top;" |
+* Back to my artwork...
+
+|}
+
+==Art==
+<gallery>
+Garth_HD.png
+</gallery>
+
+
+
+==Tips==
+
+==Trivia==
+
+{{Party_Members}}
+[[Category:Character]]
+[[Category:Party Member]]

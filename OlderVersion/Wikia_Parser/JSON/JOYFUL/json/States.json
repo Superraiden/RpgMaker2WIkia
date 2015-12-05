@@ -1,0 +1,1893 @@
+[
+    null,
+    {
+        "chance_by_damage": 100,
+        "note": "State #1 will be automatically added when\r\nHP reaches 0.\r\n\r\n<popup hide add>\r\n<popup hide rem>\r\n<popup hide dur>",
+        "restriction": 4,
+        "auto_removal_timing": 0,
+        "min_turns": 1,
+        "steps_to_remove": 100,
+        "id": 1,
+        "max_turns": 1,
+        "icon_index": 184,
+        "remove_by_restriction": false,
+        "remove_by_damage": false,
+        "release_by_damage": false,
+        "remove_by_walking": false,
+        "message3": "",
+        "message2": " is out!",
+        "remove_at_battle_end": false,
+        "priority": 90,
+        "features": [
+            {
+                "code": 23,
+                "data_id": 9,
+                "value": 0.0
+            }
+        ],
+        "message4": " revives!",
+        "message1": " has fallen!",
+        "name": "KO'ed"
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 1,
+        "min_turns": 4,
+        "steps_to_remove": 100,
+        "id": 2,
+        "max_turns": 7,
+        "icon_index": 99,
+        "remove_by_restriction": false,
+        "remove_by_damage": false,
+        "release_by_damage": false,
+        "remove_by_walking": true,
+        "message3": "",
+        "message2": " is poisoned!",
+        "remove_at_battle_end": false,
+        "priority": 65,
+        "features": [
+            {
+                "code": 22,
+                "data_id": 7,
+                "value": -0.1
+            }
+        ],
+        "message4": " is freed of poison!",
+        "message1": " is poisoned!",
+        "name": "Poison"
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 1,
+        "min_turns": 3,
+        "steps_to_remove": 100,
+        "id": 3,
+        "max_turns": 5,
+        "icon_index": 113,
+        "remove_by_restriction": false,
+        "remove_by_damage": false,
+        "release_by_damage": false,
+        "remove_by_walking": false,
+        "message3": "",
+        "message2": " is blinded!",
+        "remove_at_battle_end": true,
+        "priority": 70,
+        "features": [
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": -0.7
+            }
+        ],
+        "message4": " is no longer blinded!",
+        "message1": " becomes blind!",
+        "name": "Blind"
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 1,
+        "min_turns": 3,
+        "steps_to_remove": 100,
+        "id": 4,
+        "max_turns": 5,
+        "icon_index": 77,
+        "remove_by_restriction": false,
+        "remove_by_damage": false,
+        "release_by_damage": false,
+        "remove_by_walking": false,
+        "message3": " doesn't feel worthwhile.",
+        "message2": " doesn't feel worthwhile.",
+        "remove_at_battle_end": true,
+        "priority": 75,
+        "features": [
+            {
+                "code": 42,
+                "data_id": 2,
+                "value": 0.0
+            },
+            {
+                "code": 42,
+                "data_id": 1,
+                "value": 0.0
+            }
+        ],
+        "message4": " wants to do cool moves again!",
+        "message1": " doesn't feel worthwhile.",
+        "name": "Silence"
+    },
+    {
+        "chance_by_damage": 50,
+        "note": "",
+        "restriction": 4,
+        "auto_removal_timing": 1,
+        "min_turns": 2,
+        "steps_to_remove": 100,
+        "id": 5,
+        "max_turns": 5,
+        "icon_index": 89,
+        "remove_by_restriction": false,
+        "remove_by_damage": true,
+        "release_by_damage": false,
+        "remove_by_walking": false,
+        "message3": " is confused...",
+        "message2": " is confused...",
+        "remove_at_battle_end": true,
+        "priority": 80,
+        "features": [],
+        "message4": " is no longer confused!",
+        "message1": " became very confused...",
+        "name": "Confusion"
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 4,
+        "auto_removal_timing": 1,
+        "min_turns": 1,
+        "steps_to_remove": 100,
+        "id": 6,
+        "max_turns": 3,
+        "icon_index": 116,
+        "remove_by_restriction": false,
+        "remove_by_damage": true,
+        "release_by_damage": true,
+        "remove_by_walking": false,
+        "message3": " is sleeping...",
+        "message2": " falls asleep!",
+        "remove_at_battle_end": true,
+        "priority": 85,
+        "features": [
+            {
+                "code": 22,
+                "data_id": 1,
+                "value": -1.0
+            }
+        ],
+        "message4": " wakes up!",
+        "message1": " falls asleep!",
+        "name": "Sleep"
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 4,
+        "auto_removal_timing": 1,
+        "min_turns": 1,
+        "steps_to_remove": 100,
+        "id": 7,
+        "max_turns": 3,
+        "icon_index": 88,
+        "remove_by_restriction": false,
+        "remove_by_damage": false,
+        "release_by_damage": false,
+        "remove_by_walking": false,
+        "message3": " is scared stiff.",
+        "message2": " is scared...",
+        "remove_at_battle_end": true,
+        "priority": 90,
+        "features": [
+            {
+                "code": 22,
+                "data_id": 1,
+                "value": -1.0
+            }
+        ],
+        "message4": " is no longer afraid!",
+        "message1": " is scared...",
+        "name": "Scared"
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 4,
+        "auto_removal_timing": 2,
+        "min_turns": 1,
+        "steps_to_remove": 100,
+        "id": 8,
+        "max_turns": 2,
+        "icon_index": 115,
+        "remove_by_restriction": false,
+        "remove_by_damage": false,
+        "release_by_damage": false,
+        "remove_by_walking": false,
+        "message3": " is stunned!",
+        "message2": " is stunned!",
+        "remove_at_battle_end": true,
+        "priority": 60,
+        "features": [],
+        "message4": " regains focus!",
+        "message1": " is stunned!",
+        "name": "Stun"
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 2,
+        "steps_to_remove": 100,
+        "id": 9,
+        "max_turns": 1,
+        "icon_index": 104,
+        "remove_by_restriction": true,
+        "description": "",
+        "remove_by_damage": false,
+        "min_turns": 1,
+        "remove_by_walking": false,
+        "message3": "",
+        "message2": "",
+        "features": [
+            {
+                "code": 62,
+                "data_id": 1,
+                "value": 0.0
+            }
+        ],
+        "remove_at_battle_end": true,
+        "priority": 0,
+        "name": "Guard",
+        "message4": "",
+        "message1": ""
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "<popup hide add>\r\n<popup hide rem>\r\n<popup hide dur>",
+        "restriction": 0,
+        "auto_removal_timing": 0,
+        "steps_to_remove": 100,
+        "id": 10,
+        "max_turns": 1,
+        "icon_index": 15,
+        "remove_by_restriction": false,
+        "description": "",
+        "remove_by_damage": false,
+        "min_turns": 1,
+        "remove_by_walking": false,
+        "message3": "",
+        "message2": "",
+        "features": [
+            {
+                "code": 14,
+                "data_id": 1,
+                "value": 0.0
+            }
+        ],
+        "remove_at_battle_end": true,
+        "priority": 0,
+        "name": "Alive",
+        "message4": "",
+        "message1": ""
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 2,
+        "steps_to_remove": 100,
+        "id": 11,
+        "max_turns": 1,
+        "icon_index": 105,
+        "remove_by_restriction": true,
+        "description": "",
+        "remove_by_damage": false,
+        "min_turns": 1,
+        "remove_by_walking": false,
+        "message3": "",
+        "message2": "",
+        "features": [
+            {
+                "code": 62,
+                "data_id": 2,
+                "value": 0.0
+            }
+        ],
+        "remove_at_battle_end": true,
+        "priority": 0,
+        "name": "Cover",
+        "message4": "",
+        "message1": ""
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 2,
+        "steps_to_remove": 100,
+        "id": 12,
+        "max_turns": 5,
+        "icon_index": 118,
+        "remove_by_restriction": false,
+        "description": "",
+        "remove_by_damage": false,
+        "min_turns": 5,
+        "remove_by_walking": false,
+        "message3": " is enraged!",
+        "message2": " became enraged!",
+        "features": [
+            {
+                "code": 22,
+                "data_id": 2,
+                "value": 0.3
+            }
+        ],
+        "remove_at_battle_end": true,
+        "priority": 50,
+        "name": "Rage",
+        "message4": " calmed down.",
+        "message1": " became enraged!"
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 2,
+        "steps_to_remove": 100,
+        "id": 13,
+        "max_turns": 5,
+        "icon_index": 120,
+        "remove_by_restriction": true,
+        "description": "",
+        "remove_by_damage": false,
+        "min_turns": 5,
+        "remove_by_walking": false,
+        "message3": " is hiding.",
+        "message2": " is hiding.",
+        "features": [
+            {
+                "code": 23,
+                "data_id": 0,
+                "value": 0.1
+            },
+            {
+                "code": 22,
+                "data_id": 1,
+                "value": 0.6
+            }
+        ],
+        "remove_at_battle_end": true,
+        "priority": 50,
+        "name": "Hide",
+        "message4": " was found!",
+        "message1": " is hiding."
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 2,
+        "steps_to_remove": 100,
+        "id": 14,
+        "max_turns": 4,
+        "icon_index": 27,
+        "remove_by_restriction": false,
+        "description": "",
+        "remove_by_damage": false,
+        "min_turns": 4,
+        "remove_by_walking": false,
+        "message3": "",
+        "message2": "",
+        "features": [
+            {
+                "code": 22,
+                "data_id": 7,
+                "value": 0.1
+            }
+        ],
+        "remove_at_battle_end": true,
+        "priority": 50,
+        "name": "HP Regen",
+        "message4": "",
+        "message1": ""
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 2,
+        "steps_to_remove": 100,
+        "id": 15,
+        "max_turns": 4,
+        "icon_index": 27,
+        "remove_by_restriction": false,
+        "description": "",
+        "remove_by_damage": false,
+        "min_turns": 4,
+        "remove_by_walking": false,
+        "message3": "",
+        "message2": "",
+        "features": [
+            {
+                "code": 22,
+                "data_id": 8,
+                "value": 0.05
+            }
+        ],
+        "remove_at_battle_end": true,
+        "priority": 50,
+        "name": "MP Regen",
+        "message4": "",
+        "message1": ""
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 2,
+        "steps_to_remove": 100,
+        "id": 16,
+        "max_turns": 4,
+        "icon_index": 28,
+        "remove_by_restriction": false,
+        "description": "",
+        "remove_by_damage": false,
+        "min_turns": 4,
+        "remove_by_walking": false,
+        "message3": "",
+        "message2": "",
+        "features": [
+            {
+                "code": 22,
+                "data_id": 9,
+                "value": 0.1
+            }
+        ],
+        "remove_at_battle_end": true,
+        "priority": 50,
+        "name": "TP Regen",
+        "message4": "",
+        "message1": ""
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 2,
+        "steps_to_remove": 100,
+        "id": 17,
+        "max_turns": 3,
+        "icon_index": 121,
+        "remove_by_restriction": true,
+        "description": "",
+        "remove_by_damage": false,
+        "min_turns": 3,
+        "remove_by_walking": false,
+        "message3": " is buffed up!",
+        "message2": " is buffed up!",
+        "features": [
+            {
+                "code": 23,
+                "data_id": 6,
+                "value": 0.1
+            }
+        ],
+        "remove_at_battle_end": true,
+        "priority": 50,
+        "name": "Ironbody",
+        "message4": "",
+        "message1": " is buffed up!"
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 2,
+        "steps_to_remove": 100,
+        "id": 18,
+        "max_turns": 3,
+        "icon_index": 86,
+        "remove_by_restriction": true,
+        "description": "",
+        "remove_by_damage": false,
+        "min_turns": 3,
+        "remove_by_walking": false,
+        "message3": "",
+        "message2": "",
+        "features": [
+            {
+                "code": 22,
+                "data_id": 6,
+                "value": 1.0
+            }
+        ],
+        "remove_at_battle_end": true,
+        "priority": 50,
+        "name": "Counterattack",
+        "message4": "",
+        "message1": ""
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 2,
+        "steps_to_remove": 100,
+        "id": 19,
+        "max_turns": 3,
+        "icon_index": 29,
+        "remove_by_restriction": false,
+        "description": "",
+        "remove_by_damage": false,
+        "min_turns": 3,
+        "remove_by_walking": false,
+        "message3": "",
+        "message2": "",
+        "features": [
+            {
+                "code": 22,
+                "data_id": 4,
+                "value": 1.0
+            }
+        ],
+        "remove_at_battle_end": true,
+        "priority": 50,
+        "name": "Magic Evade",
+        "message4": "",
+        "message1": ""
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 2,
+        "steps_to_remove": 100,
+        "id": 20,
+        "max_turns": 1,
+        "icon_index": 31,
+        "remove_by_restriction": false,
+        "description": "",
+        "remove_by_damage": false,
+        "min_turns": 1,
+        "remove_by_walking": false,
+        "message3": "",
+        "message2": "",
+        "features": [
+            {
+                "code": 22,
+                "data_id": 5,
+                "value": 1.0
+            }
+        ],
+        "remove_at_battle_end": true,
+        "priority": 50,
+        "name": "Magic Reflect",
+        "message4": "",
+        "message1": ""
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 2,
+        "steps_to_remove": 100,
+        "id": 21,
+        "max_turns": 5,
+        "icon_index": 100,
+        "remove_by_restriction": false,
+        "description": "",
+        "remove_by_damage": false,
+        "min_turns": 5,
+        "remove_by_walking": false,
+        "message3": "",
+        "message2": " acquires the power of fire!",
+        "features": [
+            {
+                "code": 31,
+                "data_id": 3,
+                "value": 1.0
+            },
+            {
+                "code": 11,
+                "data_id": 3,
+                "value": 0.5
+            },
+            {
+                "code": 21,
+                "data_id": 2,
+                "value": 1.1
+            }
+        ],
+        "remove_at_battle_end": true,
+        "priority": 50,
+        "name": "Fire Force",
+        "message4": "",
+        "message1": " acquires the power of fire!"
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 2,
+        "steps_to_remove": 100,
+        "id": 22,
+        "max_turns": 5,
+        "icon_index": 105,
+        "remove_by_restriction": false,
+        "description": "",
+        "remove_by_damage": false,
+        "min_turns": 5,
+        "remove_by_walking": false,
+        "message3": "",
+        "message2": " acquires the power of ice!",
+        "features": [
+            {
+                "code": 31,
+                "data_id": 4,
+                "value": 1.0
+            },
+            {
+                "code": 11,
+                "data_id": 4,
+                "value": 0.5
+            },
+            {
+                "code": 21,
+                "data_id": 2,
+                "value": 1.1
+            }
+        ],
+        "remove_at_battle_end": true,
+        "priority": 50,
+        "name": "Ice Force",
+        "message4": "",
+        "message1": " acquires the power of ice!"
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 2,
+        "steps_to_remove": 100,
+        "id": 23,
+        "max_turns": 5,
+        "icon_index": 106,
+        "remove_by_restriction": false,
+        "description": "",
+        "remove_by_damage": false,
+        "min_turns": 5,
+        "remove_by_walking": false,
+        "message3": "",
+        "message2": " acquires the power of thunder!",
+        "features": [
+            {
+                "code": 31,
+                "data_id": 5,
+                "value": 1.0
+            },
+            {
+                "code": 11,
+                "data_id": 5,
+                "value": 0.5
+            },
+            {
+                "code": 21,
+                "data_id": 2,
+                "value": 1.1
+            }
+        ],
+        "remove_at_battle_end": true,
+        "priority": 50,
+        "name": "Thunder Force",
+        "message4": "",
+        "message1": " acquires the power of thunder!"
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 2,
+        "steps_to_remove": 100,
+        "id": 24,
+        "max_turns": 5,
+        "icon_index": 29,
+        "remove_by_restriction": false,
+        "description": "",
+        "remove_by_damage": false,
+        "min_turns": 5,
+        "remove_by_walking": false,
+        "message3": "",
+        "message2": "",
+        "features": [
+            {
+                "code": 13,
+                "data_id": 2,
+                "value": 0.0
+            },
+            {
+                "code": 13,
+                "data_id": 3,
+                "value": 0.0
+            },
+            {
+                "code": 13,
+                "data_id": 4,
+                "value": 0.0
+            },
+            {
+                "code": 13,
+                "data_id": 5,
+                "value": 0.0
+            },
+            {
+                "code": 13,
+                "data_id": 6,
+                "value": 0.0
+            },
+            {
+                "code": 13,
+                "data_id": 7,
+                "value": 0.0
+            },
+            {
+                "code": 13,
+                "data_id": 8,
+                "value": 0.0
+            }
+        ],
+        "remove_at_battle_end": true,
+        "priority": 50,
+        "name": "Ailment Guard",
+        "message4": "",
+        "message1": ""
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 2,
+        "steps_to_remove": 100,
+        "id": 25,
+        "max_turns": 5,
+        "icon_index": 30,
+        "remove_by_restriction": false,
+        "description": "",
+        "remove_by_damage": false,
+        "min_turns": 5,
+        "remove_by_walking": false,
+        "message3": "",
+        "message2": "",
+        "features": [
+            {
+                "code": 21,
+                "data_id": 3,
+                "value": 0.1
+            },
+            {
+                "code": 21,
+                "data_id": 4,
+                "value": 0.1
+            }
+        ],
+        "remove_at_battle_end": true,
+        "priority": 50,
+        "name": "MP Cost Down",
+        "message4": "",
+        "message1": ""
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 1,
+        "min_turns": 1,
+        "steps_to_remove": 100,
+        "id": 26,
+        "max_turns": 3,
+        "icon_index": 100,
+        "remove_by_restriction": false,
+        "remove_by_damage": false,
+        "release_by_damage": false,
+        "remove_by_walking": false,
+        "message3": "",
+        "message2": " is on fire!",
+        "remove_at_battle_end": true,
+        "priority": 65,
+        "features": [
+            {
+                "code": 22,
+                "data_id": 7,
+                "value": -0.05
+            }
+        ],
+        "message4": "'s flames went out!",
+        "message1": " is on fire!",
+        "name": "Burning"
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 1,
+        "min_turns": 1,
+        "steps_to_remove": 300,
+        "id": 27,
+        "max_turns": 5,
+        "icon_index": 98,
+        "remove_by_restriction": false,
+        "remove_by_damage": false,
+        "release_by_damage": false,
+        "remove_by_walking": true,
+        "message3": "",
+        "message2": " is poisoned badly!",
+        "remove_at_battle_end": false,
+        "priority": 65,
+        "features": [
+            {
+                "code": 22,
+                "data_id": 7,
+                "value": -0.04
+            }
+        ],
+        "message4": " is freed of poison!",
+        "message1": " is poisoned badly!",
+        "name": "Deep Poison"
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 0,
+        "steps_to_remove": 100,
+        "id": 28,
+        "max_turns": 1,
+        "icon_index": 88,
+        "remove_by_restriction": false,
+        "description": "",
+        "remove_by_damage": false,
+        "min_turns": 1,
+        "remove_by_walking": false,
+        "message3": "",
+        "message2": "",
+        "features": [
+            {
+                "code": 21,
+                "data_id": 3,
+                "value": 0.3
+            }
+        ],
+        "remove_at_battle_end": false,
+        "priority": 50,
+        "name": "Wary",
+        "message4": "",
+        "message1": ""
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 1,
+        "min_turns": 3,
+        "steps_to_remove": 100,
+        "id": 29,
+        "max_turns": 5,
+        "icon_index": 114,
+        "remove_by_restriction": false,
+        "remove_by_damage": false,
+        "release_by_damage": false,
+        "remove_by_walking": false,
+        "message3": " is crying",
+        "message2": " is crying",
+        "remove_at_battle_end": true,
+        "priority": 70,
+        "features": [
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": -0.5
+            }
+        ],
+        "message4": " stopped crying",
+        "message1": " is tearing up.",
+        "name": "Crying"
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 4,
+        "auto_removal_timing": 1,
+        "min_turns": 1,
+        "steps_to_remove": 100,
+        "id": 30,
+        "max_turns": 3,
+        "icon_index": 119,
+        "remove_by_restriction": false,
+        "remove_by_damage": false,
+        "release_by_damage": false,
+        "remove_by_walking": false,
+        "message3": " is unable to move!",
+        "message2": " is paralyzed!",
+        "remove_at_battle_end": true,
+        "priority": 90,
+        "features": [
+            {
+                "code": 22,
+                "data_id": 1,
+                "value": -1.0
+            }
+        ],
+        "message4": " is no longer paralyzed!",
+        "message1": " becomes paralyzed!",
+        "name": "Paralysis"
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 1,
+        "min_turns": 4,
+        "steps_to_remove": 100,
+        "id": 31,
+        "max_turns": 6,
+        "icon_index": 112,
+        "remove_by_restriction": false,
+        "remove_by_damage": false,
+        "release_by_damage": false,
+        "remove_by_walking": false,
+        "message3": " feels weird...",
+        "message2": " feels weird...",
+        "remove_at_battle_end": true,
+        "priority": 90,
+        "features": [
+            {
+                "code": 21,
+                "data_id": 2,
+                "value": 0.8
+            },
+            {
+                "code": 21,
+                "data_id": 3,
+                "value": 0.7
+            }
+        ],
+        "message4": " feels relieved.",
+        "message1": " starts to feel weird...",
+        "name": "Weird"
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 2,
+        "min_turns": 2,
+        "steps_to_remove": 100,
+        "id": 32,
+        "max_turns": 4,
+        "icon_index": 122,
+        "remove_by_restriction": false,
+        "remove_by_damage": false,
+        "release_by_damage": false,
+        "remove_by_walking": true,
+        "message3": " is bleeding out!",
+        "message2": " is bleeding out!",
+        "remove_at_battle_end": false,
+        "priority": 65,
+        "features": [
+            {
+                "code": 22,
+                "data_id": 7,
+                "value": -0.02
+            }
+        ],
+        "message4": " stopped bleeding!",
+        "message1": "'s been cut open!",
+        "name": "Bleed"
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 2,
+        "steps_to_remove": 100,
+        "id": 33,
+        "max_turns": 4,
+        "icon_index": 27,
+        "remove_by_restriction": false,
+        "description": "",
+        "remove_by_damage": false,
+        "min_turns": 2,
+        "remove_by_walking": true,
+        "message3": " is hungover.",
+        "message2": " is hungover.",
+        "features": [
+            {
+                "code": 33,
+                "data_id": 0,
+                "value": -3.0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": -0.4
+            },
+            {
+                "code": 22,
+                "data_id": 1,
+                "value": -0.4
+            },
+            {
+                "code": 22,
+                "data_id": 2,
+                "value": 0.4
+            }
+        ],
+        "remove_at_battle_end": false,
+        "priority": 50,
+        "name": "Hungover",
+        "message4": " sobered up.",
+        "message1": " is hungover."
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 2,
+        "steps_to_remove": 100,
+        "id": 34,
+        "max_turns": 5,
+        "icon_index": 91,
+        "remove_by_restriction": false,
+        "description": "",
+        "remove_by_damage": false,
+        "min_turns": 4,
+        "remove_by_walking": true,
+        "message3": " is drunk.",
+        "message2": " is drunk.",
+        "features": [
+            {
+                "code": 33,
+                "data_id": 0,
+                "value": -1.0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": -0.3
+            },
+            {
+                "code": 22,
+                "data_id": 1,
+                "value": -0.2
+            },
+            {
+                "code": 22,
+                "data_id": 2,
+                "value": 0.7
+            },
+            {
+                "code": 21,
+                "data_id": 2,
+                "value": 0.4
+            },
+            {
+                "code": 21,
+                "data_id": 4,
+                "value": 0.4
+            },
+            {
+                "code": 21,
+                "data_id": 3,
+                "value": 0.3
+            }
+        ],
+        "remove_at_battle_end": false,
+        "priority": 50,
+        "name": "Drunk",
+        "message4": " sobered up.",
+        "message1": " is drunk."
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 1,
+        "steps_to_remove": 200,
+        "id": 35,
+        "max_turns": 3,
+        "icon_index": 228,
+        "remove_by_restriction": false,
+        "description": "",
+        "remove_by_damage": false,
+        "min_turns": 1,
+        "remove_by_walking": true,
+        "message3": "",
+        "message2": "",
+        "features": [
+            {
+                "code": 22,
+                "data_id": 1,
+                "value": 0.1
+            }
+        ],
+        "remove_at_battle_end": false,
+        "priority": 50,
+        "name": "Stink",
+        "message4": "",
+        "message1": ""
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 1,
+        "min_turns": 1,
+        "steps_to_remove": 100,
+        "id": 36,
+        "max_turns": 2,
+        "icon_index": 118,
+        "remove_by_restriction": false,
+        "remove_by_damage": false,
+        "release_by_damage": false,
+        "remove_by_walking": false,
+        "message3": " is a lunatic! Watch out!",
+        "message2": " is a lunatic! Watch out!",
+        "remove_at_battle_end": true,
+        "priority": 70,
+        "features": [
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": -0.6
+            },
+            {
+                "code": 22,
+                "data_id": 2,
+                "value": 0.5
+            }
+        ],
+        "message4": " calmed down.",
+        "message1": " is pissed!",
+        "name": "Pissed"
+    },
+    {
+        "chance_by_damage": 40,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 0,
+        "steps_to_remove": 100,
+        "id": 37,
+        "max_turns": 1,
+        "icon_index": 138,
+        "remove_by_restriction": false,
+        "description": "",
+        "remove_by_damage": true,
+        "min_turns": 1,
+        "remove_by_walking": false,
+        "message3": " is attracting attention!",
+        "message2": " is attracting attention!",
+        "features": [
+            {
+                "code": 23,
+                "data_id": 0,
+                "value": 10.0
+            }
+        ],
+        "remove_at_battle_end": false,
+        "priority": 50,
+        "name": "Taunt",
+        "message4": " lost everyone's attention.",
+        "message1": " is attracting attention!"
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 1,
+        "min_turns": 20,
+        "steps_to_remove": 100,
+        "id": 38,
+        "max_turns": 30,
+        "icon_index": 220,
+        "remove_by_restriction": false,
+        "remove_by_damage": false,
+        "release_by_damage": false,
+        "remove_by_walking": false,
+        "message3": " is craving Joy.",
+        "message2": " is craving Joy.",
+        "remove_at_battle_end": false,
+        "priority": 90,
+        "features": [
+            {
+                "code": 21,
+                "data_id": 2,
+                "value": 0.1
+            },
+            {
+                "code": 21,
+                "data_id": 3,
+                "value": 0.5
+            },
+            {
+                "code": 21,
+                "data_id": 6,
+                "value": 0.4
+            },
+            {
+                "code": 21,
+                "data_id": 0,
+                "value": 0.7
+            },
+            {
+                "code": 21,
+                "data_id": 7,
+                "value": 0.7
+            },
+            {
+                "code": 22,
+                "data_id": 1,
+                "value": -0.4
+            },
+            {
+                "code": 33,
+                "data_id": 0,
+                "value": -1.0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": -0.8
+            }
+        ],
+        "message4": " fought off his craving.",
+        "message1": " is craving Joy.",
+        "name": "Withdrawal"
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 1,
+        "steps_to_remove": 100,
+        "id": 39,
+        "max_turns": 10,
+        "icon_index": 24,
+        "remove_by_restriction": false,
+        "description": "",
+        "remove_by_damage": false,
+        "min_turns": 6,
+        "remove_by_walking": false,
+        "message3": " is over Joyed.",
+        "message2": " is over Joyed.",
+        "features": [
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": 0.8
+            },
+            {
+                "code": 22,
+                "data_id": 2,
+                "value": 1.0
+            },
+            {
+                "code": 21,
+                "data_id": 3,
+                "value": 2.0
+            },
+            {
+                "code": 21,
+                "data_id": 5,
+                "value": 2.0
+            },
+            {
+                "code": 14,
+                "data_id": 38,
+                "value": 0.0
+            }
+        ],
+        "remove_at_battle_end": false,
+        "priority": 50,
+        "name": "Joyed",
+        "message4": " is no longer happy...",
+        "message1": " is over Joyed."
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 1,
+        "min_turns": 1,
+        "steps_to_remove": 300,
+        "id": 40,
+        "max_turns": 5,
+        "icon_index": 99,
+        "remove_by_restriction": false,
+        "remove_by_damage": false,
+        "release_by_damage": false,
+        "remove_by_walking": true,
+        "message3": "",
+        "message2": " is poisoned badly!",
+        "remove_at_battle_end": false,
+        "priority": 65,
+        "features": [
+            {
+                "code": 22,
+                "data_id": 7,
+                "value": -0.02
+            }
+        ],
+        "message4": " is freed of poison!",
+        "message1": " is poisoned badly!",
+        "name": "Poison"
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 4,
+        "auto_removal_timing": 1,
+        "min_turns": 1,
+        "steps_to_remove": 100,
+        "id": 41,
+        "max_turns": 1,
+        "icon_index": 137,
+        "remove_by_restriction": false,
+        "remove_by_damage": false,
+        "release_by_damage": false,
+        "remove_by_walking": false,
+        "message3": " is trying to get up!",
+        "message2": " has fallen down!",
+        "remove_at_battle_end": true,
+        "priority": 90,
+        "features": [
+            {
+                "code": 22,
+                "data_id": 1,
+                "value": -1.0
+            }
+        ],
+        "message4": " is back to their feet!",
+        "message1": " has fallen down!",
+        "name": "Fallen"
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 1,
+        "steps_to_remove": 100,
+        "id": 42,
+        "max_turns": 8,
+        "icon_index": 232,
+        "remove_by_restriction": false,
+        "description": "",
+        "remove_by_damage": false,
+        "min_turns": 3,
+        "remove_by_walking": false,
+        "message3": "",
+        "message2": "",
+        "features": [
+            {
+                "code": 22,
+                "data_id": 7,
+                "value": 0.03
+            }
+        ],
+        "remove_at_battle_end": true,
+        "priority": 50,
+        "name": "Cool",
+        "message4": "",
+        "message1": ""
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 1,
+        "steps_to_remove": 100,
+        "id": 43,
+        "max_turns": 8,
+        "icon_index": 248,
+        "remove_by_restriction": false,
+        "description": "",
+        "remove_by_damage": false,
+        "min_turns": 4,
+        "remove_by_walking": false,
+        "message3": "",
+        "message2": "",
+        "features": [
+            {
+                "code": 22,
+                "data_id": 7,
+                "value": 0.06
+            },
+            {
+                "code": 22,
+                "data_id": 8,
+                "value": 0.05
+            }
+        ],
+        "remove_at_battle_end": true,
+        "priority": 50,
+        "name": "Super Cool",
+        "message4": "",
+        "message1": ""
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 2,
+        "steps_to_remove": 100,
+        "id": 44,
+        "max_turns": 3,
+        "icon_index": 104,
+        "remove_by_restriction": true,
+        "description": "",
+        "remove_by_damage": false,
+        "min_turns": 3,
+        "remove_by_walking": false,
+        "message3": "",
+        "message2": "",
+        "features": [
+            {
+                "code": 23,
+                "data_id": 6,
+                "value": 0.1
+            }
+        ],
+        "remove_at_battle_end": true,
+        "priority": 50,
+        "name": "Defend",
+        "message4": "",
+        "message1": ""
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 0,
+        "steps_to_remove": 100,
+        "id": 45,
+        "max_turns": 1,
+        "icon_index": 18,
+        "remove_by_restriction": false,
+        "description": "",
+        "remove_by_damage": false,
+        "min_turns": 1,
+        "remove_by_walking": false,
+        "message3": " is being extorted!",
+        "message2": " is being extorted!",
+        "features": [
+            {
+                "code": 64,
+                "data_id": 4,
+                "value": 0.0
+            }
+        ],
+        "remove_at_battle_end": false,
+        "priority": 50,
+        "name": "Extorted",
+        "message4": " stood up for it's beliefs.",
+        "message1": " is being extorted!"
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 1,
+        "steps_to_remove": 100,
+        "id": 46,
+        "max_turns": 6,
+        "icon_index": 231,
+        "remove_by_restriction": false,
+        "description": "",
+        "remove_by_damage": false,
+        "min_turns": 1,
+        "remove_by_walking": false,
+        "message3": " is oiled up!",
+        "message2": " is covered in oil!",
+        "features": [
+            {
+                "code": 11,
+                "data_id": 3,
+                "value": 3.5
+            }
+        ],
+        "remove_at_battle_end": false,
+        "priority": 100,
+        "name": "Oiled Up",
+        "message4": "",
+        "message1": ""
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 2,
+        "steps_to_remove": 100,
+        "id": 47,
+        "max_turns": 8,
+        "icon_index": 203,
+        "remove_by_restriction": false,
+        "description": "",
+        "remove_by_damage": false,
+        "min_turns": 1,
+        "remove_by_walking": false,
+        "message3": " is partying hard!",
+        "message2": " is partying hard!",
+        "features": [
+            {
+                "code": 21,
+                "data_id": 2,
+                "value": 1.1
+            },
+            {
+                "code": 21,
+                "data_id": 4,
+                "value": 1.1
+            },
+            {
+                "code": 21,
+                "data_id": 6,
+                "value": 1.1
+            },
+            {
+                "code": 21,
+                "data_id": 7,
+                "value": 1.1
+            }
+        ],
+        "remove_at_battle_end": true,
+        "priority": 50,
+        "name": "Party Mode",
+        "message4": " lost the desire to party...",
+        "message1": " is now in party mode!"
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 1,
+        "min_turns": 3,
+        "steps_to_remove": 100,
+        "id": 48,
+        "max_turns": 4,
+        "icon_index": 27,
+        "remove_by_restriction": false,
+        "remove_by_damage": false,
+        "release_by_damage": false,
+        "remove_by_walking": false,
+        "message3": " is depressed.",
+        "message2": "",
+        "remove_at_battle_end": false,
+        "priority": 90,
+        "features": [
+            {
+                "code": 21,
+                "data_id": 2,
+                "value": 0.8
+            },
+            {
+                "code": 21,
+                "data_id": 3,
+                "value": 0.7
+            },
+            {
+                "code": 21,
+                "data_id": 6,
+                "value": 0.7
+            }
+        ],
+        "message4": "",
+        "message1": "",
+        "name": "Depression"
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 2,
+        "steps_to_remove": 100,
+        "id": 49,
+        "max_turns": 3,
+        "icon_index": 191,
+        "remove_by_restriction": false,
+        "description": "",
+        "remove_by_damage": false,
+        "min_turns": 3,
+        "remove_by_walking": false,
+        "message3": " is wrestling Kat.",
+        "message2": " is wrestling Kat.",
+        "features": [
+            {
+                "code": 12,
+                "data_id": 6,
+                "value": 1.0
+            },
+            {
+                "code": 12,
+                "data_id": 2,
+                "value": 1.0
+            },
+            {
+                "code": 12,
+                "data_id": 7,
+                "value": 1.0
+            }
+        ],
+        "remove_at_battle_end": true,
+        "priority": 50,
+        "name": "Kat",
+        "message4": " shook off Kat.",
+        "message1": " is wrestling Kat."
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 2,
+        "steps_to_remove": 100,
+        "id": 50,
+        "max_turns": 3,
+        "icon_index": 191,
+        "remove_by_restriction": false,
+        "description": "",
+        "remove_by_damage": false,
+        "min_turns": 3,
+        "remove_by_walking": false,
+        "message3": " is wrestling a critter.",
+        "message2": " is wrestling a critter.",
+        "features": [
+            {
+                "code": 12,
+                "data_id": 6,
+                "value": 1.0
+            },
+            {
+                "code": 12,
+                "data_id": 2,
+                "value": 1.0
+            },
+            {
+                "code": 12,
+                "data_id": 7,
+                "value": 1.0
+            }
+        ],
+        "remove_at_battle_end": true,
+        "priority": 50,
+        "name": "Critter",
+        "message4": " shook off the critter.",
+        "message1": " is wrestling a critter."
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 2,
+        "steps_to_remove": 100,
+        "id": 51,
+        "max_turns": 3,
+        "icon_index": 143,
+        "remove_by_restriction": false,
+        "description": "",
+        "remove_by_damage": false,
+        "min_turns": 3,
+        "remove_by_walking": false,
+        "message3": " is wrestling Kat.",
+        "message2": " is wrestling Kat.",
+        "features": [
+            {
+                "code": 42,
+                "data_id": 15,
+                "value": 0.0
+            }
+        ],
+        "remove_at_battle_end": true,
+        "priority": 50,
+        "name": "Kat Gone",
+        "message4": " shook off Kat.",
+        "message1": " is wrestling Kat."
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 2,
+        "steps_to_remove": 100,
+        "id": 52,
+        "max_turns": 3,
+        "icon_index": 143,
+        "remove_by_restriction": false,
+        "description": "",
+        "remove_by_damage": false,
+        "min_turns": 3,
+        "remove_by_walking": false,
+        "message3": " is wrestling a critter.",
+        "message2": " is wrestling a critter.",
+        "features": [
+            {
+                "code": 42,
+                "data_id": 16,
+                "value": 0.0
+            }
+        ],
+        "remove_at_battle_end": true,
+        "priority": 50,
+        "name": "Critter Gone",
+        "message4": " shook off the critter.",
+        "message1": " is wrestling a critter."
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "\r\n",
+        "restriction": 4,
+        "auto_removal_timing": 0,
+        "min_turns": 1,
+        "steps_to_remove": 100,
+        "id": 53,
+        "max_turns": 1,
+        "icon_index": 117,
+        "remove_by_restriction": false,
+        "remove_by_damage": false,
+        "release_by_damage": false,
+        "remove_by_walking": false,
+        "message3": "",
+        "message2": " is dead",
+        "remove_at_battle_end": false,
+        "priority": 100,
+        "features": [
+            {
+                "code": 14,
+                "data_id": 1,
+                "value": 0.0
+            },
+            {
+                "code": 23,
+                "data_id": 9,
+                "value": 0.0
+            }
+        ],
+        "message4": " revives!",
+        "message1": " is dead!",
+        "name": "Dead"
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 4,
+        "auto_removal_timing": 1,
+        "min_turns": 1,
+        "steps_to_remove": 100,
+        "id": 54,
+        "max_turns": 3,
+        "icon_index": 191,
+        "remove_by_restriction": false,
+        "remove_by_damage": false,
+        "release_by_damage": false,
+        "remove_by_walking": false,
+        "message3": " is flustered!",
+        "message2": " is flustered!",
+        "remove_at_battle_end": true,
+        "priority": 90,
+        "features": [
+            {
+                "code": 22,
+                "data_id": 1,
+                "value": -1.0
+            }
+        ],
+        "message4": " is no longer flustered!",
+        "message1": " becomes flustered!",
+        "name": "Flustered"
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 0,
+        "steps_to_remove": 200,
+        "id": 55,
+        "max_turns": 4,
+        "icon_index": 27,
+        "remove_by_restriction": false,
+        "description": "",
+        "remove_by_damage": false,
+        "min_turns": 2,
+        "remove_by_walking": true,
+        "message3": " is tired.",
+        "message2": " is tired.",
+        "features": [
+            {
+                "code": 33,
+                "data_id": 0,
+                "value": -3.0
+            },
+            {
+                "code": 22,
+                "data_id": 0,
+                "value": -0.4
+            },
+            {
+                "code": 22,
+                "data_id": 1,
+                "value": -0.4
+            },
+            {
+                "code": 22,
+                "data_id": 2,
+                "value": 0.4
+            }
+        ],
+        "remove_at_battle_end": false,
+        "priority": 50,
+        "name": "Tired",
+        "message4": " is waking up.",
+        "message1": " is tired."
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 2,
+        "steps_to_remove": 100,
+        "id": 56,
+        "max_turns": 3,
+        "icon_index": 220,
+        "remove_by_restriction": false,
+        "description": "",
+        "remove_by_damage": false,
+        "min_turns": 2,
+        "remove_by_walking": false,
+        "message3": "",
+        "message2": " is empowered.",
+        "features": [
+            {
+                "code": 21,
+                "data_id": 2,
+                "value": 1.1
+            }
+        ],
+        "remove_at_battle_end": true,
+        "priority": 50,
+        "name": "Empowered",
+        "message4": "",
+        "message1": " is empowered."
+    },
+    {
+        "chance_by_damage": 100,
+        "note": "",
+        "restriction": 0,
+        "auto_removal_timing": 0,
+        "steps_to_remove": 100,
+        "id": 57,
+        "max_turns": 1,
+        "icon_index": 0,
+        "remove_by_restriction": false,
+        "description": "",
+        "remove_by_damage": false,
+        "min_turns": 1,
+        "remove_by_walking": false,
+        "message3": "",
+        "message2": "",
+        "features": [],
+        "remove_at_battle_end": false,
+        "priority": 50,
+        "name": "",
+        "message4": "",
+        "message1": ""
+    }
+]

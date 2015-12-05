@@ -1,0 +1,2977 @@
+---
+- 
+-   
+  description: "Dried meat of common Olathian animals.\r\nRecovers 300 HP."
+  name: Mystery Jerky
+  consumable: true
+  occasion: 0
+  icon_index: 70
+  price: 10
+  scope: 7
+  animation_id: 310
+  note: ''
+  speed: 0
+  id: 1
+  features: []
+  effects:
+  -   
+    code: 11
+    data_id: 0
+    value1: 0.0
+    value2: 300.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: Recovers 1000 HP.
+  name: Domestic Jerky
+  consumable: true
+  occasion: 0
+  icon_index: 19
+  price: 15
+  scope: 7
+  animation_id: 310
+  note: ''
+  speed: 0
+  id: 2
+  features: []
+  effects:
+  -   
+    code: 11
+    data_id: 0
+    value1: 0.0
+    value2: 1000.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: "Dried meat of a horse.\r\nRecovers all HP."
+  name: Horse Jerky
+  consumable: true
+  occasion: 0
+  icon_index: 69
+  price: 20
+  scope: 7
+  animation_id: 310
+  note: ''
+  speed: 0
+  id: 3
+  features: []
+  effects:
+  -   
+    code: 11
+    data_id: 0
+    value1: 1.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: "If you throw this can at someone it won't\r\nhurt, it's a soft drink! Recovers 200 SP."
+  name: Diet Cocola Cola
+  consumable: true
+  occasion: 0
+  icon_index: 3
+  price: 5
+  scope: 7
+  animation_id: 353
+  note: ''
+  speed: 0
+  id: 4
+  features: []
+  effects:
+  -   
+    code: 12
+    data_id: 0
+    value1: 0.0
+    value2: 200.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: "If you throw this can at someone it won't\r\nhurt, it's a soft drink! Recovers 400 SP."
+  name: Cocola Cola
+  consumable: true
+  occasion: 0
+  icon_index: 2
+  price: 10
+  scope: 7
+  animation_id: 353
+  note: ''
+  speed: 0
+  id: 5
+  features: []
+  effects:
+  -   
+    code: 12
+    data_id: 0
+    value1: 0.0
+    value2: 400.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: "If you throw this can at someone it won't\r\nhurt, it's a soft drink! Recovers 800 SP."
+  name: Creamy Cocola
+  consumable: true
+  occasion: 0
+  icon_index: 58
+  price: 15
+  scope: 7
+  animation_id: 353
+  note: ''
+  speed: 0
+  id: 6
+  features: []
+  effects:
+  -   
+    code: 12
+    data_id: 0
+    value1: 0.0
+    value2: 800.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: "If you throw this can at someone it won't\r\nhurt, it's a soft drink! Recovers all SP."
+  name: Real Sugar Cocola Cola
+  consumable: true
+  occasion: 0
+  icon_index: 42
+  price: 20
+  scope: 7
+  animation_id: 353
+  note: ''
+  speed: 0
+  id: 7
+  features: []
+  effects:
+  -   
+    code: 12
+    data_id: 0
+    value1: 1.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: Restores all HP and SP.
+  name: Iced Coffee
+  consumable: true
+  occasion: 0
+  icon_index: 57
+  price: 50
+  scope: 7
+  animation_id: 353
+  note: ''
+  speed: 0
+  id: 8
+  features: []
+  effects:
+  -   
+    code: 11
+    data_id: 0
+    value1: 1.0
+    value2: 0.0
+  -   
+    code: 12
+    data_id: 0
+    value1: 1.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: The sweet scent revives an ally.
+  name: Perfume
+  consumable: true
+  occasion: 0
+  icon_index: 0
+  price: 10
+  scope: 9
+  animation_id: 352
+  note: ''
+  speed: 0
+  id: 9
+  features: []
+  effects:
+  -   
+    code: 22
+    data_id: 1
+    value1: 1.0
+    value2: 0.0
+  -   
+    code: 11
+    data_id: 0
+    value1: 0.3
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '300'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: The sweet scent revives an ally fully.
+  name: Fancy Perfume
+  consumable: true
+  occasion: 0
+  icon_index: 64
+  price: 20
+  scope: 9
+  animation_id: 352
+  note: ''
+  speed: 0
+  id: 10
+  features: []
+  effects:
+  -   
+    code: 22
+    data_id: 1
+    value1: 1.0
+    value2: 0.0
+  -   
+    code: 11
+    data_id: 0
+    value1: 1.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '999999'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: An empty glass bottle.
+  name: gfff
+  consumable: true
+  occasion: 0
+  icon_index: 4
+  price: 0
+  scope: 1
+  animation_id: 98
+  note: ''
+  speed: 0
+  id: 11
+  features: []
+  effects: []
+  damage:   
+    type: 1
+    element_id: -1
+    formula: 30 + a.atk * 4 - b.def * 2
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: Recovers 500 HP.
+  name: Bottle of Soup
+  consumable: true
+  occasion: 0
+  icon_index: 10
+  price: 3
+  scope: 7
+  animation_id: 310
+  note: ''
+  speed: 0
+  id: 12
+  features: []
+  effects:
+  -   
+    code: 11
+    data_id: 0
+    value1: 0.0
+    value2: 500.0
+  -   
+    code: 44
+    data_id: 7
+    value1: 0.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: "An extremely refreshing drink.\r\nCures many aliments."
+  name: Bottle of Water
+  consumable: true
+  occasion: 0
+  icon_index: 11
+  price: 20
+  scope: 7
+  animation_id: 353
+  note: ''
+  speed: 0
+  id: 13
+  features: []
+  effects:
+  -   
+    code: 22
+    data_id: 33
+    value1: 1.0
+    value2: 0.0
+  -   
+    code: 22
+    data_id: 26
+    value1: 1.0
+    value2: 0.0
+  -   
+    code: 22
+    data_id: 31
+    value1: 1.0
+    value2: 0.0
+  -   
+    code: 22
+    data_id: 7
+    value1: 1.0
+    value2: 0.0
+  -   
+    code: 22
+    data_id: 5
+    value1: 1.0
+    value2: 0.0
+  -   
+    code: 44
+    data_id: 7
+    value1: 0.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: "Capable of getting you drunk.\r\nRecovers 200 HP."
+  name: Potato Liquor
+  consumable: true
+  occasion: 0
+  icon_index: 4
+  price: 5
+  scope: 7
+  animation_id: 353
+  note: ''
+  speed: 0
+  id: 14
+  features: []
+  effects:
+  -   
+    code: 11
+    data_id: 0
+    value1: 0.0
+    value2: 200.0
+  -   
+    code: 21
+    data_id: 34
+    value1: 0.6
+    value2: 0.0
+  -   
+    code: 44
+    data_id: 7
+    value1: 0.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: "Contaminated water. Try throwing it at your\r\nenemies."
+  name: Bottle of Dirty Water
+  consumable: true
+  occasion: 1
+  icon_index: 11
+  price: 0
+  scope: 1
+  animation_id: 351
+  note: ''
+  speed: 0
+  id: 15
+  features: []
+  effects:
+  -   
+    code: 21
+    data_id: 2
+    value1: 0.7
+    value2: 0.0
+  damage:   
+    type: 1
+    element_id: 8
+    formula: 30 + a.atk * 4 - b.def * 2
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: Increases LUK by 3.
+  name: Luck Up
+  consumable: true
+  occasion: 2
+  icon_index: 199
+  price: 200
+  scope: 7
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 16
+  features: []
+  effects:
+  -   
+    code: 42
+    data_id: 7
+    value1: 3.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: Press the SHIFT key to dismount.
+  name: Bicycle
+  consumable: false
+  occasion: 2
+  icon_index: 229
+  price: 0
+  scope: 0
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 17
+  features: []
+  effects:
+  -   
+    code: 44
+    data_id: 1
+    value1: 0.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 2
+  repeats: 1
+  tp_gain: 0
+-   
+  description: An empty glass bottle.
+  name: Empty Bottle
+  consumable: true
+  occasion: 1
+  icon_index: 4
+  price: 2
+  scope: 1
+  animation_id: 98
+  note: ''
+  speed: 0
+  id: 18
+  features: []
+  effects: []
+  damage:   
+    type: 1
+    element_id: -1
+    formula: 100 + a.atk * 4 - b.def * 2
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: Recovers ally from death.
+  name: Stimulant
+  consumable: true
+  occasion: 0
+  icon_index: 194
+  price: 250
+  scope: 9
+  animation_id: 42
+  note: ''
+  speed: 0
+  id: 19
+  features: []
+  effects:
+  -   
+    code: 22
+    data_id: 1
+    value1: 1.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: Treats poison.
+  name: Antidote
+  consumable: true
+  occasion: 0
+  icon_index: 194
+  price: 30
+  scope: 7
+  animation_id: 40
+  note: ''
+  speed: 0
+  id: 20
+  features: []
+  effects:
+  -   
+    code: 22
+    data_id: 2
+    value1: 1.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: Treats many status ailments.
+  name: Dispel Herb
+  consumable: true
+  occasion: 0
+  icon_index: 194
+  price: 90
+  scope: 7
+  animation_id: 41
+  note: ''
+  speed: 0
+  id: 21
+  features: []
+  effects:
+  -   
+    code: 22
+    data_id: 2
+    value1: 1.0
+    value2: 0.0
+  -   
+    code: 22
+    data_id: 3
+    value1: 1.0
+    value2: 0.0
+  -   
+    code: 22
+    data_id: 4
+    value1: 1.0
+    value2: 0.0
+  -   
+    code: 22
+    data_id: 5
+    value1: 1.0
+    value2: 0.0
+  -   
+    code: 22
+    data_id: 6
+    value1: 1.0
+    value2: 0.0
+  -   
+    code: 22
+    data_id: 7
+    value1: 1.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: Restores all HP and MP.
+  name: Elixir
+  consumable: true
+  occasion: 0
+  icon_index: 197
+  price: 1000
+  scope: 7
+  animation_id: 39
+  note: ''
+  speed: 0
+  id: 22
+  features: []
+  effects:
+  -   
+    code: 11
+    data_id: 0
+    value1: 1.0
+    value2: 0.0
+  -   
+    code: 12
+    data_id: 0
+    value1: 1.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: Recovers ally from death.
+  name: Stimulant
+  consumable: true
+  occasion: 0
+  icon_index: 194
+  price: 250
+  scope: 9
+  animation_id: 42
+  note: ''
+  speed: 0
+  id: 23
+  features: []
+  effects:
+  -   
+    code: 22
+    data_id: 1
+    value1: 1.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: Treats poison.
+  name: Antidote
+  consumable: true
+  occasion: 0
+  icon_index: 194
+  price: 30
+  scope: 7
+  animation_id: 40
+  note: ''
+  speed: 0
+  id: 24
+  features: []
+  effects:
+  -   
+    code: 22
+    data_id: 2
+    value1: 1.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: Treats many status ailments.
+  name: Dispel Herb
+  consumable: true
+  occasion: 0
+  icon_index: 6
+  price: 90
+  scope: 7
+  animation_id: 41
+  note: ''
+  speed: 0
+  id: 25
+  features: []
+  effects:
+  -   
+    code: 22
+    data_id: 2
+    value1: 1.0
+    value2: 0.0
+  -   
+    code: 22
+    data_id: 3
+    value1: 1.0
+    value2: 0.0
+  -   
+    code: 22
+    data_id: 4
+    value1: 1.0
+    value2: 0.0
+  -   
+    code: 22
+    data_id: 5
+    value1: 1.0
+    value2: 0.0
+  -   
+    code: 22
+    data_id: 6
+    value1: 1.0
+    value2: 0.0
+  -   
+    code: 22
+    data_id: 7
+    value1: 1.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: "A high quality  meal.\r\nRestores all HP and SP."
+  name: Rando Ration
+  consumable: true
+  occasion: 0
+  icon_index: 5
+  price: 20
+  scope: 7
+  animation_id: 310
+  note: ''
+  speed: 0
+  id: 26
+  features: []
+  effects:
+  -   
+    code: 11
+    data_id: 0
+    value1: 1.0
+    value2: 0.0
+  -   
+    code: 12
+    data_id: 0
+    value1: 1.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: Increases MaxHP by 50.
+  name: Life Up
+  consumable: true
+  occasion: 2
+  icon_index: 199
+  price: 200
+  scope: 7
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 27
+  features: []
+  effects:
+  -   
+    code: 42
+    data_id: 0
+    value1: 50.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: Increases MaxMP by 10.
+  name: Mana Up
+  consumable: true
+  occasion: 2
+  icon_index: 199
+  price: 200
+  scope: 7
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 28
+  features: []
+  effects:
+  -   
+    code: 42
+    data_id: 1
+    value1: 10.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: Increases ATK by 3.
+  name: Power Up
+  consumable: true
+  occasion: 2
+  icon_index: 199
+  price: 200
+  scope: 7
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 29
+  features: []
+  effects:
+  -   
+    code: 42
+    data_id: 2
+    value1: 3.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: Increases DEF by 3.
+  name: Guard Up
+  consumable: true
+  occasion: 2
+  icon_index: 199
+  price: 200
+  scope: 7
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 30
+  features: []
+  effects:
+  -   
+    code: 42
+    data_id: 3
+    value1: 3.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: Increases MAT by 3.
+  name: Magic Up
+  consumable: true
+  occasion: 2
+  icon_index: 199
+  price: 200
+  scope: 7
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 31
+  features: []
+  effects:
+  -   
+    code: 42
+    data_id: 4
+    value1: 3.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: Increases MDF by 3.
+  name: Resist Up
+  consumable: true
+  occasion: 2
+  icon_index: 199
+  price: 200
+  scope: 7
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 32
+  features: []
+  effects:
+  -   
+    code: 42
+    data_id: 5
+    value1: 3.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: Increases AGI by 3.
+  name: Speed Up
+  consumable: true
+  occasion: 2
+  icon_index: 199
+  price: 200
+  scope: 7
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 33
+  features: []
+  effects:
+  -   
+    code: 42
+    data_id: 6
+    value1: 3.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: Increases LUK by 3.
+  name: Luck Up
+  consumable: true
+  occasion: 2
+  icon_index: 199
+  price: 200
+  scope: 7
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 34
+  features: []
+  effects:
+  -   
+    code: 42
+    data_id: 7
+    value1: 3.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: Press the A key to dismount.
+  name: Bicycle
+  consumable: false
+  occasion: 2
+  icon_index: 229
+  price: 0
+  scope: 0
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 35
+  features: []
+  effects:
+  -   
+    code: 44
+    data_id: 1
+    value1: 0.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 2
+  repeats: 1
+  tp_gain: 0
+-   
+  description: An empty glass bottle.
+  name: Nothing
+  consumable: true
+  occasion: 0
+  icon_index: 4
+  price: 0
+  scope: 1
+  animation_id: 98
+  note: ''
+  speed: 0
+  id: 36
+  features: []
+  effects: []
+  damage:   
+    type: 1
+    element_id: -1
+    formula: 30 + a.atk * 4 - b.def * 2
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: Recovers ally from death.
+  name: Stimulant
+  consumable: true
+  occasion: 0
+  icon_index: 194
+  price: 250
+  scope: 9
+  animation_id: 42
+  note: ''
+  speed: 0
+  id: 37
+  features: []
+  effects:
+  -   
+    code: 22
+    data_id: 1
+    value1: 1.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: Treats poison.
+  name: Antidote
+  consumable: true
+  occasion: 0
+  icon_index: 194
+  price: 30
+  scope: 7
+  animation_id: 40
+  note: ''
+  speed: 0
+  id: 38
+  features: []
+  effects:
+  -   
+    code: 22
+    data_id: 2
+    value1: 1.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: ''
+  name: CASSETTES
+  consumable: true
+  occasion: 0
+  icon_index: 59
+  price: 0
+  scope: 7
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 39
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: A cassette
+  name: Sweet Sweet Joy Boy
+  consumable: false
+  occasion: 0
+  icon_index: 59
+  price: 0
+  scope: 0
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 40
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 2
+  repeats: 1
+  tp_gain: 0
+-   
+  description: A cassette
+  name: El Tigre
+  consumable: false
+  occasion: 0
+  icon_index: 59
+  price: 0
+  scope: 0
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 41
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 2
+  repeats: 1
+  tp_gain: 0
+-   
+  description: A firebomb, can cause burning.
+  name: Firebomb
+  consumable: true
+  occasion: 1
+  icon_index: 20
+  price: 0
+  scope: 2
+  animation_id: 101
+  note: <one animation>.
+  speed: 0
+  id: 42
+  features: []
+  effects:
+  -   
+    code: 21
+    data_id: 26
+    value1: 0.7
+    value2: 0.0
+  damage:   
+    type: 1
+    element_id: 3
+    formula: 500 + a.atk * 4 - b.def * 2
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: "This drug makes you feel nothing.\r\nUse it in a pinch."
+  name: Joy
+  consumable: true
+  occasion: 0
+  icon_index: 24
+  price: 20
+  scope: 7
+  animation_id: 371
+  note: ''
+  speed: 0
+  id: 43
+  features: []
+  effects:
+  -   
+    code: 22
+    data_id: 38
+    value1: 1.0
+    value2: 0.0
+  -   
+    code: 21
+    data_id: 39
+    value1: 1.0
+    value2: 0.0
+  -   
+    code: 44
+    data_id: 12
+    value1: 0.0
+    value2: 0.0
+  -   
+    code: 22
+    data_id: 48
+    value1: 1.0
+    value2: 0.0
+  -   
+    code: 11
+    data_id: 0
+    value1: 1.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: A golden hen.
+  name: Goldie
+  consumable: false
+  occasion: 2
+  icon_index: 50
+  price: 0
+  scope: 0
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 44
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 2
+  repeats: 1
+  tp_gain: 0
+-   
+  description: Bail to a safer place.
+  name: Truck Keys
+  consumable: false
+  occasion: 2
+  icon_index: 197
+  price: 0
+  scope: 0
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 45
+  features: []
+  effects:
+  -   
+    code: 44
+    data_id: 6
+    value1: 0.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 2
+  repeats: 1
+  tp_gain: 0
+-   
+  description: "An unsafe blend of tea.\r\nRevives TP."
+  name: Lucrative Tea
+  consumable: true
+  occasion: 0
+  icon_index: 9
+  price: 13
+  scope: 7
+  animation_id: 353
+  note: ''
+  speed: 0
+  id: 46
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 60
+-   
+  description: A beefed up firebomb, can cause burning.
+  name: Diesel F. Bomb
+  consumable: true
+  occasion: 1
+  icon_index: 20
+  price: 0
+  scope: 2
+  animation_id: 101
+  note: <one animation>.
+  speed: 0
+  id: 47
+  features: []
+  effects:
+  -   
+    code: 21
+    data_id: 26
+    value1: 0.7
+    value2: 0.0
+  damage:   
+    type: 1
+    element_id: 3
+    formula: 1700 + a.atk * 4 - b.def * 2
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: "A strange mossy paste...\r\nI wouldn't drink this..."
+  name: Green Paste
+  consumable: false
+  occasion: 2
+  icon_index: 11
+  price: 50
+  scope: 1
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 48
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: "An explosive capable of destroying\r\ncertain objects."
+  name: TNT
+  consumable: true
+  occasion: 1
+  icon_index: 236
+  price: 0
+  scope: 2
+  animation_id: 102
+  note: ''
+  speed: 0
+  id: 49
+  features: []
+  effects:
+  -   
+    code: 21
+    data_id: 26
+    value1: 1.0
+    value2: 0.0
+  damage:   
+    type: 1
+    element_id: 3
+    formula: 2000 + a.atk * 4 - b.def * 2
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: "A mask you made for Buddy so you\r\ncould take her on walks."
+  name: Buddy's Mask
+  consumable: false
+  occasion: 0
+  icon_index: 235
+  price: 0
+  scope: 0
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 50
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: "Try rubbing it on yourself in battle.\r\nMakes you stink."
+  name: Nugget
+  consumable: true
+  occasion: 0
+  icon_index: 22
+  price: 2
+  scope: 7
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 51
+  features: []
+  effects:
+  -   
+    code: 21
+    data_id: 35
+    value1: 1.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: This isn't worth keeping... Try to sell it.
+  name: Wushu Spear
+  consumable: false
+  occasion: 2
+  icon_index: 39
+  price: 12
+  scope: 0
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 52
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: "A map to Garbage Island.\r\nShow it to Shardy."
+  name: Garbage Map
+  consumable: false
+  occasion: 2
+  icon_index: 7
+  price: 0
+  scope: 0
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 53
+  features: []
+  effects:
+  -   
+    code: 44
+    data_id: 15
+    value1: 0.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 2
+  repeats: 1
+  tp_gain: 0
+-   
+  description: "A map to Dismal Island.\r\nShow it to Shardy."
+  name: Dismal Map
+  consumable: false
+  occasion: 2
+  icon_index: 7
+  price: 55
+  scope: 0
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 54
+  features: []
+  effects:
+  -   
+    code: 44
+    data_id: 32
+    value1: 0.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 2
+  repeats: 1
+  tp_gain: 0
+-   
+  description: "A map to Resort Island.\r\nShow it to Shardy."
+  name: Resort Map
+  consumable: false
+  occasion: 2
+  icon_index: 7
+  price: 100
+  scope: 0
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 55
+  features: []
+  effects:
+  -   
+    code: 44
+    data_id: 33
+    value1: 0.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 2
+  repeats: 1
+  tp_gain: 0
+-   
+  description: A slimy green wood with bright red sap.
+  name: Blood Wood
+  consumable: false
+  occasion: 2
+  icon_index: 252
+  price: 0
+  scope: 0
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 56
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 2
+  repeats: 1
+  tp_gain: 0
+-   
+  description: It's hard to find a cloth this nice nowadays.
+  name: Mint Cloth
+  consumable: false
+  occasion: 2
+  icon_index: 250
+  price: 0
+  scope: 0
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 57
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 2
+  repeats: 1
+  tp_gain: 0
+-   
+  description: "A huge fan. It could possibly be a\r\nfamily heirloom."
+  name: Large Fan
+  consumable: false
+  occasion: 2
+  icon_index: 251
+  price: 0
+  scope: 0
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 58
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 2
+  repeats: 1
+  tp_gain: 0
+-   
+  description: "This box contains a lot of great\r\ntools!"
+  name: Toolbox
+  consumable: false
+  occasion: 2
+  icon_index: 249
+  price: 0
+  scope: 0
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 59
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 2
+  repeats: 1
+  tp_gain: 0
+-   
+  description: A strange record.
+  name: Old Record
+  consumable: false
+  occasion: 0
+  icon_index: 219
+  price: 50
+  scope: 7
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 60
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 2
+  repeats: 1
+  tp_gain: 0
+-   
+  description: "Capable of getting you drunk.\r\nRecovers 200 HP."
+  name: Party Liquor
+  consumable: true
+  occasion: 0
+  icon_index: 4
+  price: 13
+  scope: 7
+  animation_id: 353
+  note: ''
+  speed: 0
+  id: 61
+  features: []
+  effects:
+  -   
+    code: 11
+    data_id: 0
+    value1: 0.0
+    value2: 200.0
+  -   
+    code: 21
+    data_id: 34
+    value1: 0.7
+    value2: 0.0
+  -   
+    code: 44
+    data_id: 7
+    value1: 0.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: "Capable of getting you drunk.\r\nRecovers 300 HP."
+  name: Onion Vodka
+  consumable: true
+  occasion: 0
+  icon_index: 4
+  price: 15
+  scope: 7
+  animation_id: 353
+  note: ''
+  speed: 0
+  id: 62
+  features: []
+  effects:
+  -   
+    code: 11
+    data_id: 0
+    value1: 0.0
+    value2: 300.0
+  -   
+    code: 21
+    data_id: 34
+    value1: 0.9
+    value2: 0.0
+  -   
+    code: 44
+    data_id: 7
+    value1: 0.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: "Capable of getting you drunk.\r\nRecovers 500 HP."
+  name: Olathian Whiskey
+  consumable: true
+  occasion: 0
+  icon_index: 4
+  price: 20
+  scope: 7
+  animation_id: 353
+  note: ''
+  speed: 0
+  id: 63
+  features: []
+  effects:
+  -   
+    code: 11
+    data_id: 0
+    value1: 0.0
+    value2: 500.0
+  -   
+    code: 21
+    data_id: 34
+    value1: 1.0
+    value2: 0.0
+  -   
+    code: 44
+    data_id: 7
+    value1: 0.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: "It's written in English. It can't be\r\nTHAT authentic... Increases S.ATK & SP"
+  name: Gonzalo Style Scroll
+  consumable: true
+  occasion: 2
+  icon_index: 35
+  price: 0
+  scope: 7
+  animation_id: 353
+  note: ''
+  speed: 0
+  id: 64
+  features: []
+  effects:
+  -   
+    code: 42
+    data_id: 1
+    value1: 5.0
+    value2: 0.0
+  -   
+    code: 42
+    data_id: 4
+    value1: 5.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 2
+  repeats: 1
+  tp_gain: 0
+-   
+  description: A manual on trust.
+  name: Trust for Suckers
+  consumable: true
+  occasion: 2
+  icon_index: 7
+  price: 0
+  scope: 7
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 65
+  features: []
+  effects:
+  -   
+    code: 44
+    data_id: 29
+    value1: 0.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: "The profound creed that all true \r\nmartial artists live by."
+  name: Student Creed
+  consumable: true
+  occasion: 2
+  icon_index: 7
+  price: 1000
+  scope: 7
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 66
+  features: []
+  effects:
+  -   
+    code: 44
+    data_id: 30
+    value1: 0.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: "This makes you feel... Different.\r\n(Falls off when jumping or climbing.)"
+  name: Degrading Dress
+  consumable: false
+  occasion: 2
+  icon_index: 114
+  price: 50
+  scope: 0
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 67
+  features: []
+  effects:
+  -   
+    code: 44
+    data_id: 31
+    value1: 0.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 2
+  repeats: 1
+  tp_gain: 0
+-   
+  description: "The ultimate for drying your tears...\r\nWhen you have an issue."
+  name: Tissue
+  consumable: true
+  occasion: 0
+  icon_index: 94
+  price: 0
+  scope: 7
+  animation_id: 353
+  note: ''
+  speed: 0
+  id: 68
+  features: []
+  effects:
+  -   
+    code: 22
+    data_id: 3
+    value1: 1.0
+    value2: 0.0
+  -   
+    code: 22
+    data_id: 29
+    value1: 1.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: "A ratty old octopus doll...\r\nRare, but worthless."
+  name: Weird Doll
+  consumable: false
+  occasion: 2
+  icon_index: 95
+  price: 32
+  scope: 0
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 69
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: "Dried squirrel meat.\r\nRecovers 300 HP."
+  name: Squirrel Jerky
+  consumable: true
+  occasion: 0
+  icon_index: 69
+  price: 2
+  scope: 7
+  animation_id: 310
+  note: ''
+  speed: 0
+  id: 70
+  features: []
+  effects:
+  -   
+    code: 11
+    data_id: 0
+    value1: 0.0
+    value2: 300.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: It has "Duffie" etched on the side of it.
+  name: Duffel Bag
+  consumable: false
+  occasion: 2
+  icon_index: 127
+  price: 50
+  scope: 0
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 71
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: "Having a human hostage is a great\r\napocalyptic resource."
+  name: Toby
+  consumable: false
+  occasion: 2
+  icon_index: 23
+  price: 300
+  scope: 0
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 72
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 2
+  repeats: 1
+  tp_gain: 0
+-   
+  description: "It's written in English. It can't be\r\nTHAT authentic... Increases DEF."
+  name: Muhammad Style Scroll
+  consumable: true
+  occasion: 2
+  icon_index: 35
+  price: 0
+  scope: 7
+  animation_id: 353
+  note: ''
+  speed: 0
+  id: 73
+  features: []
+  effects:
+  -   
+    code: 42
+    data_id: 0
+    value1: 8.0
+    value2: 0.0
+  -   
+    code: 42
+    data_id: 3
+    value1: 8.0
+    value2: 0.0
+  -   
+    code: 42
+    data_id: 5
+    value1: 8.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 2
+  repeats: 1
+  tp_gain: 0
+-   
+  description: "It's written in English. It can't be\r\nTHAT authentic... Increases ATK."
+  name: Christ Style Scroll
+  consumable: true
+  occasion: 2
+  icon_index: 35
+  price: 0
+  scope: 7
+  animation_id: 353
+  note: ''
+  speed: 0
+  id: 74
+  features: []
+  effects:
+  -   
+    code: 42
+    data_id: 2
+    value1: 8.0
+    value2: 0.0
+  -   
+    code: 42
+    data_id: 4
+    value1: 8.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 2
+  repeats: 1
+  tp_gain: 0
+-   
+  description: "It's written in Oriental language...\r\nIt must be authentic... Increases EVERYTHING."
+  name: Doomsday Style Scroll
+  consumable: true
+  occasion: 2
+  icon_index: 36
+  price: 0
+  scope: 7
+  animation_id: 353
+  note: ''
+  speed: 0
+  id: 75
+  features: []
+  effects:
+  -   
+    code: 42
+    data_id: 2
+    value1: 5.0
+    value2: 0.0
+  -   
+    code: 42
+    data_id: 3
+    value1: 5.0
+    value2: 0.0
+  -   
+    code: 42
+    data_id: 6
+    value1: 5.0
+    value2: 0.0
+  -   
+    code: 42
+    data_id: 4
+    value1: 5.0
+    value2: 0.0
+  -   
+    code: 42
+    data_id: 5
+    value1: 5.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 2
+  repeats: 1
+  tp_gain: 0
+-   
+  description: The tag reads "Mike."
+  name: Keys
+  consumable: false
+  occasion: 2
+  icon_index: 197
+  price: 0
+  scope: 0
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 76
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: "Flavor so smooth, it heals poison!\r\n(This ad is sponsored by Martlo Cigarettes)"
+  name: Cigarette
+  consumable: true
+  occasion: 0
+  icon_index: 8
+  price: 50
+  scope: 7
+  animation_id: 353
+  note: ''
+  speed: 0
+  id: 77
+  features: []
+  effects:
+  -   
+    code: 22
+    data_id: 27
+    value1: 1.0
+    value2: 0.0
+  -   
+    code: 22
+    data_id: 2
+    value1: 1.0
+    value2: 0.0
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: ''
+  name: ''
+  consumable: true
+  occasion: 0
+  icon_index: 0
+  price: 0
+  scope: 7
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 78
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: ''
+  name: ''
+  consumable: true
+  occasion: 0
+  icon_index: 0
+  price: 0
+  scope: 7
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 79
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: ''
+  name: ''
+  consumable: true
+  occasion: 0
+  icon_index: 0
+  price: 0
+  scope: 7
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 80
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: ''
+  name: ''
+  consumable: true
+  occasion: 0
+  icon_index: 0
+  price: 0
+  scope: 7
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 81
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: ''
+  name: ''
+  consumable: true
+  occasion: 0
+  icon_index: 0
+  price: 0
+  scope: 7
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 82
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: ''
+  name: ''
+  consumable: true
+  occasion: 0
+  icon_index: 0
+  price: 0
+  scope: 7
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 83
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: ''
+  name: ''
+  consumable: true
+  occasion: 0
+  icon_index: 0
+  price: 0
+  scope: 7
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 84
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: ''
+  name: ''
+  consumable: true
+  occasion: 0
+  icon_index: 0
+  price: 0
+  scope: 7
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 85
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: ''
+  name: ''
+  consumable: true
+  occasion: 0
+  icon_index: 0
+  price: 0
+  scope: 7
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 86
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: ''
+  name: ''
+  consumable: true
+  occasion: 0
+  icon_index: 0
+  price: 0
+  scope: 7
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 87
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: ''
+  name: ''
+  consumable: true
+  occasion: 0
+  icon_index: 0
+  price: 0
+  scope: 7
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 88
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: ''
+  name: ''
+  consumable: true
+  occasion: 0
+  icon_index: 0
+  price: 0
+  scope: 7
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 89
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: ''
+  name: ''
+  consumable: true
+  occasion: 0
+  icon_index: 0
+  price: 0
+  scope: 7
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 90
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: ''
+  name: ''
+  consumable: true
+  occasion: 0
+  icon_index: 0
+  price: 0
+  scope: 7
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 91
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: ''
+  name: ''
+  consumable: true
+  occasion: 0
+  icon_index: 0
+  price: 0
+  scope: 7
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 92
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: ''
+  name: ''
+  consumable: true
+  occasion: 0
+  icon_index: 0
+  price: 0
+  scope: 7
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 93
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: ''
+  name: ''
+  consumable: true
+  occasion: 0
+  icon_index: 0
+  price: 0
+  scope: 7
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 94
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: ''
+  name: ''
+  consumable: true
+  occasion: 0
+  icon_index: 0
+  price: 0
+  scope: 7
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 95
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: ''
+  name: ''
+  consumable: true
+  occasion: 0
+  icon_index: 0
+  price: 0
+  scope: 7
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 96
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: ''
+  name: ''
+  consumable: true
+  occasion: 0
+  icon_index: 0
+  price: 0
+  scope: 7
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 97
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: ''
+  name: ''
+  consumable: true
+  occasion: 0
+  icon_index: 0
+  price: 0
+  scope: 7
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 98
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0
+-   
+  description: ''
+  name: ''
+  consumable: true
+  occasion: 0
+  icon_index: 0
+  price: 0
+  scope: 7
+  animation_id: 0
+  note: ''
+  speed: 0
+  id: 99
+  features: []
+  effects: []
+  damage:   
+    type: 0
+    element_id: 0
+    formula: '0'
+    variance: 20
+    critical: false
+  success_rate: 100
+  hit_type: 0
+  itype_id: 1
+  repeats: 1
+  tp_gain: 0

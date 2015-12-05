@@ -1,0 +1,37 @@
+{{Template:Weapon
+| name       = BOWS------------------
+| image      = File:013WoolWristbands.png
+| imagewidth = 100px
+| caption    = 
+| id         = 30
+| weaponType = [[Katana]]
+| Para_ATK   = 128
+| Para_DEF   = 0
+| Para_SATK  = 0
+| Para_SDEF  = 0
+| Para_AGI   = 0
+| Para_LUCK  = 0
+| Para_HP    = 0
+| Para_SP    = 0
+| feature1   = Attack Element: Physical
+| feature2   = [[HIT]] * -5%
+| feature3   = Seal Equip: Shield
+| feature4   = 
+| feature5   = 
+| feature6   = 
+| feature7   = 
+| feature8   = 
+| feature9   = 
+| feature10  = 
+| feature11  = 
+| feature12  = 
+}}
+ 
+==Description==
+A demonic sword that sucks the life of the wielder.
+
+==Features==
+==Locations==
+==Notes==
+
+[[Category:Weapon]]

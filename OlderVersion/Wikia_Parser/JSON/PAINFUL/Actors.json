@@ -1,0 +1,1237 @@
+[
+  null,
+  {
+    "name": "Brad",
+    "face_index": 2,
+    "character_index": 1,
+    "initial_level": 1,
+    "face_name": "Boys",
+    "class_id": 1,
+    "OLDCLASSID": 42,
+    "character_name": "",
+    "id": 1,
+    "features": [
+      {
+        "code": 41,
+        "data_id": 1,
+        "value": 0.0
+      },
+      {
+        "code": 52,
+        "data_id": 8,
+        "value": 0.0
+      },
+      {
+        "code": 14,
+        "data_id": 53,
+        "value": 0.0
+      }
+    ],
+    "note": "<win quotes>\r\n \\elb ...\r\n</win quotes>\r\n<level quotes>\r\n \\elb ...\r\n</level quotes>\r\n<drops quotes>\r\n \\elb ...\r\n</drops quotes>",
+    "equips": [
+      12,
+      0,
+      0,
+      2,
+      71
+    ],
+    "nickname": "Armstrong",
+    "description": "???",
+    "max_level": 99
+  },
+  {
+    "name": "Terry",
+    "face_index": 3,
+    "character_index": 0,
+    "initial_level": 1,
+    "face_name": "Boys",
+    "class_id": 5,
+    "character_name": "charsets",
+    "id": 2,
+    "features": [
+      {
+        "code": 41,
+        "data_id": 3,
+        "value": 0.0
+      },
+      {
+        "code": 51,
+        "data_id": 2,
+        "value": 0.0
+      },
+      {
+        "code": 52,
+        "data_id": 8,
+        "value": 0.0
+      }
+    ],
+    "note": "<win quotes>\r\n\\elb I am the Lord of Hints!!!\r\n[new quote]\r\n\\elb Shout out to all my fans.\r\n[new quote]\r\n\\elb Here's a hint, you suck. I rule.\r\n</win quotes>\r\n<level quotes>\r\n \\elb The Hintster's movin' on up!\r\n</level quotes>\r\n<drops quotes>\r\n \\elb Sick drops.\r\n</drops quotes>",
+    "equips": [
+      77,
+      0,
+      0,
+      88,
+      67
+    ],
+    "nickname": "Hintz",
+    "description": "A lonely man who puts his heart and soul into his\r\nhints. He'd be a real asset if he wasn't so weak.",
+    "max_level": 99
+  },
+  {
+    "name": "Crisp",
+    "face_index": 1,
+    "character_index": 0,
+    "initial_level": 19,
+    "face_name": "Boys5",
+    "class_id": 9,
+    "character_name": "$joyboys",
+    "id": 3,
+    "features": [
+      {
+        "code": 52,
+        "data_id": 8,
+        "value": 0.0
+      },
+      {
+        "code": 53,
+        "data_id": 0,
+        "value": 0.0
+      }
+    ],
+    "note": "<win quotes>\r\n \\elb ...\r\n</win quotes>\r\n<level quotes>\r\n \\elb ...\r\n</level quotes>\r\n<drops quotes>\r\n \\elb ...\r\n</drops quotes>",
+    "equips": [
+      97,
+      0,
+      0,
+      15,
+      51
+    ],
+    "nickname": "Ladaddy",
+    "description": "A true warrior. He's only with you because you've\r\ntaken his lover hostage.",
+    "max_level": 99
+  },
+  {
+    "name": "RT",
+    "face_index": 5,
+    "character_index": 0,
+    "initial_level": 15,
+    "face_name": "Boys2",
+    "class_id": 4,
+    "character_name": "chars4",
+    "id": 4,
+    "features": [
+      {
+        "code": 51,
+        "data_id": 18,
+        "value": 0.0
+      }
+    ],
+    "note": "<win quotes>\r\n \\elb Huh?\r\n</win quotes>\r\n<level quotes>\r\n \\elb Whassat?\r\n</level quotes>\r\n<drops quotes>\r\n \\elb Huh?\r\n</drops quotes>",
+    "equips": [
+      119,
+      0,
+      114,
+      27,
+      70
+    ],
+    "nickname": "",
+    "description": "One wild son of a bitch.",
+    "max_level": 99
+  },
+  {
+    "name": "Rooster",
+    "face_index": 3,
+    "character_index": 0,
+    "initial_level": 10,
+    "face_name": "Boys2",
+    "class_id": 6,
+    "character_name": "$Rooster",
+    "id": 5,
+    "features": [
+      {
+        "code": 41,
+        "data_id": 1,
+        "value": 0.0
+      },
+      {
+        "code": 51,
+        "data_id": 2,
+        "value": 0.0
+      },
+      {
+        "code": 52,
+        "data_id": 8,
+        "value": 0.0
+      }
+    ],
+    "note": "<win quotes>\r\n\\elb ...\r\n[new quote]\r\n\\elb Goldie...\r\n[new quote]\r\n\\elb I'm starting to like you folks...\r\n</win quotes>\r\n<level quotes>\r\n \\elb Hmph.\r\n</level quotes>\r\n<drops quotes>\r\n \\elb Worthless junk...\r\n</drops quotes>",
+    "equips": [
+      13,
+      0,
+      0,
+      0,
+      0
+    ],
+    "nickname": "Coleman",
+    "description": "A hard edged man with little concern for the\r\noutside world.",
+    "max_level": 99
+  },
+  {
+    "name": "Olan",
+    "face_index": 7,
+    "character_index": 0,
+    "initial_level": 2,
+    "face_name": "Boys2",
+    "class_id": 7,
+    "character_name": "$olan",
+    "id": 6,
+    "features": [
+      {
+        "code": 52,
+        "data_id": 8,
+        "value": 0.0
+      },
+      {
+        "code": 13,
+        "data_id": 33,
+        "value": 0.5
+      }
+    ],
+    "note": "<win quotes>\r\n\\elb Victory is like a fine whiskey...\r\n[new quote]\r\n\\elb Savor the flavor.\r\n[new quote]\r\n\\elb Time to relax...\r\n</win quotes>\r\n<level quotes>\r\n \\elb Drinks on me!\r\n</level quotes>\r\n<drops quotes>\r\n \\elb Any liquor?\r\n</drops quotes>",
+    "equips": [
+      31,
+      0,
+      102,
+      9,
+      0
+    ],
+    "nickname": "Hoyt",
+    "description": "A skilled bowsman who loves quality liquor.",
+    "max_level": 99
+  },
+  {
+    "name": "Nern",
+    "face_index": 6,
+    "character_index": 0,
+    "initial_level": 2,
+    "face_name": "Boys2",
+    "class_id": 8,
+    "character_name": "$nern",
+    "id": 7,
+    "features": [
+      {
+        "code": 52,
+        "data_id": 8,
+        "value": 0.0
+      }
+    ],
+    "note": "<win quotes>\r\n\\elb Rot in Hell, Dale Spooner...\r\n[new quote]\r\n\\elb My sweet wife, God rest her soul...\r\n[new quote]\r\n\\elb Okay, back to my story!\r\n</win quotes>\r\n<level quotes>\r\n \\elb That's one for the books!\r\n</level quotes>\r\n<drops quotes>\r\n \\elb Sweet lemon tea!\r\n</drops quotes>",
+    "equips": [
+      59,
+      42,
+      0,
+      9,
+      0
+    ],
+    "nickname": "Guan",
+    "description": "The self proclaimed historian of his time.\r\nHe talks a lot.",
+    "max_level": 99
+  },
+  {
+    "name": "Rage",
+    "face_index": 4,
+    "character_index": 1,
+    "initial_level": 2,
+    "face_name": "Boys2",
+    "class_id": 12,
+    "character_name": "charsets",
+    "id": 8,
+    "features": [
+      {
+        "code": 41,
+        "data_id": 1,
+        "value": 0.0
+      },
+      {
+        "code": 51,
+        "data_id": 2,
+        "value": 0.0
+      },
+      {
+        "code": 52,
+        "data_id": 8,
+        "value": 0.0
+      },
+      {
+        "code": 13,
+        "data_id": 12,
+        "value": 0.4
+      }
+    ],
+    "note": "<win quotes>\r\n\\elb WOOOOOOOO!!!\r\n[new quote]\r\n\\elb My head is iron! IRON BABY!\r\n[new quote]\r\n\\elb Elllllllleleleleleleleleeeee!\r\n</win quotes>\r\n<level quotes>\r\n \\elb My head is unstoppable!\r\n</level quotes>\r\n<drops quotes>\r\n \\elb Woo!\r\n</drops quotes>",
+    "equips": [
+      12,
+      0,
+      62,
+      0,
+      0
+    ],
+    "nickname": "Ironhead",
+    "description": "An energetic luchador who disregards his own safety\r\nfor the sake of style. Attacks with his head.",
+    "max_level": 99
+  },
+  {
+    "name": "Percy",
+    "face_index": 3,
+    "character_index": 6,
+    "initial_level": 12,
+    "face_name": "Boys5",
+    "class_id": 2,
+    "character_name": "people",
+    "id": 9,
+    "features": [
+      {
+        "code": 51,
+        "data_id": 1,
+        "value": 0.0
+      },
+      {
+        "code": 52,
+        "data_id": 1,
+        "value": 0.0
+      },
+      {
+        "code": 41,
+        "data_id": 1,
+        "value": 0.0
+      },
+      {
+        "code": 52,
+        "data_id": 8,
+        "value": 0.0
+      },
+      {
+        "code": 52,
+        "data_id": 11,
+        "value": 0.0
+      }
+    ],
+    "note": "<win quotes>\r\n\\elb So this is my life now?\r\n[new quote]\r\n\\elb I wish I had hair...\r\n[new quote]\r\n\\elb Do you like spiders? Not me...\r\n</win quotes>\r\n<level quotes>\r\n \\elb Can a man so lame even level up?\r\n</level quotes>\r\n<drops quotes>\r\n \\elb Oh... Look... Stuff.\r\n</drops quotes>",
+    "equips": [
+      41,
+      0,
+      108,
+      16,
+      68
+    ],
+    "nickname": "Monsoon",
+    "description": "Joined you after a destiny deciding bowel movement.\r\nHe's just a regular guy.",
+    "max_level": 99
+  },
+  {
+    "name": "Mad Dog",
+    "face_index": 5,
+    "character_index": 0,
+    "initial_level": 10,
+    "face_name": "Boys3",
+    "class_id": 10,
+    "character_name": "$maddog",
+    "id": 10,
+    "features": [
+      {
+        "code": 52,
+        "data_id": 8,
+        "value": 0.0
+      }
+    ],
+    "note": "<win quotes>\r\n\\elb ...\r\n[new quote]\r\n\\elb ...\r\n[new quote]\r\n\\elb Sorry son.\r\n</win quotes>\r\n<level quotes>\r\n \\elb Great.\r\n</level quotes>\r\n<drops quotes>\r\n \\elb ...\r\n</drops quotes>",
+    "equips": [
+      1,
+      0,
+      0,
+      5,
+      0
+    ],
+    "nickname": "",
+    "description": "A boring man. It's hard to tell what he's\r\ncapable of. He sure can take a hit though.",
+    "max_level": 99,
+    "icon_index": 0
+  },
+  {
+    "name": "Shocklord",
+    "face_index": 7,
+    "character_index": 0,
+    "initial_level": 18,
+    "face_name": "Boys3",
+    "class_id": 11,
+    "character_name": "$shocklord",
+    "id": 11,
+    "features": [
+      {
+        "code": 52,
+        "data_id": 8,
+        "value": 0.0
+      }
+    ],
+    "note": "<win quotes>\r\n \\elb Oh yeah!\r\n</win quotes>\r\n<level quotes>\r\n \\elb Power up, brother!\r\n</level quotes>\r\n<drops quotes>\r\n \\elb Right on!\r\n</drops quotes>",
+    "equips": [
+      0,
+      0,
+      63,
+      91,
+      74
+    ],
+    "nickname": "",
+    "description": "A powerful man prone to making mistakes\r\nafter a life altering ring entrance.",
+    "max_level": 99,
+    "icon_index": 0
+  },
+  {
+    "name": "Fardy",
+    "face_index": 3,
+    "character_index": 3,
+    "initial_level": 10,
+    "face_name": "Boys3",
+    "class_id": 13,
+    "character_name": "people",
+    "id": 12,
+    "features": [
+      {
+        "code": 52,
+        "data_id": 8,
+        "value": 0.0
+      }
+    ],
+    "note": "<auto state: 48>\r\n<win quotes>\r\n\\elb I miss nacho cheese...\r\n[new quote]\r\n\\elb I'm unhappy with my figure...\r\n[new quote]\r\n\\elb ... I want to be viewed as a man...\r\n</win quotes>\r\n<level quotes>\r\n \\elb Huh? What's a level up?\r\n</level quotes>\r\n<drops quotes>\r\n \\elb ... Anyone see my contacts?\r\n</drops quotes>",
+    "equips": [
+      2,
+      0,
+      0,
+      1,
+      0
+    ],
+    "nickname": "Hernandez",
+    "description": "A middle-aged man stripped of his masculinity.",
+    "max_level": 99,
+    "icon_index": 0
+  },
+  {
+    "name": "Queen",
+    "face_index": 4,
+    "character_index": 0,
+    "initial_level": 13,
+    "face_name": "Boys3",
+    "class_id": 25,
+    "character_name": "$queenbee",
+    "id": 13,
+    "features": [
+      {
+        "code": 51,
+        "data_id": 13,
+        "value": 0.0
+      },
+      {
+        "code": 52,
+        "data_id": 8,
+        "value": 0.0
+      }
+    ],
+    "note": "<win quotes>\r\n\\elb Pussy...\r\n[new quote]\r\n\\elb That's it?\r\n</win quotes>\r\n<level quotes>\r\n \\elb Damn straight.\r\n</level quotes>\r\n<drops quotes>\r\n \\elb Any facial cream?\r\n</drops quotes>",
+    "equips": [
+      4,
+      0,
+      0,
+      8,
+      0
+    ],
+    "nickname": "Roger",
+    "description": "The seasoned leader of the Bees.\r\nDoes not put up with shit.",
+    "max_level": 99
+  },
+  {
+    "name": "Carp",
+    "face_index": 2,
+    "character_index": 0,
+    "initial_level": 15,
+    "face_name": "Boys3",
+    "class_id": 16,
+    "character_name": "party",
+    "id": 14,
+    "features": [
+      {
+        "code": 51,
+        "data_id": 7,
+        "value": 0.0
+      },
+      {
+        "code": 41,
+        "data_id": 1,
+        "value": 0.0
+      },
+      {
+        "code": 52,
+        "data_id": 8,
+        "value": 0.0
+      },
+      {
+        "code": 53,
+        "data_id": 2,
+        "value": 0.0
+      },
+      {
+        "code": 52,
+        "data_id": 12,
+        "value": 0.0
+      }
+    ],
+    "note": "<win quotes>\r\n\\elb Blaaargh Bloooop! Ba-doooop!\r\n[new quote]\r\n\\elb !?\r\n[new quote]\r\n\\elb Gaaarglagleeglah.\r\n[new quote]\r\n\\elb Terrific...\r\n</win quotes>\r\n<level quotes>\r\n \\elb Bleedillbleedillooo!\r\n</level quotes>\r\n<drops quotes>\r\n \\elb Gloop.\r\n</drops quotes>",
+    "equips": [
+      21,
+      0,
+      116,
+      119,
+      0
+    ],
+    "nickname": "",
+    "description": "Not much is known about this... Man?",
+    "max_level": 99,
+    "icon_index": 0
+  },
+  {
+    "name": "Harvey",
+    "face_index": 5,
+    "character_index": 4,
+    "initial_level": 15,
+    "face_name": "Boys",
+    "class_id": 18,
+    "character_name": "ppl3",
+    "id": 15,
+    "features": [
+      {
+        "code": 52,
+        "data_id": 8,
+        "value": 0.0
+      }
+    ],
+    "note": "<win quotes>\r\n\\elb Legally, we are not okay.\r\n[new quote]\r\n\\elb Justice, baby!\r\n</win quotes>\r\n<level quotes>\r\n \\elb The law always wins.\r\n</level quotes>\r\n<drops quotes>\r\n \\elb Grab it all.\r\n</drops quotes>",
+    "equips": [
+      68,
+      42,
+      117,
+      1,
+      0
+    ],
+    "nickname": "Alibastor",
+    "description": "A shifty Fishman lawyer. For whatever reason\r\nhe speaks great English, but not Fishman...",
+    "max_level": 99,
+    "icon_index": 0
+  },
+  {
+    "name": "Clint",
+    "face_index": 0,
+    "character_index": 0,
+    "initial_level": 14,
+    "face_name": "Boys5",
+    "class_id": 27,
+    "character_name": "chars5",
+    "id": 16,
+    "features": [
+      {
+        "code": 53,
+        "data_id": 0,
+        "value": 0.0
+      },
+      {
+        "code": 52,
+        "data_id": 8,
+        "value": 0.0
+      },
+      {
+        "code": 13,
+        "data_id": 42,
+        "value": 0.8
+      },
+      {
+        "code": 13,
+        "data_id": 43,
+        "value": 0.5
+      }
+    ],
+    "note": "<auto state: 46>\r\n<win quotes>\r\n \\elb Hmph.\r\n</win quotes>\r\n<level quotes>\r\n \\elb Marvelous.\r\n</level quotes>\r\n<drops quotes>\r\n \\elb Gutter trash.\r\n</drops quotes>",
+    "equips": [
+      0,
+      0,
+      0,
+      119,
+      74
+    ],
+    "nickname": "Olympic",
+    "description": "Many hail him as the most handsome man left\r\nalive...",
+    "max_level": 99
+  },
+  {
+    "name": "Buckets",
+    "face_index": 4,
+    "character_index": 2,
+    "initial_level": 16,
+    "face_name": "Boys",
+    "class_id": 28,
+    "character_name": "party",
+    "id": 17,
+    "features": [
+      {
+        "code": 52,
+        "data_id": 8,
+        "value": 0.0
+      },
+      {
+        "code": 52,
+        "data_id": 17,
+        "value": 0.0
+      },
+      {
+        "code": 53,
+        "data_id": 2,
+        "value": 0.0
+      }
+    ],
+    "note": "<win quotes>\r\n \\elb ...\r\n</win quotes>\r\n<level quotes>\r\n \\elb ...\r\n</level quotes>\r\n<drops quotes>\r\n \\elb ...\r\n</drops quotes>",
+    "equips": [
+      60,
+      60,
+      111,
+      9,
+      0
+    ],
+    "nickname": "",
+    "description": "He wears a paint can on his head.",
+    "max_level": 99,
+    "icon_index": 0
+  },
+  {
+    "name": "Buffalo",
+    "face_index": 6,
+    "character_index": 3,
+    "initial_level": 20,
+    "face_name": "Boys",
+    "class_id": 29,
+    "character_name": "party",
+    "id": 18,
+    "features": [
+      {
+        "code": 52,
+        "data_id": 8,
+        "value": 0.0
+      },
+      {
+        "code": 53,
+        "data_id": 2,
+        "value": 0.0
+      }
+    ],
+    "note": "<win quotes>\r\n\\elb Good hustle!\r\n</win quotes>\r\n<level quotes>\r\n \\elb Tackle power!!!\r\n</level quotes>\r\n<drops quotes>\r\n \\elb Let's work on a new gameplan.\r\n</drops quotes>",
+    "equips": [
+      15,
+      0,
+      120,
+      8,
+      0
+    ],
+    "nickname": "Van Dyke",
+    "description": "A former football player. He played so rough,\r\nthat he lost his eye on the field...",
+    "max_level": 99,
+    "icon_index": 0
+  },
+  {
+    "name": "Tiger Man",
+    "face_index": 1,
+    "character_index": 4,
+    "initial_level": 15,
+    "face_name": "Boys3",
+    "class_id": 30,
+    "character_name": "party",
+    "id": 19,
+    "features": [
+      {
+        "code": 52,
+        "data_id": 8,
+        "value": 0.0
+      },
+      {
+        "code": 53,
+        "data_id": 2,
+        "value": 0.0
+      },
+      {
+        "code": 52,
+        "data_id": 13,
+        "value": 0.0
+      }
+    ],
+    "note": "<win quotes>\r\n\\elb ...\r\n</win quotes>\r\n<level quotes>\r\n \\elb ...\r\n</level quotes>\r\n<drops quotes>\r\n \\elb ...\r\n</drops quotes>",
+    "equips": [
+      108,
+      0,
+      112,
+      22,
+      0
+    ],
+    "nickname": "",
+    "description": "A strange man whose only desire is fighting\r\nthe strongest of fighters.",
+    "max_level": 99,
+    "icon_index": 0
+  },
+  {
+    "name": "Ollie",
+    "face_index": 6,
+    "character_index": 0,
+    "initial_level": 17,
+    "face_name": "Boys3",
+    "class_id": 31,
+    "character_name": "$creep",
+    "id": 20,
+    "features": [
+      {
+        "code": 52,
+        "data_id": 8,
+        "value": 0.0
+      },
+      {
+        "code": 13,
+        "data_id": 48,
+        "value": 0.8
+      }
+    ],
+    "note": "<auto state: 48>\r\n<win quotes>\r\n\\elb I need a towel.\r\n[new quote]\r\n\\elb I miss eating trash sometimes...\r\n</win quotes>\r\n<level quotes>\r\n \\elb Oh joy!\r\n</level quotes>\r\n<drops quotes>\r\n \\elb Any magazines?\r\n</drops quotes>",
+    "equips": [
+      68,
+      0,
+      117,
+      95,
+      0
+    ],
+    "nickname": "Nickels",
+    "description": "A sweaty business owner who's lost\r\nit all. He suffers from depression...",
+    "max_level": 99,
+    "icon_index": 0
+  },
+  {
+    "name": "Geese",
+    "face_index": 0,
+    "character_index": 0,
+    "initial_level": 11,
+    "face_name": "Boys3",
+    "class_id": 23,
+    "character_name": "$msic6",
+    "id": 21,
+    "features": [
+      {
+        "code": 52,
+        "data_id": 8,
+        "value": 0.0
+      },
+      {
+        "code": 51,
+        "data_id": 2,
+        "value": 0.0
+      },
+      {
+        "code": 52,
+        "data_id": 15,
+        "value": 0.0
+      },
+      {
+        "code": 53,
+        "data_id": 2,
+        "value": 0.0
+      }
+    ],
+    "note": "<win quotes>\r\n\\elb Victory? Or misery?\r\n[new quote]\r\n\\elb Winner before dinner!\r\n</win quotes>\r\n<level quotes>\r\n \\elb Progress is a process...\r\n</level quotes>\r\n<drops quotes>\r\n \\elb No treasure... Whatsoever.\r\n</drops quotes>",
+    "equips": [
+      13,
+      0,
+      101,
+      27,
+      69
+    ],
+    "nickname": "Thompson",
+    "description": "What kind of man lies beneath all these feathers?\r\nHe speaks only in riddles and rhymes.",
+    "max_level": 99,
+    "icon_index": 0
+  },
+  {
+    "name": "Dick",
+    "face_index": 2,
+    "character_index": 0,
+    "initial_level": 13,
+    "face_name": "Boys5",
+    "class_id": 26,
+    "character_name": "$pink",
+    "id": 22,
+    "features": [
+      {
+        "code": 52,
+        "data_id": 8,
+        "value": 0.0
+      },
+      {
+        "code": 13,
+        "data_id": 33,
+        "value": 0.8
+      }
+    ],
+    "note": "<win quotes>\r\n\\elb Hey man... Like... Whatever, man.\r\n</win quotes>\r\n<level quotes>\r\n \\elb Cool maaan...\r\n</level quotes>\r\n<drops quotes>\r\n \\elb Dude, quiet down...\r\n</drops quotes>",
+    "equips": [
+      41,
+      0,
+      103,
+      14,
+      0
+    ],
+    "nickname": "Dickson",
+    "description": "A middle-aged man who really loves to\r\nparty. He's typically hungover.",
+    "max_level": 99,
+    "icon_index": 0
+  },
+  {
+    "name": "Jack",
+    "face_index": 4,
+    "character_index": 1,
+    "initial_level": 10,
+    "face_name": "Boys5",
+    "class_id": 32,
+    "character_name": "chars5",
+    "id": 23,
+    "features": [
+      {
+        "code": 52,
+        "data_id": 8,
+        "value": 0.0
+      }
+    ],
+    "note": "<win quotes>\r\n\\elb Did you like my trick?\r\n</win quotes>\r\n<level quotes>\r\n \\elb Hokus Pokus!\r\n</level quotes>\r\n<drops quotes>\r\n \\elb I can make these disappear!\r\n</drops quotes>",
+    "equips": [
+      114,
+      0,
+      105,
+      91,
+      0
+    ],
+    "nickname": "",
+    "description": "A travelling magician. Problem is, he's \r\nterrible at magic...",
+    "max_level": 99,
+    "icon_index": 0
+  },
+  {
+    "name": "Sonny",
+    "face_index": 5,
+    "character_index": 0,
+    "initial_level": 19,
+    "face_name": "Boys5",
+    "class_id": 33,
+    "character_name": "$sonny",
+    "id": 24,
+    "features": [
+      {
+        "code": 52,
+        "data_id": 8,
+        "value": 0.0
+      },
+      {
+        "code": 53,
+        "data_id": 2,
+        "value": 0.0
+      },
+      {
+        "code": 52,
+        "data_id": 16,
+        "value": 0.0
+      }
+    ],
+    "note": "<win quotes>\r\n\\elb AAARGH!\r\n</win quotes>\r\n<level quotes>\r\n \\elb POWER!\r\n</level quotes>\r\n<drops quotes>\r\n \\elb Harvey...\r\n</drops quotes>",
+    "equips": [
+      0,
+      0,
+      113,
+      1,
+      0
+    ],
+    "nickname": "Backluwitz",
+    "description": "A former wrestler exiled for his violent, insane\r\nbehavior. His only friend is his dog Harvey...",
+    "max_level": 99,
+    "icon_index": 0
+  },
+  {
+    "name": "Yazan",
+    "face_index": 6,
+    "character_index": 2,
+    "initial_level": 10,
+    "face_name": "Boys5",
+    "class_id": 34,
+    "character_name": "chars5",
+    "id": 25,
+    "features": [
+      {
+        "code": 52,
+        "data_id": 8,
+        "value": 0.0
+      }
+    ],
+    "note": "<win quotes>\r\n\\elb That was for you, Kat...\r\n</win quotes>\r\n<level quotes>\r\n \\elb Good...\r\n</level quotes>\r\n<drops quotes>\r\n \\elb The search continues.\r\n</drops quotes>",
+    "equips": [
+      98,
+      0,
+      0,
+      10,
+      73
+    ],
+    "nickname": "Barghouti",
+    "description": "The self-proclaimed Shepherd of Cats.\r\nHe's searching for the rumored Cat Haven.",
+    "max_level": 99,
+    "icon_index": 0
+  },
+  {
+    "name": "Beastborn",
+    "face_index": 7,
+    "character_index": 0,
+    "initial_level": 8,
+    "face_name": "Boys5",
+    "class_id": 36,
+    "character_name": "$beast",
+    "id": 26,
+    "features": [
+      {
+        "code": 52,
+        "data_id": 8,
+        "value": 0.0
+      }
+    ],
+    "note": "<win quotes>\r\n\\elb ...\r\n</win quotes>\r\n<level quotes>\r\n \\elb ...?\r\n</level quotes>\r\n<drops quotes>\r\n \\elb ...!\r\n</drops quotes>",
+    "equips": [
+      116,
+      42,
+      0,
+      17,
+      70
+    ],
+    "nickname": "",
+    "description": "A man raised by animals. He has become your\r\ncompanion due to your display of dominance.",
+    "max_level": 99,
+    "icon_index": 0
+  },
+  {
+    "name": "Fly",
+    "face_index": 0,
+    "character_index": 6,
+    "initial_level": 19,
+    "face_name": "Boys6",
+    "class_id": 24,
+    "character_name": "chars5",
+    "id": 27,
+    "features": [
+      {
+        "code": 13,
+        "data_id": 35,
+        "value": 1.0
+      }
+    ],
+    "note": "<win quotes>\r\n\\elb Cart King!\r\n[new quote]\r\n\\elb I'm the fucking coolest!\r\n</win quotes>\r\n<level quotes>\r\n \\elb ... Just you wait, Brad...\r\n</level quotes>\r\n<drops quotes>\r\n \\elb Fuck you, Brad!\r\n</drops quotes>",
+    "equips": [
+      70,
+      0,
+      62,
+      92,
+      70
+    ],
+    "nickname": "Minetti",
+    "description": "A punkass jerk who loves cart racing.\r\nHe has a sassy tongue and smelly body.",
+    "max_level": 99,
+    "icon_index": 0
+  },
+  {
+    "name": "Ajeet",
+    "face_index": 1,
+    "character_index": 0,
+    "initial_level": 13,
+    "face_name": "Boys6",
+    "class_id": 19,
+    "character_name": "$sleep3",
+    "id": 28,
+    "features": [
+      {
+        "code": 51,
+        "data_id": 2,
+        "value": 0.0
+      },
+      {
+        "code": 52,
+        "data_id": 2,
+        "value": 0.0
+      },
+      {
+        "code": 52,
+        "data_id": 10,
+        "value": 0.0
+      },
+      {
+        "code": 52,
+        "data_id": 8,
+        "value": 0.0
+      }
+    ],
+    "note": "<win quotes>\r\n\\elb Victory.\r\n[new quote]\r\n\\elb Hmph.\r\n</win quotes>\r\n<level quotes>\r\n \\elb I grow strength.\r\n</level quotes>\r\n<drops quotes>\r\n \\elb Meaningless trash.\r\n</drops quotes>",
+    "equips": [
+      14,
+      0,
+      99,
+      92,
+      75
+    ],
+    "nickname": "Mandeep",
+    "description": "The Punjabi Playboy Prince.\r\nA giant man great with his fingers.",
+    "max_level": 99,
+    "icon_index": 0
+  },
+  {
+    "name": "Garth",
+    "face_index": 2,
+    "character_index": 0,
+    "initial_level": 8,
+    "face_name": "Boys6",
+    "class_id": 35,
+    "character_name": "$dancers",
+    "id": 29,
+    "features": [
+      {
+        "code": 53,
+        "data_id": 0,
+        "value": 0.0
+      },
+      {
+        "code": 52,
+        "data_id": 9,
+        "value": 0.0
+      }
+    ],
+    "note": "<win quotes>\r\n\\elb Did they see my work?\r\n[new quote]\r\n\\elb Death... A true work of art...\r\n</win quotes>\r\n<level quotes>\r\n \\elb Glorious!\r\n</level quotes>\r\n<drops quotes>\r\n \\elb Back to my artwork...\r\n</drops quotes>",
+    "equips": [
+      115,
+      0,
+      63,
+      1,
+      72
+    ],
+    "nickname": "",
+    "description": "A wandering artist. It's unclear what his motives\r\nare, but he really likes to draw dirty stuff.",
+    "max_level": 99,
+    "icon_index": 0
+  },
+  {
+    "name": "Bo",
+    "face_index": 3,
+    "character_index": 0,
+    "initial_level": 15,
+    "face_name": "Boys6",
+    "class_id": 20,
+    "character_name": "$Randoboys2",
+    "id": 30,
+    "features": [
+      {
+        "code": 51,
+        "data_id": 14,
+        "value": 0.0
+      },
+      {
+        "code": 52,
+        "data_id": 1,
+        "value": 0.0
+      },
+      {
+        "code": 52,
+        "data_id": 14,
+        "value": 0.0
+      },
+      {
+        "code": 52,
+        "data_id": 8,
+        "value": 0.0
+      },
+      {
+        "code": 53,
+        "data_id": 2,
+        "value": 0.0
+      }
+    ],
+    "note": "<win quotes>\r\n\\elb Sweet...\r\n[new quote]\r\n\\elb Play on boys, play on.\r\n</win quotes>\r\n<level quotes>\r\n \\elb Solid.\r\n</level quotes>\r\n<drops quotes>\r\n \\elb Anything good?\r\n</drops quotes>",
+    "equips": [
+      88,
+      0,
+      100,
+      9,
+      0
+    ],
+    "nickname": "Wyatt",
+    "description": "A loving man. His lack of musical ability allows\r\nhim to create strange powerful songs...",
+    "max_level": 99,
+    "icon_index": 0
+  },
+  {
+    "name": "Birdie",
+    "face_index": 7,
+    "character_index": 3,
+    "initial_level": 16,
+    "face_name": "Boys6",
+    "class_id": 15,
+    "character_name": "chars5",
+    "id": 31,
+    "features": [
+      {
+        "code": 52,
+        "data_id": 8,
+        "value": 0.0
+      },
+      {
+        "code": 13,
+        "data_id": 34,
+        "value": 2.0
+      }
+    ],
+    "note": "<win quotes>\r\n\\elb Blaaaah...\r\n[new quote]\r\n\\elb Joey... Jimmy... I miss you boys.\r\n[new quote]\r\n\\elb Eeeeegh...\r\n</win quotes>\r\n<level quotes>\r\n \\elb My head is killing me...\r\n</level quotes>\r\n<drops quotes>\r\n \\elb Oh... Whoooa! Lookie there!!!\r\n</drops quotes>",
+    "equips": [
+      12,
+      0,
+      106,
+      26,
+      68
+    ],
+    "nickname": "Hall",
+    "description": "A sad, silly drunkard.",
+    "max_level": 99,
+    "icon_index": 0
+  },
+  {
+    "name": "",
+    "face_index": 0,
+    "character_index": 0,
+    "initial_level": 1,
+    "face_name": "",
+    "class_id": 1,
+    "character_name": "",
+    "id": 32,
+    "features": [
+
+    ],
+    "note": "",
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "nickname": "",
+    "description": "",
+    "max_level": 99,
+    "icon_index": 0
+  },
+  {
+    "name": "",
+    "face_index": 0,
+    "character_index": 0,
+    "initial_level": 1,
+    "face_name": "",
+    "class_id": 1,
+    "character_name": "",
+    "id": 33,
+    "features": [
+
+    ],
+    "note": "",
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "nickname": "",
+    "description": "",
+    "max_level": 99,
+    "icon_index": 0
+  },
+  {
+    "name": "",
+    "face_index": 0,
+    "character_index": 0,
+    "initial_level": 1,
+    "face_name": "",
+    "class_id": 1,
+    "character_name": "",
+    "id": 34,
+    "features": [
+
+    ],
+    "note": "",
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "nickname": "",
+    "description": "",
+    "max_level": 99,
+    "icon_index": 0
+  },
+  {
+    "name": "",
+    "face_index": 0,
+    "character_index": 0,
+    "initial_level": 1,
+    "face_name": "",
+    "class_id": 1,
+    "character_name": "",
+    "id": 35,
+    "features": [
+
+    ],
+    "note": "",
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "nickname": "",
+    "description": "",
+    "max_level": 99,
+    "icon_index": 0
+  },
+  {
+    "name": "",
+    "face_index": 0,
+    "character_index": 0,
+    "initial_level": 1,
+    "face_name": "",
+    "class_id": 1,
+    "character_name": "",
+    "id": 36,
+    "features": [
+
+    ],
+    "note": "",
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "nickname": "",
+    "description": "",
+    "max_level": 99,
+    "icon_index": 0
+  }
+]

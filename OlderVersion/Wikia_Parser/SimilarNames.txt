@@ -1,0 +1,6471 @@
+{
+    "Super Cool Pose       ": {
+        "Skills": [
+            361
+        ]
+    },
+    "Barbarian": {
+        "Classes": [
+            10
+        ]
+    },
+    "Louie Headliner": {
+        "Enemies": [
+            94
+        ]
+    },
+    "Taunt": {
+        "Skills": [
+            187
+        ],
+        "States": [
+            37
+        ]
+    },
+    "SHAWLS-------------": {
+        "Armors": [
+            11
+        ]
+    },
+    "Eat": {
+        "Skills": [
+            270
+        ]
+    },
+    "Water": {
+        "Skills": [
+            63
+        ]
+    },
+    "MP Regen": {
+        "States": [
+            15
+        ]
+    },
+    "Magic Hat 4": {
+        "Skills": [
+            649
+        ]
+    },
+    "Hair-Gro": {
+        "Armors": [
+            110
+        ]
+    },
+    "Cheetah Jersey   ": {
+        "Armors": [
+            88
+        ]
+    },
+    "Loose": {
+        "Skills": [
+            201
+        ]
+    },
+    "Sweaty Mask": {
+        "Armors": [
+            62
+        ]
+    },
+    "Jerry Humphrey": {
+        "Enemies": [
+            179
+        ]
+    },
+    "Straw Hat": {
+        "Armors": [
+            102
+        ]
+    },
+    "Tardy Hernandez": {
+        "Enemies": [
+            127
+        ],
+        "Troops": [
+            61
+        ]
+    },
+    "Siren's Call": {
+        "Skills": [
+            419
+        ]
+    },
+    "Porky Roy": {
+        "Enemies": [
+            18
+        ]
+    },
+    "Headbutt": {
+        "Skills": [
+            227,
+            434,
+            448,
+            733,
+            756,
+            771
+        ]
+    },
+    "Martlo Bow": {
+        "Weapons": [
+            39,
+            40
+        ]
+    },
+    "Bag Inferno": {
+        "Skills": [
+            714
+        ]
+    },
+    "Hint Lord": {
+        "Classes": [
+            5
+        ]
+    },
+    "ORLANDO---------------------": {
+        "Skills": [
+            200
+        ]
+    },
+    "Eternal Title Belt": {
+        "Armors": [
+            77
+        ]
+    },
+    "Cutoff Sweatshirt": {
+        "Armors": [
+            91
+        ]
+    },
+    "Sports Entertainer": {
+        "Classes": [
+            11
+        ]
+    },
+    "Bicycle": {
+        "Items": [
+            17,
+            35
+        ]
+    },
+    "Bike Slam": {
+        "Skills": [
+            519
+        ]
+    },
+    "Curt Ambrose": {
+        "Enemies": [
+            110
+        ]
+    },
+    "Pink Helmet": {
+        "Armors": [
+            103
+        ]
+    },
+    "Iroquois Planter": {
+        "Enemies": [
+            77
+        ]
+    },
+    "Big Bad Knuckle Drop": {
+        "Skills": [
+            357
+        ]
+    },
+    "Defend": {
+        "States": [
+            44
+        ]
+    },
+    "Big Body Splash": {
+        "Skills": [
+            136
+        ]
+    },
+    "Bleed": {
+        "States": [
+            32
+        ]
+    },
+    "Winter Cap": {
+        "Armors": [
+            114
+        ]
+    },
+    "Glasses": {
+        "Armors": [
+            76
+        ]
+    },
+    "Redd Dillinger": {
+        "Enemies": [
+            78
+        ]
+    },
+    "Mad Dog": {
+        "Enemies": [
+            139
+        ],
+        "Actors": [
+            10
+        ]
+    },
+    "Finger Beam 4": {
+        "Skills": [
+            223
+        ]
+    },
+    "Gon Duggan": {
+        "Enemies": [
+            115
+        ]
+    },
+    "Pray": {
+        "Skills": [
+            269
+        ]
+    },
+    "Don Skin": {
+        "Enemies": [
+            29
+        ]
+    },
+    "Bone Bow": {
+        "Weapons": [
+            36
+        ]
+    },
+    "Edwin Olaf": {
+        "Enemies": [
+            74
+        ]
+    },
+    "BO WYATT-------------": {
+        "Skills": [
+            413
+        ]
+    },
+    "TP Regen": {
+        "States": [
+            16
+        ]
+    },
+    "Cotton Shawl": {
+        "Armors": [
+            14
+        ]
+    },
+    "Sunscreen": {
+        "Armors": [
+            108
+        ]
+    },
+    "Tiger Man": {
+        "Enemies": [
+            148
+        ],
+        "Actors": [
+            19
+        ]
+    },
+    "Ron Farook": {
+        "Enemies": [
+            119
+        ]
+    },
+    "Rising Knee": {
+        "Skills": [
+            229
+        ]
+    },
+    "Goddess' Embrace": {
+        "Skills": [
+            118
+        ]
+    },
+    "Homerun KO": {
+        "Skills": [
+            298
+        ]
+    },
+    "Employee Chris": {
+        "Enemies": [
+            37
+        ]
+    },
+    "Starlight": {
+        "Skills": [
+            70
+        ]
+    },
+    "Guard Up": {
+        "Items": [
+            30
+        ]
+    },
+    "Muscle Call": {
+        "Skills": [
+            420
+        ]
+    },
+    "Perfect Headspin": {
+        "Skills": [
+            553
+        ]
+    },
+    "Bloodiest Wolf King": {
+        "Troops": [
+            46
+        ]
+    },
+    "Sear": {
+        "Skills": [
+            401
+        ]
+    },
+    "Marty": {
+        "Enemies": [
+            180
+        ],
+        "Troops": [
+            77
+        ]
+    },
+    "Ambusher": {
+        "Enemies": [
+            27,
+            168,
+            169
+        ],
+        "Troops": [
+            67,
+            68
+        ]
+    },
+    "Fire Ball 3": {
+        "Skills": [
+            53,
+            752,
+            767
+        ]
+    },
+    "Buffalo": {
+        "Actors": [
+            18
+        ]
+    },
+    "Apologizes": {
+        "Skills": [
+            282
+        ]
+    },
+    "Ramble": {
+        "Skills": [
+            286
+        ]
+    },
+    "Savage Elbow 2": {
+        "Skills": [
+            719
+        ]
+    },
+    "Iori Stevens": {
+        "Enemies": [
+            200
+        ],
+        "Troops": [
+            94
+        ]
+    },
+    "Butch Irons": {
+        "Enemies": [
+            76
+        ]
+    },
+    "Rooster Storm": {
+        "Skills": [
+            198
+        ]
+    },
+    "Guitar": {
+        "Weapons": [
+            88
+        ]
+    },
+    "Rando Army 4": {
+        "Troops": [
+            65
+        ]
+    },
+    "X Chop": {
+        "Skills": [
+            372
+        ]
+    },
+    "Weird Powder": {
+        "Skills": [
+            622
+        ]
+    },
+    "Flightless Bird": {
+        "Skills": [
+            494
+        ]
+    },
+    "Water Gun": {
+        "Skills": [
+            527
+        ]
+    },
+    "Skate Pads": {
+        "Armors": [
+            41
+        ]
+    },
+    "Secret Stash": {
+        "Skills": [
+            517
+        ]
+    },
+    "Coin Flick": {
+        "Skills": [
+            591
+        ]
+    },
+    "Ankle Slash": {
+        "Skills": [
+            313
+        ]
+    },
+    "Shocklord": {
+        "Enemies": [
+            140
+        ],
+        "Actors": [
+            11
+        ]
+    },
+    "Shoot": {
+        "Skills": [
+            177,
+            213,
+            526,
+            592
+        ]
+    },
+    "Queen Roger": {
+        "Enemies": [
+            142
+        ]
+    },
+    "Bullet Tap": {
+        "Skills": [
+            593
+        ]
+    },
+    "Stomp": {
+        "Skills": [
+            271
+        ]
+    },
+    "Deep Poison Bite": {
+        "Skills": [
+            41
+        ]
+    },
+    "Birdie Hall": {
+        "Enemies": [
+            160
+        ]
+    },
+    "Head Rush": {
+        "Skills": [
+            235
+        ]
+    },
+    "Clip Dump": {
+        "Skills": [
+            594,
+            806
+        ]
+    },
+    "Honey, I'm Home!": {
+        "Skills": [
+            709
+        ]
+    },
+    "Meditate": {
+        "Skills": [
+            24
+        ]
+    },
+    "Hawaiian Poncho": {
+        "Armors": [
+            29
+        ]
+    },
+    "Dayspa Henning": {
+        "Enemies": [
+            52,
+            53
+        ],
+        "Troops": [
+            33
+        ]
+    },
+    "Satan Rush": {
+        "Skills": [
+            583
+        ]
+    },
+    "Aumbusher": {
+        "Troops": [
+            23
+        ]
+    },
+    "Men's Hair Club Presidents": {
+        "Enemies": [
+            7
+        ]
+    },
+    "Toby": {
+        "Items": [
+            72
+        ]
+    },
+    "Beastborn": {
+        "Enemies": [
+            155
+        ],
+        "Actors": [
+            26
+        ]
+    },
+    "Itchy Poncho": {
+        "Armors": [
+            2,
+            21
+        ]
+    },
+    "Sleep Breath": {
+        "Skills": [
+            16
+        ]
+    },
+    "Lance Gravys": {
+        "Enemies": [
+            19
+        ]
+    },
+    "Big Pancake Norton": {
+        "Enemies": [
+            26
+        ],
+        "Troops": [
+            22
+        ]
+    },
+    "Hide": {
+        "Skills": [
+            287
+        ],
+        "States": [
+            13
+        ]
+    },
+    "Brain Chop": {
+        "Skills": [
+            323
+        ]
+    },
+    "RANDO---------------": {
+        "Skills": [
+            802
+        ]
+    },
+    "Wooden Boomerang": {
+        "Weapons": [
+            42
+        ]
+    },
+    "Derth Hendricks": {
+        "Enemies": [
+            105
+        ]
+    },
+    "Bone Richards": {
+        "Enemies": [
+            2
+        ],
+        "Troops": [
+            2
+        ]
+    },
+    "Bullet Guillotine": {
+        "Skills": [
+            620
+        ]
+    },
+    "Cart Slam": {
+        "Skills": [
+            500
+        ]
+    },
+    "Cannonball": {
+        "Skills": [
+            437,
+            451,
+            731,
+            754,
+            769
+        ]
+    },
+    "Body Splash": {
+        "Skills": [
+            135
+        ]
+    },
+    "Blood Mountain": {
+        "Enemies": [
+            64
+        ],
+        "Troops": [
+            44
+        ]
+    },
+    "Flail": {
+        "Skills": [
+            655
+        ]
+    },
+    "Bore": {
+        "Skills": [
+            218
+        ]
+    },
+    "Pissed": {
+        "States": [
+            36
+        ]
+    },
+    "Sweaty Shirt": {
+        "Armors": [
+            95
+        ]
+    },
+    "Crimson Tide": {
+        "Weapons": [
+            73
+        ]
+    },
+    "Crisp Ladaddy": {
+        "Enemies": [
+            132
+        ]
+    },
+    "Super Peck": {
+        "Skills": [
+            487
+        ]
+    },
+    "Babe Ruthless": {
+        "Enemies": [
+            190
+        ]
+    },
+    "Buckets": {
+        "Enemies": [
+            146
+        ],
+        "Actors": [
+            17
+        ]
+    },
+    "Astro Elbow Drop   ": {
+        "Skills": [
+            240
+        ]
+    },
+    "Pink Ranger": {
+        "Enemies": [
+            151
+        ]
+    },
+    "Avioon": {
+        "Classes": [
+            23
+        ]
+    },
+    "Escape": {
+        "Skills": [
+            6
+        ]
+    },
+    "Running Splash": {
+        "Skills": [
+            232
+        ]
+    },
+    "Stench": {
+        "Armors": [
+            70
+        ]
+    },
+    "Fardy Hernandez": {
+        "Enemies": [
+            141
+        ]
+    },
+    "Big Ladle Billy": {
+        "Enemies": [
+            88
+        ]
+    },
+    "Hint Lord Sweatbands": {
+        "Weapons": [
+            77
+        ]
+    },
+    "Rage": {
+        "Actors": [
+            8
+        ],
+        "States": [
+            12
+        ]
+    },
+    "Goldie": {
+        "Items": [
+            44
+        ]
+    },
+    "Kat's Gone": {
+        "Skills": [
+            681
+        ]
+    },
+    "Beast Slash": {
+        "Skills": [
+            258
+        ]
+    },
+    "BOWS------------------": {
+        "Weapons": [
+            30
+        ]
+    },
+    "Motorbike Helmet": {
+        "Armors": [
+            104
+        ]
+    },
+    "Critter": {
+        "States": [
+            50
+        ]
+    },
+    "Cooper Plate": {
+        "Enemies": [
+            124
+        ]
+    },
+    "Garth": {
+        "Enemies": [
+            158
+        ],
+        "Actors": [
+            29
+        ]
+    },
+    "Hyper Peck": {
+        "Skills": [
+            489
+        ]
+    },
+    "Strike": {
+        "Skills": [
+            145
+        ]
+    },
+    "BLOUSES-------------": {
+        "Armors": [
+            87
+        ]
+    },
+    "Fever River": {
+        "Skills": [
+            308
+        ]
+    },
+    "Paralyze Breath": {
+        "Skills": [
+            18
+        ]
+    },
+    "Strange Man Hiding": {
+        "Enemies": [
+            40
+        ]
+    },
+    "Paralyzing Peck": {
+        "Skills": [
+            493
+        ]
+    },
+    "Ice II": {
+        "Skills": [
+            56
+        ]
+    },
+    "Pissler": {
+        "Weapons": [
+            70
+        ]
+    },
+    "Swordsman": {
+        "Classes": [
+            9
+        ]
+    },
+    "Insult": {
+        "Skills": [
+            217
+        ]
+    },
+    "Hunting Bow": {
+        "Weapons": [
+            33
+        ]
+    },
+    "Aim": {
+        "Skills": [
+            383
+        ]
+    },
+    "Running Geyser": {
+        "Skills": [
+            233
+        ]
+    },
+    "Cool": {
+        "States": [
+            42
+        ]
+    },
+    "Elite Pads": {
+        "Armors": [
+            36
+        ]
+    },
+    "Ravishing Knife": {
+        "Skills": [
+            571
+        ]
+    },
+    "Laser Agar": {
+        "Enemies": [
+            216
+        ],
+        "Troops": [
+            125
+        ]
+    },
+    "Finger Beam": {
+        "Skills": [
+            220,
+            406
+        ]
+    },
+    "Nothing": {
+        "Items": [
+            36
+        ]
+    },
+    "Note 3": {
+        "Skills": [
+            417
+        ]
+    },
+    "Geese Thompson": {
+        "Enemies": [
+            150
+        ]
+    },
+    "Ultra Peck": {
+        "Skills": [
+            488
+        ]
+    },
+    "Crimson Moon": {
+        "Enemies": [
+            86
+        ]
+    },
+    "BRAD ARMSTRONG------": {
+        "Skills": [
+            126
+        ]
+    },
+    "Hawk": {
+        "Enemies": [
+            230
+        ],
+        "Troops": [
+            137
+        ]
+    },
+    "Top Polanski": {
+        "Enemies": [
+            123
+        ]
+    },
+    "Plastic Tarp": {
+        "Armors": [
+            18
+        ]
+    },
+    "Han Tsunami": {
+        "Enemies": [
+            71
+        ]
+    },
+    "Denim Jeans": {
+        "Armors": [
+            74
+        ]
+    },
+    "Blood Wood": {
+        "Items": [
+            56
+        ]
+    },
+    "Slow Move": {
+        "Skills": [
+            48
+        ]
+    },
+    "Note 1": {
+        "Skills": [
+            415
+        ]
+    },
+    "Marco Hitoshi": {
+        "Enemies": [
+            65
+        ]
+    },
+    "Rolling Hurricane": {
+        "Skills": [
+            197
+        ]
+    },
+    "Dirt Kick": {
+        "Skills": [
+            341
+        ]
+    },
+    "Dismal Map": {
+        "Items": [
+            54
+        ]
+    },
+    "Vampire": {
+        "Skills": [
+            23
+        ]
+    },
+    "Demon X": {
+        "Enemies": [
+            201
+        ],
+        "Troops": [
+            95
+        ]
+    },
+    "Failure": {
+        "Classes": [
+            39,
+            40,
+            41
+        ]
+    },
+    "Deep Poison": {
+        "States": [
+            27
+        ]
+    },
+    "Marty Armstrong": {
+        "Enemies": [
+            100,
+            101
+        ],
+        "Troops": [
+            57
+        ]
+    },
+    "Harvey Alibastor": {
+        "Enemies": [
+            144
+        ]
+    },
+    "Eye Patch": {
+        "Armors": [
+            120
+        ]
+    },
+    "Flaming Man": {
+        "Enemies": [
+            81
+        ],
+        "Troops": [
+            52
+        ]
+    },
+    "PONCHOS": {
+        "Armors": [
+            126
+        ]
+    },
+    " Armstrong Style": {
+        "Skills": [
+            28,
+            127,
+            743
+        ]
+    },
+    "Bottle of Water": {
+        "Items": [
+            13
+        ]
+    },
+    "HARVEY------------------------": {
+        "Skills": [
+            521
+        ]
+    },
+    "Bark": {
+        "Skills": [
+            22
+        ]
+    },
+    "Combat Knife": {
+        "Weapons": [
+            24
+        ]
+    },
+    "Magic Up": {
+        "Items": [
+            31
+        ]
+    },
+    "Claw Dance": {
+        "Skills": [
+            89
+        ]
+    },
+    "Raging Sprinkle": {
+        "Skills": [
+            309
+        ]
+    },
+    "UZI----------------------------": {
+        "Weapons": [
+            67
+        ]
+    },
+    "QUINT OLYMPIC------------": {
+        "Skills": [
+            557
+        ]
+    },
+    "Knife Hand": {
+        "Skills": [
+            291
+        ]
+    },
+    "Diary Entries": {
+        "Armors": [
+            67
+        ]
+    },
+    "Broken Man": {
+        "Enemies": [
+            167
+        ]
+    },
+    "Sticky Angoneli": {
+        "Enemies": [
+            182
+        ],
+        "Troops": [
+            79,
+            136
+        ]
+    },
+    "Broken Boomerang": {
+        "Weapons": [
+            41
+        ]
+    },
+    "Elixir": {
+        "Items": [
+            22
+        ]
+    },
+    "Rando Army 3": {
+        "Troops": [
+            59
+        ]
+    },
+    "Mega Big Shot": {
+        "Skills": [
+            207
+        ]
+    },
+    "Magic Hat 2": {
+        "Skills": [
+            647
+        ]
+    },
+    "Machine Gun Fist": {
+        "Skills": [
+            11
+        ]
+    },
+    "Bruno Lee": {
+        "Enemies": [
+            109
+        ]
+    },
+    "Queen": {
+        "Actors": [
+            13
+        ]
+    },
+    "Luchador": {
+        "Classes": [
+            12
+        ]
+    },
+    "Dick": {
+        "Actors": [
+            22
+        ]
+    },
+    "Pretty Mask": {
+        "Enemies": [
+            218,
+            219
+        ]
+    },
+    "Bloodiest Wolf": {
+        "Enemies": [
+            63
+        ]
+    },
+    "Cheese Legs": {
+        "Enemies": [
+            3
+        ]
+    },
+    "Finger Beam 6": {
+        "Skills": [
+            375
+        ]
+    },
+    "MP Cost Down": {
+        "States": [
+            25
+        ]
+    },
+    "Demon God": {
+        "Troops": [
+            30
+        ]
+    },
+    "Life Drain": {
+        "Skills": [
+            49
+        ]
+    },
+    "Keys": {
+        "Items": [
+            76
+        ]
+    },
+    "Rupert Plowden": {
+        "Enemies": [
+            73
+        ]
+    },
+    "Knuckle Voyage": {
+        "Skills": [
+            353
+        ]
+    },
+    "Large Fan": {
+        "Items": [
+            58
+        ]
+    },
+    "Truck Slam 2": {
+        "Skills": [
+            366
+        ]
+    },
+    "Old Sock": {
+        "Armors": [
+            68,
+            81
+        ]
+    },
+    "The Dojo Buster": {
+        "Troops": [
+            86
+        ]
+    },
+    "MANLY---------------": {
+        "Armors": [
+            32
+        ]
+    },
+    "CARP-------------------------": {
+        "Skills": [
+            306
+        ]
+    },
+    "Wrist Slash": {
+        "Skills": [
+            312
+        ]
+    },
+    "Cosmic Riders": {
+        "Troops": [
+            101
+        ]
+    },
+    "Magic Wand Azert": {
+        "Weapons": [
+            54
+        ]
+    },
+    "Wizard Poke": {
+        "Skills": [
+            268
+        ]
+    },
+    "Rocket Skewer": {
+        "Skills": [
+            404
+        ]
+    },
+    "Snubby": {
+        "Weapons": [
+            66
+        ]
+    },
+    "Triple Attack": {
+        "Skills": [
+            5
+        ]
+    },
+    "Bustle Dropkick      ": {
+        "Skills": [
+            381
+        ]
+    },
+    "Suprise Attack": {
+        "Skills": [
+            14,
+            726,
+            744,
+            762
+        ]
+    },
+    "Ajeet Mandeep": {
+        "Enemies": [
+            129,
+            157
+        ],
+        "Troops": [
+            63
+        ]
+    },
+    "Curse Weapon": {
+        "Skills": [
+            45
+        ]
+    },
+    "Jam Out": {
+        "Skills": [
+            414
+        ]
+    },
+    "Destiny Poke": {
+        "Skills": [
+            518
+        ]
+    },
+    "Head Slide": {
+        "Skills": [
+            735,
+            758,
+            773
+        ]
+    },
+    "Pump Up": {
+        "Skills": [
+            393
+        ]
+    },
+    "Barrel Shooter": {
+        "Troops": [
+            69
+        ]
+    },
+    "Risky Drawing": {
+        "Skills": [
+            684
+        ]
+    },
+    "Big Zinger": {
+        "Weapons": [
+            6
+        ]
+    },
+    "Paralyze": {
+        "Skills": [
+            40
+        ]
+    },
+    "Dean Fritz-Clark": {
+        "Enemies": [
+            111
+        ]
+    },
+    "Illusion of Friends...?": {
+        "Enemies": [
+            130
+        ]
+    },
+    "Magician": {
+        "Classes": [
+            32
+        ]
+    },
+    "Brust Fire": {
+        "Skills": [
+            332
+        ]
+    },
+    "Paintbrush": {
+        "Skills": [
+            611
+        ]
+    },
+    "Sunset Express": {
+        "Troops": [
+            56,
+            105
+        ]
+    },
+    "Water Gun 2": {
+        "Skills": [
+            528
+        ]
+    },
+    "Bare Chest": {
+        "Armors": [
+            1
+        ]
+    },
+    "Dancing Dragon": {
+        "Skills": [
+            619
+        ]
+    },
+    "Lucha": {
+        "Skills": [
+            226
+        ]
+    },
+    "Sweet Tea Rakeem": {
+        "Enemies": [
+            25
+        ],
+        "Troops": [
+            21
+        ]
+    },
+    "Hawk Hollywood": {
+        "Enemies": [
+            91
+        ],
+        "Troops": [
+            54
+        ]
+    },
+    "Diesel F. Bomb": {
+        "Items": [
+            47
+        ]
+    },
+    "Finger Beam 2": {
+        "Skills": [
+            221,
+            407
+        ]
+    },
+    "Water Gun 3": {
+        "Skills": [
+            529
+        ]
+    },
+    "Truck Slam 3": {
+        "Skills": [
+            367
+        ]
+    },
+    "Shichishitou": {
+        "Weapons": [
+            29
+        ]
+    },
+    "Tackle Rush": {
+        "Skills": [
+            238
+        ]
+    },
+    "Big Fireball": {
+        "Skills": [
+            183
+        ]
+    },
+    "Wally Employees": {
+        "Troops": [
+            27
+        ]
+    },
+    "Cosmic Chop": {
+        "Skills": [
+            325
+        ]
+    },
+    "Stab": {
+        "Skills": [
+            606
+        ]
+    },
+    "Threaten": {
+        "Skills": [
+            302
+        ]
+    },
+    "GUITARS---------------------": {
+        "Weapons": [
+            87
+        ]
+    },
+    "Spark": {
+        "Skills": [
+            61
+        ]
+    },
+    "Thick Pads": {
+        "Armors": [
+            8
+        ]
+    },
+    "Big Shock!": {
+        "Skills": [
+            143
+        ]
+    },
+    "Terrible Terry": {
+        "Troops": [
+            96
+        ]
+    },
+    "Snake": {
+        "Enemies": [
+            10
+        ],
+        "Troops": [
+            9
+        ]
+    },
+    "TERRY HINTZ------------": {
+        "Skills": [
+            168
+        ]
+    },
+    "Restrengthen": {
+        "Skills": [
+            93
+        ]
+    },
+    "Hot Dance": {
+        "Skills": [
+            359
+        ]
+    },
+    "Little Cheer": {
+        "Skills": [
+            382
+        ]
+    },
+    "Mana Barrier": {
+        "Skills": [
+            125
+        ]
+    },
+    "Peacemaker": {
+        "Weapons": [
+            63
+        ]
+    },
+    "Wood Pecker Pokes": {
+        "Skills": [
+            609
+        ]
+    },
+    "Eastern Blade": {
+        "Weapons": [
+            25
+        ]
+    },
+    "Tiger Head": {
+        "Armors": [
+            112
+        ]
+    },
+    "SONNY-------------------": {
+        "Skills": [
+            653
+        ]
+    },
+    "Sleep": {
+        "Skills": [
+            39
+        ],
+        "States": [
+            6
+        ]
+    },
+    "Magic Hat?": {
+        "Skills": [
+            636,
+            637,
+            638,
+            639,
+            640,
+            641,
+            642,
+            643,
+            644,
+            645,
+            646
+        ]
+    },
+    "Blizzard": {
+        "Skills": [
+            57
+        ]
+    },
+    "Ollie": {
+        "Actors": [
+            20
+        ]
+    },
+    "Rage Ironhead": {
+        "Enemies": [
+            137
+        ]
+    },
+    "Silence": {
+        "Skills": [
+            37
+        ],
+        "States": [
+            4
+        ]
+    },
+    "Dancing Devil": {
+        "Skills": [
+            621
+        ]
+    },
+    "Pencil": {
+        "Weapons": [
+            115
+        ]
+    },
+    "Magic Staff": {
+        "Weapons": [
+            50
+        ]
+    },
+    "Left Punch": {
+        "Skills": [
+            33,
+            131
+        ]
+    },
+    "Nail Comb": {
+        "Skills": [
+            185
+        ]
+    },
+    "Herman Christmas": {
+        "Enemies": [
+            75
+        ]
+    },
+    "Weapon Break": {
+        "Skills": [
+            105
+        ]
+    },
+    "Cart Slam 4": {
+        "Skills": [
+            504
+        ]
+    },
+    "Gouge": {
+        "Skills": [
+            399
+        ]
+    },
+    "Lil' Diddy": {
+        "Skills": [
+            511
+        ]
+    },
+    "Graveyard Bomb": {
+        "Skills": [
+            396
+        ]
+    },
+    "Tackle": {
+        "Skills": [
+            85,
+            392,
+            577,
+            732,
+            755,
+            770
+        ]
+    },
+    "BRAD 1 ARM 2-------------------": {
+        "Skills": [
+            742
+        ]
+    },
+    "Tiger Suplex": {
+        "Skills": [
+            266
+        ]
+    },
+    "Withdrawal": {
+        "States": [
+            38
+        ]
+    },
+    "Rumble Group 2": {
+        "Troops": [
+            120
+        ]
+    },
+    "Whisper": {
+        "Skills": [
+            316
+        ]
+    },
+    "NO SHIRT 0 ARMS-------------------": {
+        "Skills": [
+            444
+        ]
+    },
+    "PONCHO---------------": {
+        "Armors": [
+            20
+        ]
+    },
+    "Life Up": {
+        "Items": [
+            27
+        ]
+    },
+    "RT": {
+        "Enemies": [
+            133,
+            189
+        ],
+        "Actors": [
+            4
+        ]
+    },
+    "Solid Punch": {
+        "Skills": [
+            166
+        ]
+    },
+    "Peck ": {
+        "Skills": [
+            486
+        ]
+    },
+    "Show Stopper": {
+        "Weapons": [
+            61
+        ]
+    },
+    "Abyssal Hammer": {
+        "Skills": [
+            412
+        ]
+    },
+    "Nail Bat": {
+        "Weapons": [
+            8
+        ]
+    },
+    "Mega Rapid Arrow": {
+        "Skills": [
+            209
+        ]
+    },
+    "The Homer": {
+        "Weapons": [
+            10
+        ]
+    },
+    "Bee Swanson": {
+        "Enemies": [
+            43
+        ],
+        "Troops": [
+            34
+        ]
+    },
+    "Thorn": {
+        "Skills": [
+            562
+        ]
+    },
+    "Bill Collectors": {
+        "Troops": [
+            102
+        ]
+    },
+    "Atlanta Slam": {
+        "Skills": [
+            343
+        ]
+    },
+    "Bobby Diddle": {
+        "Enemies": [
+            1
+        ],
+        "Troops": [
+            1
+        ]
+    },
+    "Damp Poncho": {
+        "Armors": [
+            4,
+            23
+        ]
+    },
+    "Gainer": {
+        "Skills": [
+            141,
+            548
+        ]
+    },
+    "Fire Ball 2": {
+        "Skills": [
+            52,
+            751,
+            766
+        ]
+    },
+    "Real Sugar Cocola Cola": {
+        "Items": [
+            7
+        ]
+    },
+    "Uppercut": {
+        "Skills": [
+            257,
+            605
+        ]
+    },
+    "Nectar": {
+        "Skills": [
+            559
+        ]
+    },
+    "Fatty Crossbone": {
+        "Enemies": [
+            205
+        ]
+    },
+    "Screeching Call": {
+        "Skills": [
+            425
+        ]
+    },
+    "Bullet Tornado": {
+        "Skills": [
+            598
+        ]
+    },
+    "Cleave": {
+        "Skills": [
+            81
+        ]
+    },
+    "Swig": {
+        "Skills": [
+            508
+        ]
+    },
+    "Dropkick": {
+        "Skills": [
+            13,
+            431,
+            445,
+            749,
+            764,
+            781,
+            782,
+            783
+        ]
+    },
+    "Truck Slam 4": {
+        "Skills": [
+            368
+        ]
+    },
+    "Decent Boomerang": {
+        "Weapons": [
+            44
+        ]
+    },
+    "Vantage Point": {
+        "Skills": [
+            210
+        ]
+    },
+    "Power Bomb": {
+        "Skills": [
+            324
+        ]
+    },
+    "Wary": {
+        "States": [
+            28
+        ]
+    },
+    "Blood Coyote": {
+        "Enemies": [
+            60
+        ],
+        "Troops": [
+            42
+        ]
+    },
+    "Drive-By": {
+        "Skills": [
+            503
+        ]
+    },
+    "Boulder Screw": {
+        "Skills": [
+            580
+        ]
+    },
+    "Stiff Arm": {
+        "Skills": [
+            331
+        ]
+    },
+    "Revolver": {
+        "Weapons": [
+            59
+        ]
+    },
+    "Tsubamekaeshi": {
+        "Skills": [
+            103
+        ]
+    },
+    "Rumble Group 3": {
+        "Troops": [
+            121
+        ]
+    },
+    "Fly Minetti": {
+        "Enemies": [
+            156
+        ]
+    },
+    "Worn Helmet": {
+        "Armors": [
+            64
+        ]
+    },
+    "Enhance Spell": {
+        "Skills": [
+            120
+        ]
+    },
+    "Barbaric Rush": {
+        "Skills": [
+            581
+        ]
+    },
+    "Oat Holiday": {
+        "Enemies": [
+            98
+        ]
+    },
+    "KO'ed": {
+        "States": [
+            1
+        ]
+    },
+    "Rumble Group 4": {
+        "Troops": [
+            122
+        ]
+    },
+    "Terry": {
+        "Actors": [
+            2
+        ]
+    },
+    "Poke": {
+        "Skills": [
+            256,
+            604
+        ]
+    },
+    "Sneaky Moss Man": {
+        "Troops": [
+            31
+        ]
+    },
+    "Weird Doll": {
+        "Items": [
+            69
+        ]
+    },
+    "War Hammer": {
+        "Weapons": [
+            45
+        ]
+    },
+    "Harmony Flynn": {
+        "Enemies": [
+            106
+        ]
+    },
+    "Blue": {
+        "Enemies": [
+            226
+        ],
+        "Troops": [
+            133
+        ]
+    },
+    "Harvey": {
+        "Actors": [
+            15
+        ],
+        "Armors": [
+            113
+        ]
+    },
+    "Knuckle Drop": {
+        "Skills": [
+            355
+        ]
+    },
+    "Mystery Man?!": {
+        "Enemies": [
+            214
+        ],
+        "Troops": [
+            116
+        ]
+    },
+    "Ailment Guard": {
+        "States": [
+            24
+        ]
+    },
+    "Rando Ration": {
+        "Items": [
+            26
+        ]
+    },
+    "QUEEN ROGER--------------": {
+        "Skills": [
+            296
+        ]
+    },
+    "Dirty Insult": {
+        "Skills": [
+            378
+        ]
+    },
+    "Red Tide": {
+        "Skills": [
+            612
+        ]
+    },
+    "Double Attack": {
+        "Skills": [
+            4
+        ]
+    },
+    "Muhammad Style Scroll": {
+        "Items": [
+            73
+        ]
+    },
+    "Blizzard II": {
+        "Skills": [
+            58
+        ]
+    },
+    "Kat": {
+        "States": [
+            49
+        ]
+    },
+    "Vernon Red": {
+        "Enemies": [
+            30
+        ]
+    },
+    "GEESE THOMPSON----": {
+        "Skills": [
+            485
+        ]
+    },
+    "Shadowy Figure": {
+        "Enemies": [
+            13
+        ],
+        "Troops": [
+            11
+        ]
+    },
+    "CHEEKS GAYWOOD------------": {
+        "Skills": [
+            140
+        ]
+    },
+    "Hoops Jardeen": {
+        "Enemies": [
+            16
+        ]
+    },
+    "Finger Beam 5": {
+        "Skills": [
+            224
+        ]
+    },
+    "Nobody": {
+        "Classes": [
+            1,
+            37,
+            38,
+            42
+        ]
+    },
+    "Antidote": {
+        "Items": [
+            20,
+            24,
+            38
+        ]
+    },
+    "BUCKETS--------------------": {
+        "Skills": [
+            590
+        ]
+    },
+    "Cosmo Cassamassa": {
+        "Enemies": [
+            24
+        ],
+        "Troops": [
+            20
+        ]
+    },
+    "RAGE------------------------": {
+        "Skills": [
+            225
+        ]
+    },
+    "Senton Bomb": {
+        "Skills": [
+            662
+        ]
+    },
+    "Bite": {
+        "Skills": [
+            20,
+            433,
+            447,
+            702,
+            746,
+            763,
+            778,
+            779,
+            780
+        ]
+    },
+    "Slave Lord Jim": {
+        "Enemies": [
+            193
+        ],
+        "Troops": [
+            87
+        ]
+    },
+    "Guard": {
+        "Skills": [
+            2
+        ],
+        "States": [
+            9
+        ]
+    },
+    "Soaring Knuckle     ": {
+        "Skills": [
+            352
+        ]
+    },
+    "CASSETTES": {
+        "Items": [
+            39
+        ]
+    },
+    "Holiday Slam": {
+        "Skills": [
+            342
+        ]
+    },
+    "Joy": {
+        "Items": [
+            43
+        ]
+    },
+    "Drinks on Me!": {
+        "Skills": [
+            509
+        ]
+    },
+    "Spell Resistance": {
+        "Skills": [
+            124
+        ]
+    },
+    "Sleep Powder": {
+        "Skills": [
+            624
+        ]
+    },
+    "Bomb Arrow": {
+        "Skills": [
+            203
+        ]
+    },
+    "Armour Break": {
+        "Skills": [
+            106
+        ]
+    },
+    "Lunatic Box": {
+        "Enemies": [
+            188
+        ],
+        "Troops": [
+            83
+        ]
+    },
+    "Ernie Shozo": {
+        "Enemies": [
+            67
+        ]
+    },
+    "Mana Drain": {
+        "Skills": [
+            50
+        ]
+    },
+    "Trash Talk": {
+        "Skills": [
+            344
+        ]
+    },
+    "Ghost Story": {
+        "Skills": [
+            376
+        ]
+    },
+    "Magic Hat 3": {
+        "Skills": [
+            648
+        ]
+    },
+    "Posionous Snake": {
+        "Troops": [
+            135
+        ]
+    },
+    "Wave": {
+        "Skills": [
+            64
+        ]
+    },
+    "Heads or Tails": {
+        "Skills": [
+            599
+        ]
+    },
+    "Somebody": {
+        "Classes": [
+            21,
+            22
+        ]
+    },
+    "Rando Army": {
+        "Troops": [
+            14,
+            15,
+            24
+        ]
+    },
+    "Nern": {
+        "Actors": [
+            7
+        ]
+    },
+    "Potato Peeler": {
+        "Weapons": [
+            69
+        ]
+    },
+    "Truck Slam": {
+        "Skills": [
+            144,
+            365
+        ]
+    },
+    "Counterattack": {
+        "States": [
+            18
+        ]
+    },
+    "Pervert": {
+        "Classes": [
+            3
+        ]
+    },
+    "Whip Flurry": {
+        "Skills": [
+            698,
+            700
+        ]
+    },
+    "Weather Alert": {
+        "Skills": [
+            363
+        ]
+    },
+    "Dandy Boy": {
+        "Weapons": [
+            75
+        ]
+    },
+    "Nipple": {
+        "Armors": [
+            80
+        ]
+    },
+    "Breath Armour": {
+        "Skills": [
+            42
+        ]
+    },
+    "Laser Aldino": {
+        "Enemies": [
+            28
+        ]
+    },
+    "Glare": {
+        "Skills": [
+            158
+        ]
+    },
+    "Iced Coffee": {
+        "Items": [
+            8
+        ]
+    },
+    "Mithril Mace": {
+        "Weapons": [
+            46
+        ]
+    },
+    "Divine Curse": {
+        "Skills": [
+            47
+        ]
+    },
+    "Groin Kick": {
+        "Skills": [
+            142
+        ]
+    },
+    "ROOSTER--------------------": {
+        "Skills": [
+            189
+        ]
+    },
+    "Mystery Jerky": {
+        "Items": [
+            1
+        ]
+    },
+    "Wushu Spear": {
+        "Items": [
+            52
+        ],
+        "Weapons": [
+            108
+        ]
+    },
+    "Yazim": {
+        "Enemies": [
+            154
+        ]
+    },
+    "Buster Punches": {
+        "Skills": [
+            12,
+            31
+        ]
+    },
+    "Deer Toss": {
+        "Skills": [
+            703
+        ]
+    },
+    "Student Creed": {
+        "Items": [
+            66
+        ]
+    },
+    "Leaf": {
+        "Skills": [
+            560
+        ]
+    },
+    "Toby Cream": {
+        "Enemies": [
+            93
+        ]
+    },
+    "Whip": {
+        "Skills": [
+            694
+        ],
+        "Weapons": [
+            116
+        ]
+    },
+    "Wait": {
+        "Skills": [
+            7
+        ]
+    },
+    "Berserker's Dance": {
+        "Skills": [
+            83
+        ]
+    },
+    "Silk Poncho": {
+        "Armors": [
+            31
+        ]
+    },
+    "Firebomb": {
+        "Skills": [
+            164
+        ],
+        "Items": [
+            42
+        ]
+    },
+    "Yoroidoshi": {
+        "Skills": [
+            100
+        ]
+    },
+    "Party Time!": {
+        "Skills": [
+            549
+        ]
+    },
+    "Defend Friend": {
+        "Skills": [
+            394
+        ]
+    },
+    "Barrel Clubber": {
+        "Troops": [
+            70
+        ]
+    },
+    "Harley Denim": {
+        "Enemies": [
+            95
+        ]
+    },
+    "All-Star Bands": {
+        "Weapons": [
+            15
+        ]
+    },
+    "Deep Poison Peck": {
+        "Skills": [
+            492
+        ]
+    },
+    "Wildman": {
+        "Classes": [
+            36
+        ]
+    },
+    "Paint Can": {
+        "Armors": [
+            111
+        ]
+    },
+    "Purrfect": {
+        "Skills": [
+            674
+        ]
+    },
+    "Queen Bee": {
+        "Classes": [
+            25
+        ]
+    },
+    "Shintou Mekkyaku": {
+        "Skills": [
+            101
+        ]
+    },
+    "Percy Monsoon": {
+        "Enemies": [
+            138
+        ]
+    },
+    "Doctor": {
+        "Enemies": [
+            57
+        ],
+        "Troops": [
+            39
+        ]
+    },
+    "Koo Dragonhead": {
+        "Enemies": [
+            116
+        ]
+    },
+    "Sharpened Curtain Rod": {
+        "Weapons": [
+            109
+        ]
+    },
+    "Confusion": {
+        "States": [
+            5
+        ]
+    },
+    "Fisherman's Hat": {
+        "Armors": [
+            106
+        ]
+    },
+    "Resist Up": {
+        "Items": [
+            32
+        ]
+    },
+    "BRAD NO SHIRT-----------": {
+        "Skills": [
+            777
+        ]
+    },
+    "Missle Headbutt": {
+        "Skills": [
+            231
+        ]
+    },
+    "Warren Red": {
+        "Enemies": [
+            31
+        ]
+    },
+    "Uncomfortable Drawing": {
+        "Skills": [
+            685
+        ]
+    },
+    "Clint Moss": {
+        "Enemies": [
+            164
+        ]
+    },
+    "Right Punch": {
+        "Skills": [
+            32,
+            130,
+            747
+        ]
+    },
+    "Seriously?": {
+        "Skills": [
+            338
+        ]
+    },
+    "Big Bomb Arrow": {
+        "Skills": [
+            204
+        ]
+    },
+    "Big Stampede": {
+        "Skills": [
+            701
+        ]
+    },
+    "LUCHA MASKS-------------------": {
+        "Armors": [
+            61
+        ]
+    },
+    "BUFFALO----------------": {
+        "Skills": [
+            576
+        ]
+    },
+    "Hot Cutter": {
+        "Skills": [
+            537
+        ]
+    },
+    "BUCKETS---------------------": {
+        "Skills": [
+            241
+        ]
+    },
+    "Howling Gyser": {
+        "Skills": [
+            329
+        ]
+    },
+    "Spear Work": {
+        "Skills": [
+            603
+        ]
+    },
+    "Card Toss": {
+        "Skills": [
+            631
+        ]
+    },
+    "Turban": {
+        "Armors": [
+            99
+        ]
+    },
+    "Bag Swat": {
+        "Skills": [
+            711
+        ]
+    },
+    "Cocola Cola": {
+        "Items": [
+            5
+        ]
+    },
+    "Gator Clamp": {
+        "Skills": [
+            273
+        ]
+    },
+    "Falling Tree Slam        ": {
+        "Skills": [
+            228
+        ]
+    },
+    "Perplexing Drawing": {
+        "Skills": [
+            686
+        ]
+    },
+    "Garbage Map": {
+        "Items": [
+            53
+        ]
+    },
+    "Smoke Bomb": {
+        "Skills": [
+            275
+        ]
+    },
+    "Magic Torrent": {
+        "Skills": [
+            122
+        ]
+    },
+    "Cotton Wristbands": {
+        "Weapons": [
+            17
+        ]
+    },
+    "Drunkard": {
+        "Classes": [
+            15
+        ]
+    },
+    "Dainty Shawl": {
+        "Armors": [
+            9
+        ]
+    },
+    "Olan Hoyt": {
+        "Enemies": [
+            135,
+            161
+        ]
+    },
+    "Blood Bow": {
+        "Weapons": [
+            37
+        ]
+    },
+    "Clint Olympic": {
+        "Enemies": [
+            145
+        ]
+    },
+    "The Ruler": {
+        "Weapons": [
+            64
+        ]
+    },
+    "Thief's Luck": {
+        "Skills": [
+            112
+        ]
+    },
+    "Booker Clinton": {
+        "Enemies": [
+            15
+        ],
+        "Troops": [
+            13
+        ]
+    },
+    "Tex Diablo": {
+        "Enemies": [
+            232
+        ],
+        "Troops": [
+            139
+        ]
+    },
+    "Deer Bomb": {
+        "Skills": [
+            705
+        ]
+    },
+    "Fallen": {
+        "States": [
+            41
+        ]
+    },
+    "Charmy": {
+        "Enemies": [
+            9
+        ],
+        "Troops": [
+            8
+        ]
+    },
+    "Casanova": {
+        "Classes": [
+            27
+        ]
+    },
+    "Grandpa's Shirt": {
+        "Armors": [
+            93
+        ]
+    },
+    "Drunk": {
+        "States": [
+            34
+        ]
+    },
+    "Jim Corncob ": {
+        "Enemies": [
+            99
+        ]
+    },
+    "Inform": {
+        "Skills": [
+            171
+        ]
+    },
+    "Foreign Objection": {
+        "Enemies": [
+            83
+        ],
+        "Troops": [
+            109
+        ]
+    },
+    "The Last Cheer!": {
+        "Skills": [
+            354
+        ]
+    },
+    "Final Head Rush": {
+        "Skills": [
+            237
+        ]
+    },
+    "Chop": {
+        "Skills": [
+            274
+        ]
+    },
+    "Big Fire Ball": {
+        "Skills": [
+            138
+        ]
+    },
+    "Force Wand": {
+        "Weapons": [
+            51
+        ]
+    },
+    "Attack": {
+        "Skills": [
+            1,
+            170
+        ]
+    },
+    "Gonzalo Style Scroll": {
+        "Items": [
+            64
+        ]
+    },
+    "Dirty Stab": {
+        "Skills": [
+            683
+        ]
+    },
+    "Slap": {
+        "Skills": [
+            192
+        ]
+    },
+    "Block": {
+        "Skills": [
+            345,
+            346
+        ]
+    },
+    "Unspeakable Drawing": {
+        "Skills": [
+            688
+        ]
+    },
+    "Hair whip": {
+        "Skills": [
+            179
+        ]
+    },
+    "Playing Cards": {
+        "Weapons": [
+            114
+        ]
+    },
+    "Columbo": {
+        "Enemies": [
+            162
+        ]
+    },
+    "Man's Worst Friend": {
+        "Enemies": [
+            207
+        ],
+        "Troops": [
+            112
+        ]
+    },
+    "NO SHIRT ARMS-------------------": {
+        "Skills": [
+            464
+        ]
+    },
+    "RICHARD WEEKS------------": {
+        "Skills": [
+            128
+        ]
+    },
+    "Yo Hosei": {
+        "Enemies": [
+            69
+        ]
+    },
+    "Peer": {
+        "Skills": [
+            290
+        ]
+    },
+    "Pea Shooter": {
+        "Weapons": [
+            60
+        ]
+    },
+    "Carp": {
+        "Enemies": [
+            143
+        ],
+        "Actors": [
+            14
+        ]
+    },
+    "Run away": {
+        "Skills": [
+            390
+        ]
+    },
+    "Ollie Nickels": {
+        "Enemies": [
+            149
+        ]
+    },
+    "Huey Fujiwara": {
+        "Enemies": [
+            70
+        ]
+    },
+    "Perfume": {
+        "Items": [
+            9
+        ]
+    },
+    "Sweep": {
+        "Skills": [
+            293
+        ]
+    },
+    "Adventure Whip": {
+        "Weapons": [
+            118
+        ]
+    },
+    "Stimulant": {
+        "Items": [
+            19,
+            23,
+            37
+        ]
+    },
+    "TAG TEAMS--------": {
+        "Troops": [
+            100
+        ]
+    },
+    "Diet Cocola Cola": {
+        "Items": [
+            4
+        ]
+    },
+    "Ground Breaker": {
+        "Weapons": [
+            47
+        ]
+    },
+    "Smile": {
+        "Skills": [
+            333
+        ]
+    },
+    "Black Hole": {
+        "Enemies": [
+            85
+        ]
+    },
+    "Fire Blast": {
+        "Skills": [
+            784,
+            785,
+            786
+        ]
+    },
+    "Judgement": {
+        "Skills": [
+            675
+        ]
+    },
+    "Nightmare": {
+        "Skills": [
+            121
+        ]
+    },
+    "Horrace's Hardhat": {
+        "Armors": [
+            65
+        ]
+    },
+    "Cool Pose": {
+        "Skills": [
+            178
+        ]
+    },
+    "Thigh Crusher": {
+        "Skills": [
+            567
+        ]
+    },
+    "Horrified": {
+        "Skills": [
+            391
+        ]
+    },
+    "Deer Driver": {
+        "Skills": [
+            706
+        ]
+    },
+    "KNIFE----------------------": {
+        "Weapons": [
+            19
+        ]
+    },
+    "Paralyze Stare": {
+        "Skills": [
+            19
+        ]
+    },
+    "Jonathan": {
+        "Enemies": [
+            194
+        ],
+        "Troops": [
+            88
+        ]
+    },
+    "Machine Gun Thrust": {
+        "Skills": [
+            546
+        ]
+    },
+    "Puke": {
+        "Skills": [
+            499
+        ]
+    },
+    "Rando Army 2": {
+        "Troops": [
+            58
+        ]
+    },
+    "Percy": {
+        "Actors": [
+            9
+        ]
+    },
+    "Big slice": {
+        "Skills": [
+            174
+        ]
+    },
+    "Flint Lock": {
+        "Weapons": [
+            55
+        ]
+    },
+    "Poison Peck": {
+        "Skills": [
+            491
+        ]
+    },
+    "Out of Control!": {
+        "Skills": [
+            279
+        ]
+    },
+    "David Beesta": {
+        "Enemies": [
+            48
+        ]
+    },
+    "Savage Elbow": {
+        "Skills": [
+            718
+        ]
+    },
+    "ENEMY ATTACKS!!!!": {
+        "Skills": [
+            265
+        ]
+    },
+    "NO SHIRT 1 ARM-------------------": {
+        "Skills": [
+            430
+        ]
+    },
+    "Claw Attack": {
+        "Skills": [
+            384
+        ]
+    },
+    "True Ghost Story        ": {
+        "Skills": [
+            377
+        ]
+    },
+    "Mongolian Chop": {
+        "Skills": [
+            267
+        ]
+    },
+    "Tornado": {
+        "Skills": [
+            68
+        ]
+    },
+    "Fairy's Breath": {
+        "Skills": [
+            116
+        ]
+    },
+    "Float Ziggler": {
+        "Enemies": [
+            114
+        ]
+    },
+    "Sleep Pollen": {
+        "Skills": [
+            17
+        ]
+    },
+    "Rooster Coleman": {
+        "Enemies": [
+            134
+        ]
+    },
+    "BRAD 0 ARM 2-------------------": {
+        "Skills": [
+            761
+        ]
+    },
+    "Lab Coat": {
+        "Armors": [
+            94
+        ]
+    },
+    "Atlanta Gunn": {
+        "Enemies": [
+            97
+        ]
+    },
+    "Wonder Wizard": {
+        "Enemies": [
+            210
+        ],
+        "Troops": [
+            113,
+            123
+        ]
+    },
+    "Confusion Song": {
+        "Skills": [
+            15
+        ]
+    },
+    "Fever River 3": {
+        "Skills": [
+            320
+        ]
+    },
+    "Grope": {
+        "Skills": [
+            155
+        ]
+    },
+    "Frogsplash": {
+        "Skills": [
+            657
+        ]
+    },
+    "Former Friend": {
+        "Enemies": [
+            202
+        ]
+    },
+    "Exhuast": {
+        "Skills": [
+            277
+        ]
+    },
+    "Vanish": {
+        "Skills": [
+            110
+        ]
+    },
+    "Bird Mask": {
+        "Armors": [
+            101
+        ]
+    },
+    "Final Deer Driver": {
+        "Skills": [
+            708
+        ]
+    },
+    "--------------------": {
+        "Skills": [
+            75,
+            79
+        ]
+    },
+    "Buffalo Charge!": {
+        "Skills": [
+            330
+        ]
+    },
+    "Wyatt \"Business\" King": {
+        "Troops": [
+            38
+        ]
+    },
+    "Bullet Ballet": {
+        "Skills": [
+            597
+        ]
+    },
+    "Magic Reflect": {
+        "Skills": [
+            119
+        ],
+        "States": [
+            20
+        ]
+    },
+    "Great Desperado Kick": {
+        "Skills": [
+            564
+        ]
+    },
+    "Clothesline": {
+        "Skills": [
+            654
+        ]
+    },
+    "Hair Club Presidents": {
+        "Troops": [
+            7
+        ]
+    },
+    "Cat Paw": {
+        "Armors": [
+            73
+        ]
+    },
+    "Brain Removal": {
+        "Skills": [
+            666
+        ]
+    },
+    "Shag Poncho": {
+        "Armors": [
+            10,
+            24
+        ]
+    },
+    "Chopping Axe": {
+        "Weapons": [
+            3
+        ]
+    },
+    "Super Puke": {
+        "Skills": [
+            505
+        ]
+    },
+    "Green Paste": {
+        "Items": [
+            48
+        ]
+    },
+    "Party Mode": {
+        "States": [
+            47
+        ]
+    },
+    "Needle": {
+        "Skills": [
+            400
+        ]
+    },
+    "Woo!": {
+        "Skills": [
+            335
+        ]
+    },
+    "Bernie Mantee": {
+        "Enemies": [
+            92
+        ]
+    },
+    "Decapitate": {
+        "Skills": [
+            397
+        ]
+    },
+    "PICK UP----------------------": {
+        "Skills": [
+            374
+        ]
+    },
+    "Buddy's Poncho": {
+        "Armors": [
+            28
+        ]
+    },
+    "Finger Beam 3": {
+        "Skills": [
+            222,
+            408
+        ]
+    },
+    "Quake": {
+        "Skills": [
+            66
+        ]
+    },
+    "Football Helmet": {
+        "Armors": [
+            127
+        ]
+    },
+    "Note 4": {
+        "Skills": [
+            418
+        ]
+    },
+    "Greasy Poncho": {
+        "Armors": [
+            27
+        ]
+    },
+    "Wooden Bow": {
+        "Weapons": [
+            31
+        ]
+    },
+    "Spark II": {
+        "Skills": [
+            62
+        ]
+    },
+    "Dispel": {
+        "Skills": [
+            96
+        ]
+    },
+    "Flare": {
+        "Skills": [
+            111
+        ]
+    },
+    "Lucky Feather": {
+        "Armors": [
+            53,
+            69
+        ]
+    },
+    "Lost in thought": {
+        "Skills": [
+            337
+        ]
+    },
+    "Grandma's Shawl": {
+        "Armors": [
+            19
+        ]
+    },
+    "SQURRIEL--------------------": {
+        "Skills": [
+            693
+        ]
+    },
+    "Buddy's Mask": {
+        "Items": [
+            50
+        ]
+    },
+    "Sea Sea Rock": {
+        "Enemies": [
+            42
+        ]
+    },
+    "Domestic Jerky": {
+        "Items": [
+            2
+        ]
+    },
+    "Terry Hintz": {
+        "Enemies": [
+            131
+        ]
+    },
+    "STICKY ANGONELI----------": {
+        "Skills": [
+            148
+        ]
+    },
+    "NUDE-------------------------": {
+        "Armors": [
+            118
+        ]
+    },
+    "Bill Pisster": {
+        "Enemies": [
+            89
+        ]
+    },
+    "Magic Hat": {
+        "Skills": [
+            635
+        ]
+    },
+    "Dojo Buster": {
+        "Classes": [
+            30
+        ],
+        "Enemies": [
+            192
+        ]
+    },
+    "Critter Clamp": {
+        "Skills": [
+            699
+        ]
+    },
+    "BRAD ARMSTRONG--------": {
+        "Skills": [
+            51
+        ]
+    },
+    "Big Swing": {
+        "Skills": [
+            167
+        ]
+    },
+    "Encourage Greatly": {
+        "Skills": [
+            139
+        ]
+    },
+    "BRAD FINE------------": {
+        "Skills": [
+            27
+        ]
+    },
+    "Grenada 9": {
+        "Weapons": [
+            74
+        ]
+    },
+    "AJEET MANDEEP---------": {
+        "Skills": [
+            398
+        ]
+    },
+    "Gasoline Spit": {
+        "Skills": [
+            510
+        ]
+    },
+    "Soak": {
+        "Skills": [
+            530
+        ]
+    },
+    "Cape": {
+        "Armors": [
+            72
+        ]
+    },
+    "Homerun Head Slide": {
+        "Skills": [
+            436,
+            450,
+            736,
+            759,
+            774
+        ]
+    },
+    "Ouka Mugen jin": {
+        "Skills": [
+            104
+        ]
+    },
+    "Wally": {
+        "Enemies": [
+            33,
+            34,
+            35
+        ],
+        "Troops": [
+            26
+        ]
+    },
+    "Nugget": {
+        "Items": [
+            51
+        ]
+    },
+    "Hellball": {
+        "Skills": [
+            184
+        ]
+    },
+    "Gavin Davidson": {
+        "Enemies": [
+            199
+        ],
+        "Troops": [
+            93
+        ]
+    },
+    "Deep Poison Arrow": {
+        "Skills": [
+            206
+        ]
+    },
+    "Stun": {
+        "States": [
+            8
+        ]
+    },
+    "Bottle of Dirty Water": {
+        "Items": [
+            15
+        ]
+    },
+    "Toratouru": {
+        "Weapons": [
+            27
+        ]
+    },
+    "Artistic Discussion": {
+        "Skills": [
+            690
+        ]
+    },
+    "Yoke up": {
+        "Skills": [
+            395
+        ]
+    },
+    "Ravishing Point": {
+        "Skills": [
+            570
+        ]
+    },
+    "Rando": {
+        "Enemies": [
+            165,
+            166
+        ],
+        "Troops": [
+            66
+        ]
+    },
+    "Badass Belt Buckle": {
+        "Armors": [
+            75
+        ]
+    },
+    "Trick Card": {
+        "Skills": [
+            632
+        ]
+    },
+    "Hush": {
+        "Skills": [
+            402
+        ]
+    },
+    "ACCESORIES-----------": {
+        "Armors": [
+            66
+        ]
+    },
+    "INSTA KILLS------------------------": {
+        "Skills": [
+            808
+        ]
+    },
+    "Cheer!": {
+        "Skills": [
+            169
+        ]
+    },
+    "Speed Up": {
+        "Items": [
+            33
+        ]
+    },
+    "Needle Tsunami": {
+        "Skills": [
+            575
+        ]
+    },
+    "Sister's Kiss": {
+        "Skills": [
+            625
+        ]
+    },
+    "Blood Bull": {
+        "Enemies": [
+            62
+        ],
+        "Troops": [
+            45
+        ]
+    },
+    "Scared": {
+        "Skills": [
+            389
+        ],
+        "States": [
+            7
+        ]
+    },
+    "Fly": {
+        "Actors": [
+            27
+        ]
+    },
+    "Spiked Pads": {
+        "Armors": [
+            37
+        ]
+    },
+    "Buddy": {
+        "Enemies": [
+            103
+        ]
+    },
+    "Truck Driver": {
+        "Classes": [
+            13
+        ]
+    },
+    "Lil' Nuggie": {
+        "Enemies": [
+            38
+        ],
+        "Troops": [
+            29
+        ]
+    },
+    "Big Deer Driver": {
+        "Skills": [
+            707
+        ]
+    },
+    "Dry Stick": {
+        "Weapons": [
+            2
+        ]
+    },
+    "Grin": {
+        "Skills": [
+            154
+        ]
+    },
+    "Vic Cherry": {
+        "Enemies": [
+            231
+        ]
+    },
+    "Rocket Impaler": {
+        "Skills": [
+            405
+        ]
+    },
+    "Laugh": {
+        "Skills": [
+            285
+        ]
+    },
+    "Walt Steamboat": {
+        "Enemies": [
+            125
+        ]
+    },
+    "Wooden Bat": {
+        "Weapons": [
+            4
+        ]
+    },
+    "Wrongful Accusation": {
+        "Skills": [
+            523
+        ]
+    },
+    "God's Call": {
+        "Skills": [
+            423
+        ]
+    },
+    "RT----------------------------": {
+        "Skills": [
+            710
+        ]
+    },
+    "Piledriver": {
+        "Skills": [
+            340
+        ]
+    },
+    "Paralyzing Whip": {
+        "Skills": [
+            696
+        ]
+    },
+    "Hungover": {
+        "States": [
+            33
+        ]
+    },
+    "Encourage": {
+        "Skills": [
+            137
+        ]
+    },
+    "TIGERMAN------------------------------": {
+        "Skills": [
+            602
+        ]
+    },
+    "ENEMY ATTACKS 3---------": {
+        "Skills": [
+            328
+        ]
+    },
+    "Extorted": {
+        "States": [
+            45
+        ]
+    },
+    "Truck Keys": {
+        "Items": [
+            45
+        ]
+    },
+    "Ram": {
+        "Skills": [
+            278
+        ]
+    },
+    "Columbo's Gents": {
+        "Troops": [
+            97
+        ]
+    },
+    "Dual Attack": {
+        "Skills": [
+            3
+        ]
+    },
+    "Georgy": {
+        "Enemies": [
+            227
+        ],
+        "Troops": [
+            134
+        ]
+    },
+    "Double Palm Thrust": {
+        "Skills": [
+            10,
+            30
+        ]
+    },
+    "Thunder Force": {
+        "States": [
+            23
+        ]
+    },
+    "Headspin": {
+        "Skills": [
+            552
+        ]
+    },
+    "Cart Slam 3": {
+        "Skills": [
+            502
+        ]
+    },
+    "Power Up": {
+        "Items": [
+            29
+        ]
+    },
+    "SPEAR-------------------------": {
+        "Weapons": [
+            107
+        ]
+    },
+    "Heart Squeeze": {
+        "Skills": [
+            810
+        ]
+    },
+    "Bear Hug": {
+        "Skills": [
+            661
+        ]
+    },
+    "Spiked Bat": {
+        "Weapons": [
+            43
+        ]
+    },
+    "Zero Storm": {
+        "Skills": [
+            94
+        ]
+    },
+    "Punkert": {
+        "Enemies": [
+            176
+        ],
+        "Troops": [
+            75
+        ]
+    },
+    "Wyatt Business King": {
+        "Enemies": [
+            56
+        ]
+    },
+    "Lunatic Fridge": {
+        "Enemies": [
+            186,
+            187
+        ],
+        "Troops": [
+            81,
+            82
+        ]
+    },
+    "Fever River 2": {
+        "Skills": [
+            319
+        ]
+    },
+    "Neck Break": {
+        "Skills": [
+            809
+        ]
+    },
+    "TERRY HINTZ-------------": {
+        "Skills": [
+            348
+        ]
+    },
+    "Willard Dillard": {
+        "Enemies": [
+            54
+        ],
+        "Troops": [
+            36
+        ]
+    },
+    "Wildcard": {
+        "Classes": [
+            4
+        ]
+    },
+    "Trust for Suckers": {
+        "Items": [
+            65
+        ]
+    },
+    "Critter Gone": {
+        "States": [
+            52
+        ]
+    },
+    "Rolling Gale": {
+        "Skills": [
+            195
+        ]
+    },
+    "Party Boy": {
+        "Classes": [
+            26
+        ]
+    },
+    "Dolf Bones": {
+        "Enemies": [
+            177
+        ]
+    },
+    "Camo Shawl": {
+        "Armors": [
+            12
+        ]
+    },
+    "Stall": {
+        "Skills": [
+            807
+        ]
+    },
+    "Scary Clothesline": {
+        "Skills": [
+            663
+        ]
+    },
+    "Pistoleer": {
+        "Classes": [
+            28
+        ]
+    },
+    "Poison Mist": {
+        "Skills": [
+            310,
+            326
+        ]
+    },
+    "Swing": {
+        "Skills": [
+            149
+        ]
+    },
+    "Bulldozer": {
+        "Classes": [
+            14
+        ]
+    },
+    "Longbow": {
+        "Weapons": [
+            32
+        ]
+    },
+    "Bag of What?": {
+        "Skills": [
+            716
+        ]
+    },
+    "GIMMICKS-----------------": {
+        "Weapons": [
+            113
+        ]
+    },
+    "Red Armbands": {
+        "Weapons": [
+            14
+        ]
+    },
+    "TIGER-------------------": {
+        "Skills": [
+            253
+        ]
+    },
+    "Sugar Mountain": {
+        "Enemies": [
+            14
+        ]
+    },
+    "Wool Wristbands": {
+        "Weapons": [
+            13
+        ]
+    },
+    "Leather Poncho": {
+        "Armors": [
+            3,
+            22
+        ]
+    },
+    "Ira Temple": {
+        "Enemies": [
+            107
+        ]
+    },
+    "Childs Blanket": {
+        "Armors": [
+            16
+        ]
+    },
+    "Fardy": {
+        "Actors": [
+            12
+        ]
+    },
+    "Fluffy Wuffy": {
+        "Skills": [
+            673
+        ]
+    },
+    "Sugar Mountian": {
+        "Troops": [
+            12
+        ]
+    },
+    "Poison Bite": {
+        "Skills": [
+            21
+        ]
+    },
+    "Exhaust": {
+        "Skills": [
+            283
+        ]
+    },
+    "Playboy": {
+        "Classes": [
+            19
+        ]
+    },
+    "Hassou": {
+        "Skills": [
+            102
+        ]
+    },
+    "Onion Vodka": {
+        "Items": [
+            62
+        ]
+    },
+    "Rolling Hail": {
+        "Skills": [
+            196
+        ]
+    },
+    "Note 2": {
+        "Skills": [
+            416
+        ]
+    },
+    "Party Pose": {
+        "Skills": [
+            550
+        ]
+    },
+    "Deep Poison Mist": {
+        "Skills": [
+            311
+        ]
+    },
+    "Yell": {
+        "Skills": [
+            156
+        ]
+    },
+    "The Crossbones": {
+        "Troops": [
+            103
+        ]
+    },
+    "Bee": {
+        "Classes": [
+            17
+        ]
+    },
+    "Trash Bag Poncho": {
+        "Armors": [
+            52
+        ]
+    },
+    "Musket": {
+        "Weapons": [
+            56
+        ]
+    },
+    "Sunsetter": {
+        "Weapons": [
+            65
+        ]
+    },
+    "Ice Weapon": {
+        "Skills": [
+            77
+        ]
+    },
+    "Dead Flower": {
+        "Armors": [
+            71
+        ]
+    },
+    "Sports Jersey": {
+        "Armors": [
+            90
+        ]
+    },
+    "Degrading Dress": {
+        "Items": [
+            67
+        ]
+    },
+    "Kat Gone": {
+        "States": [
+            51
+        ]
+    },
+    "Bottle Throw": {
+        "Skills": [
+            163
+        ]
+    },
+    "Ninja Scarf": {
+        "Armors": [
+            15
+        ]
+    },
+    "Drunkard Tumble 3": {
+        "Skills": [
+            515
+        ]
+    },
+    "Bullet Saw": {
+        "Skills": [
+            618
+        ]
+    },
+    "Odd Helmet": {
+        "Armors": [
+            100
+        ]
+    },
+    "Armed Snowman": {
+        "Enemies": [
+            72
+        ],
+        "Troops": [
+            48,
+            49,
+            50
+        ]
+    },
+    "Nightmare Hold": {
+        "Skills": [
+            722
+        ]
+    },
+    "Drab Tank Top": {
+        "Armors": [
+            89
+        ]
+    },
+    "Rooster": {
+        "Actors": [
+            5
+        ]
+    },
+    "Quint Crossbone": {
+        "Enemies": [
+            206
+        ]
+    },
+    "Tissue": {
+        "Items": [
+            68
+        ]
+    },
+    "Reinforce": {
+        "Skills": [
+            98
+        ]
+    },
+    "Darkness": {
+        "Skills": [
+            72
+        ]
+    },
+    "Buiscits n' Gravy": {
+        "Enemies": [
+            44
+        ],
+        "Troops": [
+            108
+        ]
+    },
+    "Big Cheer!": {
+        "Skills": [
+            349
+        ]
+    },
+    "E. Ric Sweety": {
+        "Enemies": [
+            209
+        ]
+    },
+    "Big Knuckle Drop   ": {
+        "Skills": [
+            356
+        ]
+    },
+    "Sleeper Hold": {
+        "Skills": [
+            721
+        ]
+    },
+    "Greaser": {
+        "Classes": [
+            31
+        ]
+    },
+    "Clint": {
+        "Actors": [
+            16
+        ]
+    },
+    "Saint": {
+        "Skills": [
+            69
+        ]
+    },
+    "Duffel Bag": {
+        "Items": [
+            71
+        ],
+        "Weapons": [
+            119
+        ]
+    },
+    "Cinderblock": {
+        "Skills": [
+            327
+        ]
+    },
+    "Cat Shephard": {
+        "Classes": [
+            34
+        ]
+    },
+    "Picnic Blanket": {
+        "Armors": [
+            26
+        ]
+    },
+    "Wild Strike!": {
+        "Skills": [
+            334
+        ]
+    },
+    "Nuclear": {
+        "Skills": [
+            74
+        ]
+    },
+    "Reigin no Tachi": {
+        "Weapons": [
+            28
+        ]
+    },
+    "Beatdown": {
+        "Skills": [
+            299
+        ]
+    },
+    "Hype Up!": {
+        "Skills": [
+            362
+        ]
+    },
+    "Punch": {
+        "Skills": [
+            161
+        ]
+    },
+    "Doomsday Style Scroll": {
+        "Items": [
+            75
+        ]
+    },
+    "Patriot Exploder": {
+        "Skills": [
+            586
+        ]
+    },
+    "Cross Chop": {
+        "Skills": [
+            288
+        ]
+    },
+    "Cart Slam 2": {
+        "Skills": [
+            501
+        ]
+    },
+    "Oiled Up": {
+        "States": [
+            46
+        ]
+    },
+    "Walker O'Brian": {
+        "Enemies": [
+            79
+        ]
+    },
+    "Hair": {
+        "Enemies": [
+            8
+        ]
+    },
+    "Curse Slash": {
+        "Skills": [
+            676
+        ]
+    },
+    "Butter Knife": {
+        "Weapons": [
+            21
+        ]
+    },
+    "Schizo-Wrestler": {
+        "Classes": [
+            33
+        ]
+    },
+    "Death Queen": {
+        "Enemies": [
+            212
+        ],
+        "Troops": [
+            115
+        ]
+    },
+    "Beady": {
+        "Enemies": [
+            225
+        ],
+        "Troops": [
+            132
+        ]
+    },
+    "Confuse": {
+        "Skills": [
+            38
+        ]
+    },
+    "Ned Tanaka": {
+        "Enemies": [
+            68
+        ]
+    },
+    "Bark Bronzee": {
+        "Enemies": [
+            178
+        ]
+    },
+    "Thousand Arrows": {
+        "Skills": [
+            109
+        ]
+    },
+    "GARTH--------------------": {
+        "Skills": [
+            682
+        ]
+    },
+    "Strongly Inform          ": {
+        "Skills": [
+            350
+        ]
+    },
+    "Triple Shot": {
+        "Skills": [
+            108
+        ]
+    },
+    "Lights Out": {
+        "Skills": [
+            656
+        ]
+    },
+    "Thunder Weapon": {
+        "Skills": [
+            78
+        ]
+    },
+    "Geese": {
+        "Actors": [
+            21
+        ]
+    },
+    "Bullet Shuffle": {
+        "Skills": [
+            595
+        ]
+    },
+    "Berserker's Roar": {
+        "Skills": [
+            82
+        ]
+    },
+    "Bathhouse Boys": {
+        "Troops": [
+            47
+        ]
+    },
+    "Valiant Edge": {
+        "Skills": [
+            114
+        ]
+    },
+    "Hyper Hair-Gro": {
+        "Armors": [
+            115
+        ]
+    },
+    "Joyous Fist": {
+        "Skills": [
+            373
+        ]
+    },
+    "BRAD 2-------------------": {
+        "Skills": [
+            725
+        ]
+    },
+    "Bowsman": {
+        "Classes": [
+            7
+        ]
+    },
+    "Road Scholars": {
+        "Troops": [
+            55
+        ]
+    },
+    "Stink": {
+        "States": [
+            35
+        ]
+    },
+    "Mid-Life Crisis Hat": {
+        "Armors": [
+            117
+        ]
+    },
+    "God's Will": {
+        "Skills": [
+            117
+        ]
+    },
+    "NERN----------------------": {
+        "Skills": [
+            212
+        ]
+    },
+    "Space Hammer": {
+        "Skills": [
+            410
+        ]
+    },
+    "Tuesday Morning": {
+        "Weapons": [
+            72
+        ]
+    },
+    "Ajeet": {
+        "Actors": [
+            28
+        ]
+    },
+    "Bard": {
+        "Classes": [
+            20
+        ]
+    },
+    "Floral Shirt": {
+        "Armors": [
+            92
+        ]
+    },
+    "Double Swipe": {
+        "Skills": [
+            254,
+            607
+        ]
+    },
+    "Nosey": {
+        "Weapons": [
+            62
+        ]
+    },
+    "Stone": {
+        "Skills": [
+            65
+        ]
+    },
+    "Fire Ball": {
+        "Skills": [
+            25,
+            134,
+            432,
+            446,
+            750,
+            765
+        ]
+    },
+    "Deer Horn": {
+        "Skills": [
+            294
+        ]
+    },
+    "Metal Shield": {
+        "Armors": [
+            43
+        ]
+    },
+    "Your Gang": {
+        "Troops": [
+            64
+        ]
+    },
+    "Questionable Drawing": {
+        "Skills": [
+            687
+        ]
+    },
+    "Jeffery Coommings": {
+        "Enemies": [
+            5
+        ],
+        "Troops": [
+            5
+        ]
+    },
+    "Big Ant": {
+        "Enemies": [
+            108
+        ]
+    },
+    "Blue Rockets": {
+        "Troops": [
+            76
+        ]
+    },
+    "Zanbatou": {
+        "Weapons": [
+            26
+        ]
+    },
+    "HP Regen": {
+        "States": [
+            14
+        ]
+    },
+    "Pushover": {
+        "Classes": [
+            2
+        ]
+    },
+    "Poison": {
+        "Skills": [
+            35
+        ],
+        "States": [
+            2,
+            40
+        ]
+    },
+    "Footballer White": {
+        "Enemies": [
+            175
+        ],
+        "Troops": [
+            74
+        ]
+    },
+    "Steel Blackman": {
+        "Enemies": [
+            6
+        ],
+        "Troops": [
+            6
+        ]
+    },
+    "Perry Prichard": {
+        "Enemies": [
+            90
+        ],
+        "Troops": [
+            53
+        ]
+    },
+    "Zero Shadow": {
+        "Skills": [
+            107
+        ]
+    },
+    "Rubble Screw": {
+        "Skills": [
+            582
+        ]
+    },
+    "Larry Sports": {
+        "Enemies": [
+            46
+        ]
+    },
+    "YAZAN---------------------": {
+        "Skills": [
+            669
+        ]
+    },
+    "ENEMY ATTACKS": {
+        "Skills": [
+            153
+        ]
+    },
+    "Lioness\u00e2\u20ac\u2122s Fury": {
+        "Skills": [
+            672
+        ]
+    },
+    "Tiger Stance": {
+        "Skills": [
+            87
+        ]
+    },
+    "Squirrel Jerky": {
+        "Items": [
+            70
+        ]
+    },
+    "Back Rub": {
+        "Skills": [
+            317
+        ]
+    },
+    "Quick Move": {
+        "Skills": [
+            44
+        ]
+    },
+    "Sword Bundle": {
+        "Weapons": [
+            97
+        ]
+    },
+    "Herman Masatoshi": {
+        "Enemies": [
+            66
+        ]
+    },
+    "Paralysis": {
+        "States": [
+            30
+        ]
+    },
+    "Big Shot": {
+        "Skills": [
+            202
+        ]
+    },
+    "Legal Jargin": {
+        "Skills": [
+            522
+        ]
+    },
+    "Gwyn's Bow": {
+        "Weapons": [
+            35
+        ]
+    },
+    "Stampede": {
+        "Skills": [
+            697
+        ]
+    },
+    "Locket": {
+        "Armors": [
+            55
+        ]
+    },
+    "Blood-Stained Blade": {
+        "Skills": [
+            680
+        ]
+    },
+    "Rustle Dropkick      ": {
+        "Skills": [
+            379
+        ]
+    },
+    "Phil Bush": {
+        "Enemies": [
+            118
+        ]
+    },
+    "Million Cutter": {
+        "Skills": [
+            535
+        ]
+    },
+    "Dancing Serpent": {
+        "Skills": [
+            617
+        ]
+    },
+    "Kim Sex Machine": {
+        "Enemies": [
+            198
+        ],
+        "Troops": [
+            92
+        ]
+    },
+    "Squirrel": {
+        "Enemies": [
+            203
+        ],
+        "Troops": [
+            98
+        ]
+    },
+    "Creepy Drawing": {
+        "Skills": [
+            691
+        ]
+    },
+    "Peter Smoove": {
+        "Enemies": [
+            217
+        ]
+    },
+    "Discuss Powers": {
+        "Skills": [
+            215
+        ]
+    },
+    "Sweetest Brothers": {
+        "Troops": [
+            138
+        ]
+    },
+    "Savage Elbow 3": {
+        "Skills": [
+            720
+        ]
+    },
+    "Fur Coat": {
+        "Armors": [
+            17
+        ]
+    },
+    "Blind": {
+        "Skills": [
+            36
+        ],
+        "States": [
+            3
+        ]
+    },
+    "Unhuman Figure": {
+        "Enemies": [
+            41
+        ],
+        "Troops": [
+            32
+        ]
+    },
+    "Wind": {
+        "Skills": [
+            67
+        ]
+    },
+    "Taste": {
+        "Skills": [
+            386
+        ]
+    },
+    "Steel Chair": {
+        "Skills": [
+            322
+        ]
+    },
+    "RUMBLE----------------": {
+        "Troops": [
+            118
+        ]
+    },
+    "Sportsman": {
+        "Classes": [
+            29
+        ]
+    },
+    "Terrifying Clothesline": {
+        "Skills": [
+            664
+        ]
+    },
+    "Nail Rake": {
+        "Skills": [
+            186
+        ]
+    },
+    "Tag Team Title Belt": {
+        "Armors": [
+            78
+        ]
+    },
+    "Agreeable Drawing": {
+        "Skills": [
+            689
+        ]
+    },
+    "Triple Tap": {
+        "Skills": [
+            616
+        ]
+    },
+    "Intimate Stab": {
+        "Skills": [
+            255
+        ]
+    },
+    "Sticky": {
+        "Enemies": [
+            58,
+            229
+        ],
+        "Troops": [
+            40
+        ]
+    },
+    "Crisp": {
+        "Actors": [
+            3
+        ]
+    },
+    "Final Beatdown": {
+        "Skills": [
+            301
+        ]
+    },
+    "Critter's Gone": {
+        "Skills": [
+            692
+        ]
+    },
+    "Tom Cream": {
+        "Enemies": [
+            47
+        ]
+    },
+    "Meteor Elbow Drop": {
+        "Skills": [
+            239
+        ]
+    },
+    "Sabre": {
+        "Weapons": [
+            98
+        ]
+    },
+    "Spice Simmons": {
+        "Enemies": [
+            120
+        ]
+    },
+    "CRISP LADDADY------------": {
+        "Skills": [
+            534
+        ]
+    },
+    "Footballer Blue": {
+        "Enemies": [
+            173
+        ],
+        "Troops": [
+            72
+        ]
+    },
+    "Great Zaladin": {
+        "Enemies": [
+            211
+        ],
+        "Troops": [
+            114
+        ]
+    },
+    "Magic Pulse": {
+        "Skills": [
+            123
+        ]
+    },
+    "SINGLES-------------------": {
+        "Troops": [
+            107
+        ]
+    },
+    "Savage Rush": {
+        "Skills": [
+            579
+        ]
+    },
+    "Dullard's Call": {
+        "Skills": [
+            421
+        ]
+    },
+    "Machete": {
+        "Weapons": [
+            22
+        ]
+    },
+    "Forest Richards": {
+        "Enemies": [
+            163
+        ]
+    },
+    "Raging Snake": {
+        "Enemies": [
+            11
+        ]
+    },
+    "El Tigre": {
+        "Items": [
+            41
+        ]
+    },
+    "Rage build!": {
+        "Skills": [
+            162
+        ]
+    },
+    "Employee Mark": {
+        "Enemies": [
+            36
+        ]
+    },
+    "Super Cool": {
+        "States": [
+            43
+        ]
+    },
+    "Cinderblock Sluggan": {
+        "Enemies": [
+            87
+        ],
+        "Troops": [
+            111
+        ]
+    },
+    "Rocket Piercer": {
+        "Skills": [
+            403
+        ]
+    },
+    "Super Guard": {
+        "Skills": [
+            92
+        ]
+    },
+    "Jack": {
+        "Enemies": [
+            152
+        ],
+        "Actors": [
+            23
+        ]
+    },
+    "Creamy Cocola": {
+        "Items": [
+            6
+        ]
+    },
+    "Falling Tree": {
+        "Skills": [
+            409
+        ]
+    },
+    "Buzzo": {
+        "Enemies": [
+            215
+        ],
+        "Troops": [
+            124
+        ]
+    },
+    "Cock Blast": {
+        "Skills": [
+            190
+        ]
+    },
+    "Walter Stingray": {
+        "Enemies": [
+            4
+        ],
+        "Troops": [
+            4
+        ]
+    },
+    "Pea Gun Fist": {
+        "Skills": [
+            745
+        ]
+    },
+    "Kick": {
+        "Skills": [
+            272
+        ]
+    },
+    "Cry": {
+        "Skills": [
+            157,
+            793,
+            794,
+            795
+        ]
+    },
+    "Club Strike": {
+        "Skills": [
+            176
+        ]
+    },
+    "Chakra": {
+        "Skills": [
+            86
+        ]
+    },
+    "Dead": {
+        "States": [
+            53
+        ]
+    },
+    "GUN--------------------------": {
+        "Weapons": [
+            58
+        ]
+    },
+    "Ice": {
+        "Skills": [
+            55
+        ]
+    },
+    "Joe Kansas": {
+        "Enemies": [
+            55
+        ],
+        "Troops": [
+            37
+        ]
+    },
+    "Businessy Hat": {
+        "Armors": [
+            105
+        ]
+    },
+    "Squirrelly Man": {
+        "Enemies": [
+            204
+        ],
+        "Troops": [
+            99
+        ]
+    },
+    "King Lord Baron": {
+        "Enemies": [
+            208
+        ]
+    },
+    "Henry Wyatt": {
+        "Enemies": [
+            181
+        ],
+        "Troops": [
+            78
+        ]
+    },
+    "Rex Thunderstorm": {
+        "Enemies": [
+            222
+        ],
+        "Troops": [
+            129
+        ]
+    },
+    "Desperado Kick": {
+        "Skills": [
+            563
+        ]
+    },
+    "Boomerang": {
+        "Skills": [
+            129,
+            133,
+            555
+        ]
+    },
+    "MAD DOG------------------": {
+        "Skills": [
+            180
+        ]
+    },
+    "Rapid Arrow": {
+        "Skills": [
+            208
+        ]
+    },
+    "Joyed": {
+        "States": [
+            39
+        ]
+    },
+    "Horse Jerky": {
+        "Items": [
+            3
+        ]
+    },
+    "Drunkard Tumble 2": {
+        "Skills": [
+            514
+        ]
+    },
+    "Dispel Herb": {
+        "Items": [
+            21,
+            25
+        ]
+    },
+    "Sergei Rage": {
+        "Enemies": [
+            45
+        ]
+    },
+    "Lawyer": {
+        "Classes": [
+            18
+        ]
+    },
+    "Showboat": {
+        "Skills": [
+            658
+        ]
+    },
+    "Fatal Chomp": {
+        "Skills": [
+            811
+        ]
+    },
+    "Party Foul": {
+        "Skills": [
+            545
+        ]
+    },
+    "Black Helmet": {
+        "Armors": [
+            82
+        ]
+    },
+    "Crying": {
+        "States": [
+            29
+        ]
+    },
+    "Luck Up": {
+        "Items": [
+            16,
+            34
+        ]
+    },
+    "Bad Mews": {
+        "Skills": [
+            679
+        ]
+    },
+    "Burst": {
+        "Skills": [
+            73
+        ]
+    },
+    "Bag Fire": {
+        "Skills": [
+            712
+        ]
+    },
+    "Ernie Frost": {
+        "Enemies": [
+            113
+        ]
+    },
+    "Nipple Patch": {
+        "Armors": [
+            5,
+            34
+        ]
+    },
+    "JACK-----------------------": {
+        "Skills": [
+            630
+        ]
+    },
+    "Magnificent Pose": {
+        "Skills": [
+            569
+        ]
+    },
+    "Queen Bands": {
+        "Weapons": [
+            18
+        ]
+    },
+    "Pass Out": {
+        "Skills": [
+            512
+        ]
+    },
+    "Fireball": {
+        "Skills": [
+            175,
+            182
+        ]
+    },
+    "Resort Map": {
+        "Items": [
+            55
+        ]
+    },
+    "Toolbox": {
+        "Items": [
+            59
+        ]
+    },
+    "Mithril Rod": {
+        "Weapons": [
+            52
+        ]
+    },
+    "Rando Poncho": {
+        "Armors": [
+            30
+        ]
+    },
+    "USA Flag": {
+        "Armors": [
+            33
+        ]
+    },
+    "Bullet Dance": {
+        "Skills": [
+            596
+        ]
+    },
+    "Karate Belt": {
+        "Armors": [
+            51
+        ]
+    },
+    "Discuss Techniques": {
+        "Skills": [
+            214
+        ]
+    },
+    "Really Bore": {
+        "Skills": [
+            219
+        ]
+    },
+    "Strong Attack": {
+        "Skills": [
+            80
+        ]
+    },
+    "Mint Cloth": {
+        "Items": [
+            57
+        ]
+    },
+    "Extension Cord": {
+        "Weapons": [
+            117
+        ]
+    },
+    "American Tornado": {
+        "Skills": [
+            578
+        ]
+    },
+    "Shade": {
+        "Skills": [
+            71
+        ]
+    },
+    "Palm Thrust": {
+        "Skills": [
+            748
+        ]
+    },
+    "TNT": {
+        "Items": [
+            49
+        ]
+    },
+    "Studded Bands": {
+        "Weapons": [
+            16
+        ]
+    },
+    "Big Machine Gun Thrust": {
+        "Skills": [
+            547
+        ]
+    },
+    "Christmas Day": {
+        "Weapons": [
+            38
+        ]
+    },
+    "PERCY MONSOON-------": {
+        "Skills": [
+            132
+        ]
+    },
+    "Deluxe Sunscreen": {
+        "Armors": [
+            109
+        ]
+    },
+    "Cover": {
+        "Skills": [
+            90
+        ],
+        "States": [
+            11
+        ]
+    },
+    "Magic Barrier": {
+        "Skills": [
+            97
+        ]
+    },
+    "Blood Hawk": {
+        "Enemies": [
+            61
+        ],
+        "Troops": [
+            43
+        ]
+    },
+    "Shoulder Tackle": {
+        "Skills": [
+            230
+        ]
+    },
+    "Thigh Crippler": {
+        "Skills": [
+            568
+        ]
+    },
+    "Orator": {
+        "Classes": [
+            8
+        ]
+    },
+    "Hollywood Hustle": {
+        "Skills": [
+            336
+        ]
+    },
+    "Sonny": {
+        "Enemies": [
+            153
+        ],
+        "Actors": [
+            24
+        ]
+    },
+    "Gale Saturn": {
+        "Enemies": [
+            104
+        ]
+    },
+    "Tree Man": {
+        "Enemies": [
+            233
+        ],
+        "Troops": [
+            140
+        ]
+    },
+    "Devil's Pads": {
+        "Armors": [
+            40
+        ]
+    },
+    "Drunkard Tumble": {
+        "Skills": [
+            513
+        ]
+    },
+    "Provoke": {
+        "Skills": [
+            91
+        ]
+    },
+    "Smoky Bow": {
+        "Weapons": [
+            34
+        ]
+    },
+    "Sparkly Mask": {
+        "Armors": [
+            63
+        ]
+    },
+    "Lunatic Trash": {
+        "Enemies": [
+            185
+        ],
+        "Troops": [
+            80
+        ]
+    },
+    "Rando Stab": {
+        "Skills": [
+            805
+        ]
+    },
+    "Brad": {
+        "Actors": [
+            1
+        ]
+    },
+    "Herb": {
+        "Enemies": [
+            234
+        ],
+        "Troops": [
+            141
+        ]
+    },
+    "Meaty Pads": {
+        "Armors": [
+            38
+        ]
+    },
+    "BIRDIE HALL------------------": {
+        "Skills": [
+            507
+        ]
+    },
+    "Verbal Bash": {
+        "Skills": [
+            358
+        ]
+    },
+    "Hair slick": {
+        "Skills": [
+            172
+        ]
+    },
+    "Wet Cutter": {
+        "Skills": [
+            538
+        ]
+    },
+    "Drunkard Tumble 4": {
+        "Skills": [
+            516
+        ]
+    },
+    "HEADWEAR--------": {
+        "Armors": [
+            98
+        ]
+    },
+    "Head Rocker": {
+        "Weapons": [
+            7
+        ]
+    },
+    "Slander": {
+        "Skills": [
+            524
+        ]
+    },
+    "DICK RANGER------------": {
+        "Skills": [
+            544
+        ]
+    },
+    "Stiff Richalds": {
+        "Enemies": [
+            51
+        ]
+    },
+    "Bag Flash": {
+        "Skills": [
+            715
+        ]
+    },
+    "Universe Hammer": {
+        "Skills": [
+            411
+        ]
+    },
+    "Switchblade": {
+        "Weapons": [
+            23
+        ]
+    },
+    "Big Beatdown": {
+        "Skills": [
+            300
+        ]
+    },
+    "Needle Shower": {
+        "Skills": [
+            573
+        ]
+    },
+    "Bo Wyatt": {
+        "Enemies": [
+            159
+        ]
+    },
+    "Curse Armour": {
+        "Skills": [
+            46
+        ]
+    },
+    "Wild Dog": {
+        "Troops": [
+            3
+        ]
+    },
+    "Rando Army 1": {
+        "Troops": [
+            60
+        ]
+    },
+    "Suzi": {
+        "Weapons": [
+            68
+        ]
+    },
+    "Beauty": {
+        "Skills": [
+            558
+        ]
+    },
+    "Randal Kieth": {
+        "Enemies": [
+            49
+        ]
+    },
+    "------------------------": {
+        "Armors": [
+            44
+        ]
+    },
+    "Killer Headbutt": {
+        "Skills": [
+            435,
+            449
+        ]
+    },
+    "Hell's Call": {
+        "Skills": [
+            422
+        ]
+    },
+    "Footballer Orange": {
+        "Enemies": [
+            172
+        ],
+        "Troops": [
+            71
+        ]
+    },
+    "Needle Typhoon": {
+        "Skills": [
+            574
+        ]
+    },
+    "Hideous Clothesline": {
+        "Skills": [
+            665
+        ]
+    },
+    "Rusty Knife": {
+        "Weapons": [
+            20
+        ]
+    },
+    "Cock Blast 4": {
+        "Skills": [
+            194
+        ]
+    },
+    "Rooster Apocalypse": {
+        "Skills": [
+            199
+        ]
+    },
+    "Thigh Cracker": {
+        "Skills": [
+            566
+        ]
+    },
+    "Thunder II": {
+        "Skills": [
+            60
+        ]
+    },
+    "Divine Breath": {
+        "Skills": [
+            43
+        ]
+    },
+    "Joshie Brighteyes": {
+        "Enemies": [
+            196
+        ],
+        "Troops": [
+            90
+        ]
+    },
+    "Creep": {
+        "Enemies": [
+            220,
+            221
+        ],
+        "Troops": [
+            127,
+            128
+        ]
+    },
+    "Rando Buster": {
+        "Skills": [
+            804
+        ]
+    },
+    "Mike": {
+        "Troops": [
+            117
+        ]
+    },
+    "Realization": {
+        "Skills": [
+            160
+        ]
+    },
+    "gfff": {
+        "Items": [
+            11
+        ]
+    },
+    "Mr. Angoneli": {
+        "Enemies": [
+            128
+        ],
+        "Troops": [
+            62
+        ]
+    },
+    "Richard Weeks": {
+        "Enemies": [
+            183
+        ]
+    },
+    "Dragoon": {
+        "Weapons": [
+            57
+        ]
+    },
+    "Metal Bat": {
+        "Weapons": [
+            5
+        ]
+    },
+    "Fire Weapon": {
+        "Skills": [
+            76
+        ]
+    },
+    "Spiked Club": {
+        "Weapons": [
+            1
+        ]
+    },
+    "Rain Poncho": {
+        "Armors": [
+            25
+        ]
+    },
+    "Burning Head Slide": {
+        "Skills": [
+            790,
+            791,
+            792
+        ]
+    },
+    "Cock Blast 3": {
+        "Skills": [
+            193
+        ]
+    },
+    "Radiant Blade": {
+        "Skills": [
+            99
+        ]
+    },
+    "Burning Eagle": {
+        "Skills": [
+            572
+        ]
+    },
+    "Oiled Chest": {
+        "Armors": [
+            119
+        ]
+    },
+    "Charging Headbutt": {
+        "Skills": [
+            734,
+            757,
+            772,
+            787,
+            788,
+            789
+        ]
+    },
+    "Bottle of Soup": {
+        "Items": [
+            12
+        ]
+    },
+    "Restraining Order": {
+        "Skills": [
+            525
+        ]
+    },
+    "Slice": {
+        "Skills": [
+            165,
+            173
+        ]
+    },
+    "Mana Up": {
+        "Items": [
+            28
+        ]
+    },
+    "Spoony \"Sidewalk\" Vee": {
+        "Enemies": [
+            59
+        ],
+        "Troops": [
+            41
+        ]
+    },
+    "Fire Force": {
+        "States": [
+            21
+        ]
+    },
+    "Ice Force": {
+        "States": [
+            22
+        ]
+    },
+    "Massive Head Rush  ": {
+        "Skills": [
+            236
+        ]
+    },
+    "Chanticleer": {
+        "Classes": [
+            6
+        ]
+    },
+    "Big Bite": {
+        "Skills": [
+            704
+        ]
+    },
+    "Unhearable Call": {
+        "Skills": [
+            424
+        ]
+    },
+    "Giant's Rampage": {
+        "Skills": [
+            84
+        ]
+    },
+    "Mystic Pete": {
+        "Enemies": [
+            17
+        ]
+    },
+    "Running Typhoon": {
+        "Skills": [
+            234
+        ]
+    },
+    "Mountain Screw": {
+        "Skills": [
+            584
+        ]
+    },
+    "Sluginator": {
+        "Weapons": [
+            9
+        ]
+    },
+    "Mighty Spear": {
+        "Weapons": [
+            110
+        ]
+    },
+    "Stall Out": {
+        "Skills": [
+            280
+        ]
+    },
+    "Sweaty Wristbands": {
+        "Weapons": [
+            12
+        ]
+    },
+    "Poisonous snake": {
+        "Enemies": [
+            228
+        ]
+    },
+    "Old Record": {
+        "Items": [
+            60
+        ]
+    },
+    "Raise II": {
+        "Skills": [
+            34
+        ]
+    },
+    "Sailing Knuckle      ": {
+        "Skills": [
+            351
+        ]
+    },
+    "Tsunami Driver": {
+        "Skills": [
+            289
+        ]
+    },
+    "Scream": {
+        "Skills": [
+            796,
+            797,
+            798
+        ]
+    },
+    "Dandy Hat": {
+        "Armors": [
+            107
+        ]
+    },
+    "Potato Liquor": {
+        "Items": [
+            14
+        ]
+    },
+    "Critter Bite": {
+        "Skills": [
+            695
+        ]
+    },
+    "Arrow": {
+        "Skills": [
+            347
+        ]
+    },
+    "Wood Shield": {
+        "Armors": [
+            42
+        ]
+    },
+    "Petal": {
+        "Skills": [
+            561
+        ]
+    },
+    "Cigarette": {
+        "Items": [
+            77
+        ]
+    },
+    "Many Swings": {
+        "Skills": [
+            150
+        ]
+    },
+    "Magic Evade": {
+        "States": [
+            19
+        ]
+    },
+    "Mickey Neat": {
+        "Enemies": [
+            126
+        ]
+    },
+    "Fly Swatter": {
+        "Skills": [
+            610
+        ]
+    },
+    "Weird": {
+        "States": [
+            31
+        ]
+    },
+    "Artist": {
+        "Classes": [
+            35
+        ]
+    },
+    "Alive": {
+        "States": [
+            10
+        ]
+    },
+    "Deer": {
+        "Enemies": [
+            39
+        ],
+        "Troops": [
+            28
+        ]
+    },
+    "FLY BOY------------------": {
+        "Skills": [
+            498
+        ]
+    },
+    "Juggle": {
+        "Skills": [
+            633
+        ]
+    },
+    "Club": {
+        "Skills": [
+            181
+        ]
+    },
+    "Cat Lick": {
+        "Skills": [
+            678
+        ]
+    },
+    "Zipper Punches": {
+        "Skills": [
+            9,
+            29
+        ]
+    },
+    "Hustle Dropkick      ": {
+        "Skills": [
+            380
+        ]
+    },
+    "Three Wishes": {
+        "Skills": [
+            671
+        ]
+    },
+    "FARDY----------------------------": {
+        "Skills": [
+            364
+        ]
+    },
+    "Spirit Staff": {
+        "Weapons": [
+            53
+        ]
+    },
+    "Olathian Whiskey": {
+        "Items": [
+            63
+        ]
+    },
+    "Peter": {
+        "Enemies": [
+            224
+        ],
+        "Troops": [
+            131
+        ]
+    },
+    "Gary The Hot Soup ": {
+        "Enemies": [
+            84
+        ],
+        "Troops": [
+            110
+        ]
+    },
+    "Ironbody": {
+        "Skills": [
+            387
+        ],
+        "States": [
+            17
+        ]
+    },
+    "Spirit's Blessing": {
+        "Skills": [
+            115
+        ]
+    },
+    "Wizardly Juggle": {
+        "Skills": [
+            651
+        ]
+    },
+    "Barrel Bro": {
+        "Enemies": [
+            170,
+            171
+        ]
+    },
+    "Taste Blood": {
+        "Skills": [
+            385
+        ]
+    },
+    "Wrath of the Wind": {
+        "Skills": [
+            677
+        ]
+    },
+    "Christ Style Scroll": {
+        "Items": [
+            74
+        ]
+    },
+    "Oak Tree Steve": {
+        "Enemies": [
+            20
+        ],
+        "Troops": [
+            16
+        ]
+    },
+    "Horrace": {
+        "Enemies": [
+            32
+        ],
+        "Troops": [
+            25
+        ]
+    },
+    "Final Desperado Kick": {
+        "Skills": [
+            565
+        ]
+    },
+    "Trash Bag Shawl": {
+        "Armors": [
+            13
+        ]
+    },
+    "Cart Master": {
+        "Classes": [
+            24
+        ]
+    },
+    "Crush Mahone": {
+        "Enemies": [
+            22,
+            23
+        ],
+        "Troops": [
+            18,
+            19
+        ]
+    },
+    "Satan": {
+        "Enemies": [
+            213
+        ]
+    },
+    "Micheal Waters": {
+        "Enemies": [
+            117
+        ]
+    },
+    "Thunder": {
+        "Skills": [
+            59
+        ]
+    },
+    "Biscuits 'n Gravy": {
+        "Enemies": [
+            82
+        ]
+    },
+    "Burning": {
+        "States": [
+            26
+        ]
+    },
+    "Olathe Stampedes": {
+        "Troops": [
+            51
+        ]
+    },
+    "Flash Powder": {
+        "Skills": [
+            623
+        ]
+    },
+    "The Hottest Dance          ": {
+        "Skills": [
+            360
+        ]
+    },
+    "Blood cough": {
+        "Skills": [
+            159
+        ]
+    },
+    "Man Laying in Grass": {
+        "Enemies": [
+            12
+        ],
+        "Troops": [
+            10
+        ]
+    },
+    "Party Liquor": {
+        "Items": [
+            61
+        ]
+    },
+    "Nern Guan": {
+        "Enemies": [
+            136
+        ]
+    },
+    "Cousin Alfonso Christ": {
+        "Enemies": [
+            223
+        ],
+        "Troops": [
+            130
+        ]
+    },
+    "Lumberjack Tackle": {
+        "Skills": [
+            585
+        ]
+    },
+    "Rumble Group 1": {
+        "Troops": [
+            119
+        ]
+    },
+    "Assassin's Edge": {
+        "Skills": [
+            113
+        ]
+    },
+    "Scratch": {
+        "Skills": [
+            276,
+            318
+        ]
+    },
+    "The Go Home Boys": {
+        "Troops": [
+            104
+        ]
+    },
+    "Father": {
+        "Enemies": [
+            102
+        ]
+    },
+    "Olan": {
+        "Actors": [
+            6
+        ]
+    },
+    "Empty Bottle": {
+        "Items": [
+            18
+        ]
+    },
+    "Bag Flames": {
+        "Skills": [
+            713
+        ]
+    },
+    "Fancy Perfume": {
+        "Items": [
+            10
+        ]
+    },
+    "Mike Pun Master": {
+        "Enemies": [
+            197
+        ],
+        "Troops": [
+            91
+        ]
+    },
+    "Hectic Waver": {
+        "Skills": [
+            314
+        ]
+    },
+    "Fish Head": {
+        "Armors": [
+            116
+        ]
+    },
+    "Weep": {
+        "Skills": [
+            369
+        ]
+    },
+    "Rager Pose": {
+        "Skills": [
+            551
+        ]
+    },
+    "Crack Ripper": {
+        "Enemies": [
+            96
+        ]
+    },
+    "Magnificent Peck": {
+        "Skills": [
+            490
+        ]
+    },
+    "Tony Flowers": {
+        "Enemies": [
+            122
+        ]
+    },
+    "Horse Stance": {
+        "Skills": [
+            8,
+            760,
+            775
+        ]
+    },
+    "Slash": {
+        "Skills": [
+            307,
+            536,
+            670
+        ]
+    },
+    "Pretty Boys": {
+        "Troops": [
+            126
+        ]
+    },
+    "Mike's Belt Buckle": {
+        "Armors": [
+            79
+        ]
+    },
+    "Bag of Yuck": {
+        "Skills": [
+            717
+        ]
+    },
+    "Footballer Green": {
+        "Enemies": [
+            174
+        ],
+        "Troops": [
+            73
+        ]
+    },
+    "Mystic Juggle": {
+        "Skills": [
+            650
+        ]
+    },
+    "WRISTBANDS MORE------------------": {
+        "Weapons": [
+            76
+        ]
+    },
+    "Bo": {
+        "Actors": [
+            30
+        ]
+    },
+    "Wet Stick": {
+        "Weapons": [
+            11
+        ]
+    },
+    "Blake the Snake": {
+        "Enemies": [
+            191
+        ],
+        "Troops": [
+            85
+        ]
+    },
+    "Yazan": {
+        "Actors": [
+            25
+        ]
+    },
+    "Rando Bomb": {
+        "Skills": [
+            803
+        ]
+    },
+    "Tom \"Brightside\" Miller": {
+        "Enemies": [
+            184
+        ],
+        "Troops": [
+            84
+        ]
+    },
+    "Bash": {
+        "Skills": [
+            297
+        ]
+    },
+    "Familiar Song": {
+        "Skills": [
+            388
+        ]
+    },
+    "OLLIE----------------------": {
+        "Skills": [
+            615
+        ]
+    },
+    "Final Party Time!": {
+        "Skills": [
+            554
+        ]
+    },
+    "Levitate": {
+        "Skills": [
+            634
+        ]
+    },
+    "Skip Dreamer": {
+        "Enemies": [
+            50
+        ],
+        "Troops": [
+            35
+        ]
+    },
+    "Hook Kick": {
+        "Skills": [
+            292
+        ]
+    },
+    "Lights Out Forever": {
+        "Skills": [
+            660
+        ]
+    },
+    "Turquoise Pads": {
+        "Armors": [
+            39
+        ]
+    },
+    "Confused?": {
+        "Skills": [
+            281
+        ]
+    },
+    "Poison Arrow": {
+        "Skills": [
+            205
+        ]
+    },
+    "Fire Ball 4": {
+        "Skills": [
+            54,
+            753,
+            768
+        ]
+    },
+    "Stevie Dean": {
+        "Enemies": [
+            121
+        ]
+    },
+    "Cutthroat": {
+        "Classes": [
+            16
+        ]
+    },
+    "Grasp": {
+        "Skills": [
+            284
+        ]
+    },
+    "Heaven's Fist": {
+        "Skills": [
+            295
+        ]
+    },
+    "SWORD-------------------------": {
+        "Weapons": [
+            96
+        ]
+    },
+    "Birdie": {
+        "Actors": [
+            31
+        ]
+    },
+    "BEE LOVE-----------------------": {
+        "Skills": [
+            315
+        ]
+    },
+    "Mourner Hammer ": {
+        "Weapons": [
+            48
+        ]
+    },
+    "Aura Blade": {
+        "Skills": [
+            95
+        ]
+    },
+    "Buffalo Van Dyke": {
+        "Enemies": [
+            80,
+            147
+        ]
+    },
+    "Depression": {
+        "States": [
+            48
+        ]
+    },
+    "Cock Blast 2": {
+        "Skills": [
+            191
+        ]
+    },
+    "Dwayne Ports": {
+        "Enemies": [
+            112
+        ]
+    },
+    "Sweet Sweet Joy Boy": {
+        "Items": [
+            40
+        ]
+    },
+    "Think": {
+        "Skills": [
+            339
+        ]
+    },
+    "Luckluster": {
+        "Weapons": [
+            71
+        ]
+    },
+    "Wood Staff": {
+        "Weapons": [
+            49
+        ]
+    },
+    "Lucrative Tea": {
+        "Items": [
+            46
+        ]
+    },
+    "Discuss Health": {
+        "Skills": [
+            216
+        ]
+    },
+    "Trips Breezer": {
+        "Enemies": [
+            21
+        ],
+        "Troops": [
+            17
+        ]
+    },
+    "Football Pads": {
+        "Armors": [
+            35
+        ]
+    },
+    "Pinwheel Slash": {
+        "Skills": [
+            608
+        ]
+    },
+    "No Shadow Kick": {
+        "Skills": [
+            88
+        ]
+    },
+    "Scott Lawson": {
+        "Enemies": [
+            195
+        ],
+        "Troops": [
+            89
+        ]
+    }
+}

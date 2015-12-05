@@ -1,0 +1,163 @@
+{{Template:Party_Member
+| name                = Buffalo
+| image               = File:BuffaloVan Dyke.png
+| imagewidth          = 100
+| caption             = A former football player. He played so rough, that he lost his eye on the field...
+| title               = 
+| fullname            = Buffalo Van Dyke
+| nickname            = Buffalo
+| class               = Sportsman
+| auto_state          = 
+| location            = 
+| weapon_types        = [[Wristband]]
+| armor_types         = [[Accessory]] / [[Manly]] / [[Patch]]
+| skill_types         = [[Skills]]
+| Target_Rate         = 200%
+| Evasion             = 5%
+| Hit_Rate            = 95%
+| Crit_Chance         = 
+| feature1            = Lock Equip Head
+| feature2            = 
+| feature3            = 
+| feature4            = 
+| feature5            = 
+| feature6            = 
+| feature7            = 
+| feature8            = 
+| feature9            = 
+| feature10           = 
+| feature11           = 
+| feature12           = 
+}}
+This is a Blurb of the Character
+==Appearance and Personality==
+Description of the character
+
+
+
+
+
+
+
+
+
+
+
+==Battle==
+This is a description of the battle styles of the Party Member
+
+===Skills===
+{| class="PartyTable" border="1" cellpadding="2" cellspacing="0"
+| style="width:20%;" class="Header2 TopLeft" |'''Skill Name'''
+| style="width:55%;" class="Header2" |'''Description'''
+| style="width:15%;" class="Header2" |'''Level Learned'''
+| style="width:10%;" class="Header2 TopRight" |'''MP Cost'''
+|-
+| class="Content Text" |[[American Tornado|American Tornado]]
+| class="Content Text" |A common football maneuver.
+| class="Content" |1
+| class="Content" |5
+|-
+| class="Content Text" |[[Savage Rush|Savage Rush]]
+| class="Content Text" |Channel the spirit of the buffalo.
+| class="Content" |15
+| class="Content" |10
+|-
+| class="Content Text" |[[Boulder Screw|Boulder Screw]]
+| class="Content Text" |A momentum based body screw.
+| class="Content" |20
+| class="Content" |10
+|-
+| class="Content Text" |[[Barbaric Rush|Barbaric Rush]]
+| class="Content Text" |Channel the spirit of the buffalo.
+| class="Content" |22
+| class="Content" |15
+|-
+| class="Content Text" |[[Lumberjack Tackle|Lumberjack Tackle]]
+| class="Content Text" |A fundamental football maneuver. Knocks people over.
+| class="Content" |25
+| class="Content" |30
+|-
+| class="Content Text" |[[Rubble Screw|Rubble Screw]]
+| class="Content Text" |A momentum based body screw.
+| class="Content" |25
+| class="Content" |15
+|-
+| class="Content Text" |[[Satan Rush|Satan Rush]]
+| class="Content Text" |Channel the spirit of the buffalo.
+| class="Content" |25
+| class="Content" |20
+|-
+| class="Content Text" |[[Mountain Screw|Mountain Screw]]
+| class="Content Text" |A momentum based body screw.
+| class="Content" |25
+| class="Content" |20
+|-
+| class="Content Text BottomLeft" |[[Patriot Exploder|Patriot Exploder]]
+| class="Content Text" |The greatest tribute to the greatest country.
+| class="Content" |25
+| class="Content BottomRight" |40
+
+|}
+
+===Statistics===
+Statistics analysis
+
+{| class="PartyTable" border="1" cellpadding="2" cellspacing="0"
+| colspan="10" class="Header1 TopLeft TopRight" |'''Core Statistics'''
+|-
+| width="10%;" class="Header2" |Level
+| width="10%;" class="Header2" |HP
+| width="10%;" class="Header2" |SP
+| width="10%;" class="Header2" |ATK
+| width="10%;" class="Header2" |DEF
+| width="10%;" class="Header2" |SATK
+| width="10%;" class="Header2" |SDEF
+| width="10%;" class="Header2" |AGI
+| width="10%;" class="Header2" |LUCK
+|-
+| class="Content BottomLeft" |20
+| class="Content" |685
+| class="Content" |72
+| class="Content" |19
+| class="Content" |22
+| class="Content" |19
+| class="Content" |10
+| class="Content" |20
+| class="Content BottomRight" |15
+|}
+
+==Battle Quotes==
+{| class="" style="width:100%; vertical-align: top;" border="0" cellpadding="0" cellspacing="0"
+|
+===Win Quotes===
+|
+===Level Quotes===
+|
+===Drop Quotes===
+|-
+| style="vertical-align: top;" |
+* Good hustle!
+
+| style="vertical-align: top;" |
+* Tackle power!!!
+
+| style="vertical-align: top;" |
+* Let's work on a new gameplan.
+
+|}
+
+==Art==
+<gallery>
+Buffalo_Van Dyke_HD.png
+</gallery>
+
+
+
+==Tips==
+
+==Trivia==
+
+{{Party_Members}}
+[[Category:Character]]
+[[Category:Party Member]]

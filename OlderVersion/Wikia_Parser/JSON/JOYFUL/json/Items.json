@@ -1,0 +1,3375 @@
+[
+    null,
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 1,
+        "icon_index": 70,
+        "description": "Dried meat of common Olathian animals.\r\nRecovers 300 HP.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 10,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 310,
+        "effects": [
+            {
+                "code": 11,
+                "value1": 0.0,
+                "value2": 300.0,
+                "data_id": 0
+            }
+        ],
+        "itype_id": 1,
+        "name": "Mystery Jerky"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 2,
+        "icon_index": 19,
+        "description": "Recovers 1000 HP.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 15,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 310,
+        "effects": [
+            {
+                "code": 11,
+                "value1": 0.0,
+                "value2": 1000.0,
+                "data_id": 0
+            }
+        ],
+        "itype_id": 1,
+        "name": "Domestic Jerky"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 3,
+        "icon_index": 69,
+        "description": "Dried meat of a horse.\r\nRecovers all HP.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 20,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 310,
+        "effects": [
+            {
+                "code": 11,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 0
+            }
+        ],
+        "itype_id": 1,
+        "name": "Horse Jerky"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 4,
+        "icon_index": 3,
+        "description": "If you throw this can at someone it won't\r\nhurt, it's a soft drink! Recovers 200 SP.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 5,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 353,
+        "effects": [
+            {
+                "code": 12,
+                "value1": 0.0,
+                "value2": 200.0,
+                "data_id": 0
+            }
+        ],
+        "itype_id": 1,
+        "name": "Diet Cocola Cola"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 5,
+        "icon_index": 2,
+        "description": "If you throw this can at someone it won't\r\nhurt, it's a soft drink! Recovers 400 SP.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 10,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 353,
+        "effects": [
+            {
+                "code": 12,
+                "value1": 0.0,
+                "value2": 400.0,
+                "data_id": 0
+            }
+        ],
+        "itype_id": 1,
+        "name": "Cocola Cola"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 6,
+        "icon_index": 58,
+        "description": "If you throw this can at someone it won't\r\nhurt, it's a soft drink! Recovers 800 SP.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 15,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 353,
+        "effects": [
+            {
+                "code": 12,
+                "value1": 0.0,
+                "value2": 800.0,
+                "data_id": 0
+            }
+        ],
+        "itype_id": 1,
+        "name": "Creamy Cocola"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 7,
+        "icon_index": 42,
+        "description": "If you throw this can at someone it won't\r\nhurt, it's a soft drink! Recovers all SP.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 20,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 353,
+        "effects": [
+            {
+                "code": 12,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 0
+            }
+        ],
+        "itype_id": 1,
+        "name": "Real Sugar Cocola Cola"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 8,
+        "icon_index": 57,
+        "description": "Restores all HP and SP.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 50,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 353,
+        "effects": [
+            {
+                "code": 11,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 0
+            },
+            {
+                "code": 12,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 0
+            }
+        ],
+        "itype_id": 1,
+        "name": "Iced Coffee"
+    },
+    {
+        "hit_type": 0,
+        "scope": 9,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 9,
+        "icon_index": 0,
+        "description": "The sweet scent revives an ally.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "300",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 10,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 352,
+        "effects": [
+            {
+                "code": 22,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 1
+            },
+            {
+                "code": 11,
+                "value1": 0.3,
+                "value2": 0.0,
+                "data_id": 0
+            }
+        ],
+        "itype_id": 1,
+        "name": "Perfume"
+    },
+    {
+        "hit_type": 0,
+        "scope": 9,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 10,
+        "icon_index": 64,
+        "description": "The sweet scent revives an ally fully.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "999999",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 20,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 352,
+        "effects": [
+            {
+                "code": 22,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 1
+            },
+            {
+                "code": 11,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 0
+            }
+        ],
+        "itype_id": 1,
+        "name": "Fancy Perfume"
+    },
+    {
+        "hit_type": 0,
+        "scope": 1,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 11,
+        "icon_index": 4,
+        "description": "An empty glass bottle.",
+        "damage": {
+            "variance": 20,
+            "element_id": -1,
+            "type": 1,
+            "formula": "30 + a.atk * 4 - b.def * 2",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 98,
+        "effects": [],
+        "itype_id": 1,
+        "name": "gfff"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 12,
+        "icon_index": 10,
+        "description": "Recovers 500 HP.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 3,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 310,
+        "effects": [
+            {
+                "code": 11,
+                "value1": 0.0,
+                "value2": 500.0,
+                "data_id": 0
+            },
+            {
+                "code": 44,
+                "value1": 0.0,
+                "value2": 0.0,
+                "data_id": 7
+            }
+        ],
+        "itype_id": 1,
+        "name": "Bottle of Soup"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 13,
+        "icon_index": 11,
+        "description": "An extremely refreshing drink.\r\nCures many aliments.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 20,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 353,
+        "effects": [
+            {
+                "code": 22,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 33
+            },
+            {
+                "code": 22,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 26
+            },
+            {
+                "code": 22,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 31
+            },
+            {
+                "code": 22,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 7
+            },
+            {
+                "code": 22,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 5
+            },
+            {
+                "code": 44,
+                "value1": 0.0,
+                "value2": 0.0,
+                "data_id": 7
+            }
+        ],
+        "itype_id": 1,
+        "name": "Bottle of Water"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 14,
+        "icon_index": 4,
+        "description": "Capable of getting you drunk.\r\nRecovers 200 HP.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 5,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 353,
+        "effects": [
+            {
+                "code": 11,
+                "value1": 0.0,
+                "value2": 200.0,
+                "data_id": 0
+            },
+            {
+                "code": 21,
+                "value1": 0.6,
+                "value2": 0.0,
+                "data_id": 34
+            },
+            {
+                "code": 44,
+                "value1": 0.0,
+                "value2": 0.0,
+                "data_id": 7
+            }
+        ],
+        "itype_id": 1,
+        "name": "Potato Liquor"
+    },
+    {
+        "hit_type": 0,
+        "scope": 1,
+        "consumable": true,
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "id": 15,
+        "icon_index": 11,
+        "description": "Contaminated water. Try throwing it at your\r\nenemies.",
+        "damage": {
+            "variance": 20,
+            "element_id": 8,
+            "type": 1,
+            "formula": "30 + a.atk * 4 - b.def * 2",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 351,
+        "effects": [
+            {
+                "code": 21,
+                "value1": 0.7,
+                "value2": 0.0,
+                "data_id": 2
+            }
+        ],
+        "itype_id": 1,
+        "name": "Bottle of Dirty Water"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 16,
+        "icon_index": 199,
+        "description": "Increases LUK by 3.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 200,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [
+            {
+                "code": 42,
+                "value1": 3.0,
+                "value2": 0.0,
+                "data_id": 7
+            }
+        ],
+        "itype_id": 1,
+        "name": "Luck Up"
+    },
+    {
+        "hit_type": 0,
+        "scope": 0,
+        "consumable": false,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 17,
+        "icon_index": 229,
+        "description": "Press the SHIFT key to dismount.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [
+            {
+                "code": 44,
+                "value1": 0.0,
+                "value2": 0.0,
+                "data_id": 1
+            }
+        ],
+        "itype_id": 2,
+        "name": "Bicycle"
+    },
+    {
+        "hit_type": 0,
+        "scope": 1,
+        "consumable": true,
+        "note": "",
+        "occasion": 1,
+        "repeats": 1,
+        "id": 18,
+        "icon_index": 4,
+        "description": "An empty glass bottle.",
+        "damage": {
+            "variance": 20,
+            "element_id": -1,
+            "type": 1,
+            "formula": "100 + a.atk * 4 - b.def * 2",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 2,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 98,
+        "effects": [],
+        "itype_id": 1,
+        "name": "Empty Bottle"
+    },
+    {
+        "hit_type": 0,
+        "scope": 9,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 19,
+        "icon_index": 194,
+        "description": "Recovers ally from death.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 250,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 42,
+        "effects": [
+            {
+                "code": 22,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 1
+            }
+        ],
+        "itype_id": 1,
+        "name": "Stimulant"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 20,
+        "icon_index": 194,
+        "description": "Treats poison.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 30,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 40,
+        "effects": [
+            {
+                "code": 22,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 2
+            }
+        ],
+        "itype_id": 1,
+        "name": "Antidote"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 21,
+        "icon_index": 194,
+        "description": "Treats many status ailments.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 90,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 41,
+        "effects": [
+            {
+                "code": 22,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 2
+            },
+            {
+                "code": 22,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 3
+            },
+            {
+                "code": 22,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 4
+            },
+            {
+                "code": 22,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 5
+            },
+            {
+                "code": 22,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 6
+            },
+            {
+                "code": 22,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 7
+            }
+        ],
+        "itype_id": 1,
+        "name": "Dispel Herb"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 22,
+        "icon_index": 197,
+        "description": "Restores all HP and MP.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 1000,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 39,
+        "effects": [
+            {
+                "code": 11,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 0
+            },
+            {
+                "code": 12,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 0
+            }
+        ],
+        "itype_id": 1,
+        "name": "Elixir"
+    },
+    {
+        "hit_type": 0,
+        "scope": 9,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 23,
+        "icon_index": 194,
+        "description": "Recovers ally from death.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 250,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 42,
+        "effects": [
+            {
+                "code": 22,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 1
+            }
+        ],
+        "itype_id": 1,
+        "name": "Stimulant"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 24,
+        "icon_index": 194,
+        "description": "Treats poison.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 30,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 40,
+        "effects": [
+            {
+                "code": 22,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 2
+            }
+        ],
+        "itype_id": 1,
+        "name": "Antidote"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 25,
+        "icon_index": 6,
+        "description": "Treats many status ailments.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 90,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 41,
+        "effects": [
+            {
+                "code": 22,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 2
+            },
+            {
+                "code": 22,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 3
+            },
+            {
+                "code": 22,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 4
+            },
+            {
+                "code": 22,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 5
+            },
+            {
+                "code": 22,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 6
+            },
+            {
+                "code": 22,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 7
+            }
+        ],
+        "itype_id": 1,
+        "name": "Dispel Herb"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 26,
+        "icon_index": 5,
+        "description": "A high quality  meal.\r\nRestores all HP and SP.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 20,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 310,
+        "effects": [
+            {
+                "code": 11,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 0
+            },
+            {
+                "code": 12,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 0
+            }
+        ],
+        "itype_id": 1,
+        "name": "Rando Ration"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 27,
+        "icon_index": 199,
+        "description": "Increases MaxHP by 50.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 200,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [
+            {
+                "code": 42,
+                "value1": 50.0,
+                "value2": 0.0,
+                "data_id": 0
+            }
+        ],
+        "itype_id": 1,
+        "name": "Life Up"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 28,
+        "icon_index": 199,
+        "description": "Increases MaxMP by 10.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 200,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [
+            {
+                "code": 42,
+                "value1": 10.0,
+                "value2": 0.0,
+                "data_id": 1
+            }
+        ],
+        "itype_id": 1,
+        "name": "Mana Up"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 29,
+        "icon_index": 199,
+        "description": "Increases ATK by 3.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 200,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [
+            {
+                "code": 42,
+                "value1": 3.0,
+                "value2": 0.0,
+                "data_id": 2
+            }
+        ],
+        "itype_id": 1,
+        "name": "Power Up"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 30,
+        "icon_index": 199,
+        "description": "Increases DEF by 3.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 200,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [
+            {
+                "code": 42,
+                "value1": 3.0,
+                "value2": 0.0,
+                "data_id": 3
+            }
+        ],
+        "itype_id": 1,
+        "name": "Guard Up"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 31,
+        "icon_index": 199,
+        "description": "Increases MAT by 3.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 200,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [
+            {
+                "code": 42,
+                "value1": 3.0,
+                "value2": 0.0,
+                "data_id": 4
+            }
+        ],
+        "itype_id": 1,
+        "name": "Magic Up"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 32,
+        "icon_index": 199,
+        "description": "Increases MDF by 3.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 200,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [
+            {
+                "code": 42,
+                "value1": 3.0,
+                "value2": 0.0,
+                "data_id": 5
+            }
+        ],
+        "itype_id": 1,
+        "name": "Resist Up"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 33,
+        "icon_index": 199,
+        "description": "Increases AGI by 3.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 200,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [
+            {
+                "code": 42,
+                "value1": 3.0,
+                "value2": 0.0,
+                "data_id": 6
+            }
+        ],
+        "itype_id": 1,
+        "name": "Speed Up"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 34,
+        "icon_index": 199,
+        "description": "Increases LUK by 3.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 200,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [
+            {
+                "code": 42,
+                "value1": 3.0,
+                "value2": 0.0,
+                "data_id": 7
+            }
+        ],
+        "itype_id": 1,
+        "name": "Luck Up"
+    },
+    {
+        "hit_type": 0,
+        "scope": 0,
+        "consumable": false,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 35,
+        "icon_index": 229,
+        "description": "Press the A key to dismount.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [
+            {
+                "code": 44,
+                "value1": 0.0,
+                "value2": 0.0,
+                "data_id": 1
+            }
+        ],
+        "itype_id": 2,
+        "name": "Bicycle"
+    },
+    {
+        "hit_type": 0,
+        "scope": 1,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 36,
+        "icon_index": 4,
+        "description": "An empty glass bottle.",
+        "damage": {
+            "variance": 20,
+            "element_id": -1,
+            "type": 1,
+            "formula": "30 + a.atk * 4 - b.def * 2",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 98,
+        "effects": [],
+        "itype_id": 1,
+        "name": "Nothing"
+    },
+    {
+        "hit_type": 0,
+        "scope": 9,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 37,
+        "icon_index": 194,
+        "description": "Recovers ally from death.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 250,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 42,
+        "effects": [
+            {
+                "code": 22,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 1
+            }
+        ],
+        "itype_id": 1,
+        "name": "Stimulant"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 38,
+        "icon_index": 194,
+        "description": "Treats poison.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 30,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 40,
+        "effects": [
+            {
+                "code": 22,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 2
+            }
+        ],
+        "itype_id": 1,
+        "name": "Antidote"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 39,
+        "icon_index": 59,
+        "description": "",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [],
+        "itype_id": 1,
+        "name": "CASSETTES"
+    },
+    {
+        "hit_type": 0,
+        "scope": 0,
+        "consumable": false,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 40,
+        "icon_index": 59,
+        "description": "A cassette",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [],
+        "itype_id": 2,
+        "name": "Sweet Sweet Joy Boy"
+    },
+    {
+        "hit_type": 0,
+        "scope": 0,
+        "consumable": false,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 41,
+        "icon_index": 59,
+        "description": "A cassette",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [],
+        "itype_id": 2,
+        "name": "El Tigre"
+    },
+    {
+        "hit_type": 0,
+        "scope": 2,
+        "consumable": true,
+        "note": "<one animation>.",
+        "occasion": 1,
+        "repeats": 1,
+        "id": 42,
+        "icon_index": 20,
+        "description": "A firebomb, can cause burning.",
+        "damage": {
+            "variance": 20,
+            "element_id": 3,
+            "type": 1,
+            "formula": "500 + a.atk * 4 - b.def * 2",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 101,
+        "effects": [
+            {
+                "code": 21,
+                "value1": 0.7,
+                "value2": 0.0,
+                "data_id": 26
+            }
+        ],
+        "itype_id": 1,
+        "name": "Firebomb"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 43,
+        "icon_index": 24,
+        "description": "This drug makes you feel nothing.\r\nUse it in a pinch.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 20,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 371,
+        "effects": [
+            {
+                "code": 22,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 38
+            },
+            {
+                "code": 21,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 39
+            },
+            {
+                "code": 44,
+                "value1": 0.0,
+                "value2": 0.0,
+                "data_id": 12
+            },
+            {
+                "code": 22,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 48
+            },
+            {
+                "code": 11,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 0
+            }
+        ],
+        "itype_id": 1,
+        "name": "Joy"
+    },
+    {
+        "hit_type": 0,
+        "scope": 0,
+        "consumable": false,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 44,
+        "icon_index": 50,
+        "description": "A golden hen.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [],
+        "itype_id": 2,
+        "name": "Goldie"
+    },
+    {
+        "hit_type": 0,
+        "scope": 0,
+        "consumable": false,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 45,
+        "icon_index": 197,
+        "description": "Bail to a safer place.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [
+            {
+                "code": 44,
+                "value1": 0.0,
+                "value2": 0.0,
+                "data_id": 65
+            }
+        ],
+        "itype_id": 2,
+        "name": "Truck Keys"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 46,
+        "icon_index": 9,
+        "description": "An unsafe blend of tea.\r\nRevives TP and SP.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 50,
+        "speed": 0,
+        "price": 13,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 353,
+        "effects": [
+            {
+                "code": 12,
+                "value1": 0.77,
+                "value2": 70.0,
+                "data_id": 0
+            }
+        ],
+        "itype_id": 1,
+        "name": "Lucrative Tea"
+    },
+    {
+        "hit_type": 0,
+        "scope": 2,
+        "consumable": true,
+        "note": "<one animation>.",
+        "occasion": 1,
+        "repeats": 1,
+        "id": 47,
+        "icon_index": 20,
+        "description": "A beefed up firebomb, can cause burning.",
+        "damage": {
+            "variance": 20,
+            "element_id": 3,
+            "type": 1,
+            "formula": "1700 + a.atk * 4 - b.def * 2",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 101,
+        "effects": [
+            {
+                "code": 21,
+                "value1": 0.7,
+                "value2": 0.0,
+                "data_id": 26
+            }
+        ],
+        "itype_id": 1,
+        "name": "Diesel F. Bomb"
+    },
+    {
+        "hit_type": 0,
+        "scope": 1,
+        "consumable": false,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 48,
+        "icon_index": 11,
+        "description": "A strange mossy paste...\r\nI wouldn't drink this...",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 50,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [],
+        "itype_id": 1,
+        "name": "Green Paste"
+    },
+    {
+        "hit_type": 0,
+        "scope": 0,
+        "consumable": false,
+        "note": "",
+        "occasion": 3,
+        "repeats": 1,
+        "id": 49,
+        "icon_index": 236,
+        "description": "An explosive capable of destroying\r\ncertain objects.",
+        "damage": {
+            "variance": 20,
+            "element_id": 3,
+            "type": 0,
+            "formula": "2000 + a.atk * 4 - b.def * 2",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 102,
+        "effects": [],
+        "itype_id": 2,
+        "name": "TNT"
+    },
+    {
+        "hit_type": 0,
+        "scope": 0,
+        "consumable": false,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 50,
+        "icon_index": 235,
+        "description": "A mask you made for Buddy so you\r\ncould take her on walks.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [],
+        "itype_id": 1,
+        "name": "Buddy's Mask"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 51,
+        "icon_index": 22,
+        "description": "Try rubbing it on yourself in battle.\r\nMakes you stink.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 2,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [
+            {
+                "code": 21,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 35
+            }
+        ],
+        "itype_id": 1,
+        "name": "Nugget"
+    },
+    {
+        "hit_type": 0,
+        "scope": 0,
+        "consumable": false,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 52,
+        "icon_index": 39,
+        "description": "This isn't worth keeping... Try to sell it.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 12,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [],
+        "itype_id": 1,
+        "name": "Wushu Spear"
+    },
+    {
+        "hit_type": 0,
+        "scope": 0,
+        "consumable": false,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 53,
+        "icon_index": 7,
+        "description": "A map to Garbage Island.\r\nShow it to Shardy.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [
+            {
+                "code": 44,
+                "value1": 0.0,
+                "value2": 0.0,
+                "data_id": 15
+            }
+        ],
+        "itype_id": 2,
+        "name": "Garbage Map"
+    },
+    {
+        "hit_type": 0,
+        "scope": 0,
+        "consumable": false,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 54,
+        "icon_index": 7,
+        "description": "A map to Dismal Island.\r\nShow it to Shardy.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 55,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [
+            {
+                "code": 44,
+                "value1": 0.0,
+                "value2": 0.0,
+                "data_id": 32
+            }
+        ],
+        "itype_id": 2,
+        "name": "Dismal Map"
+    },
+    {
+        "hit_type": 0,
+        "scope": 0,
+        "consumable": false,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 55,
+        "icon_index": 7,
+        "description": "A map to Resort Island.\r\nShow it to Shardy.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 100,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [
+            {
+                "code": 44,
+                "value1": 0.0,
+                "value2": 0.0,
+                "data_id": 33
+            }
+        ],
+        "itype_id": 2,
+        "name": "Resort Map"
+    },
+    {
+        "hit_type": 0,
+        "scope": 0,
+        "consumable": false,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 56,
+        "icon_index": 252,
+        "description": "A slimy green wood with bright red sap.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [],
+        "itype_id": 2,
+        "name": "Blood Wood"
+    },
+    {
+        "hit_type": 0,
+        "scope": 0,
+        "consumable": false,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 57,
+        "icon_index": 250,
+        "description": "It's hard to find a cloth this nice nowadays.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [],
+        "itype_id": 2,
+        "name": "Mint Cloth"
+    },
+    {
+        "hit_type": 0,
+        "scope": 0,
+        "consumable": false,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 58,
+        "icon_index": 251,
+        "description": "A huge fan. It could possibly be a\r\nfamily heirloom.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [],
+        "itype_id": 2,
+        "name": "Large Fan"
+    },
+    {
+        "hit_type": 0,
+        "scope": 0,
+        "consumable": false,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 59,
+        "icon_index": 249,
+        "description": "This box contains a lot of great\r\ntools!",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [],
+        "itype_id": 2,
+        "name": "Toolbox"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": false,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 60,
+        "icon_index": 219,
+        "description": "A strange record.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 50,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [],
+        "itype_id": 2,
+        "name": "Old Record"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 61,
+        "icon_index": 4,
+        "description": "Capable of getting you drunk.\r\nRecovers 200 HP.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 13,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 353,
+        "effects": [
+            {
+                "code": 11,
+                "value1": 0.0,
+                "value2": 200.0,
+                "data_id": 0
+            },
+            {
+                "code": 21,
+                "value1": 0.7,
+                "value2": 0.0,
+                "data_id": 34
+            },
+            {
+                "code": 44,
+                "value1": 0.0,
+                "value2": 0.0,
+                "data_id": 7
+            }
+        ],
+        "itype_id": 1,
+        "name": "Party Liquor"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 62,
+        "icon_index": 4,
+        "description": "Capable of getting you drunk.\r\nRecovers 300 HP.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 15,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 353,
+        "effects": [
+            {
+                "code": 11,
+                "value1": 0.0,
+                "value2": 300.0,
+                "data_id": 0
+            },
+            {
+                "code": 21,
+                "value1": 0.9,
+                "value2": 0.0,
+                "data_id": 34
+            },
+            {
+                "code": 44,
+                "value1": 0.0,
+                "value2": 0.0,
+                "data_id": 7
+            }
+        ],
+        "itype_id": 1,
+        "name": "Onion Vodka"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 63,
+        "icon_index": 4,
+        "description": "Capable of getting you drunk.\r\nRecovers 500 HP.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 20,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 353,
+        "effects": [
+            {
+                "code": 11,
+                "value1": 0.0,
+                "value2": 500.0,
+                "data_id": 0
+            },
+            {
+                "code": 21,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 34
+            },
+            {
+                "code": 44,
+                "value1": 0.0,
+                "value2": 0.0,
+                "data_id": 7
+            }
+        ],
+        "itype_id": 1,
+        "name": "Olathian Whiskey"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 64,
+        "icon_index": 35,
+        "description": "It's written in English. It can't be\r\nTHAT authentic... Increases S.ATK & SP",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 353,
+        "effects": [
+            {
+                "code": 42,
+                "value1": 5.0,
+                "value2": 0.0,
+                "data_id": 1
+            },
+            {
+                "code": 42,
+                "value1": 5.0,
+                "value2": 0.0,
+                "data_id": 4
+            }
+        ],
+        "itype_id": 2,
+        "name": "Gonzalo Style Scroll"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 65,
+        "icon_index": 7,
+        "description": "A manual on trust.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [
+            {
+                "code": 44,
+                "value1": 0.0,
+                "value2": 0.0,
+                "data_id": 29
+            }
+        ],
+        "itype_id": 1,
+        "name": "Trust for Suckers"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 66,
+        "icon_index": 7,
+        "description": "The profound creed that all true \r\nmartial artists live by.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 1000,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [
+            {
+                "code": 44,
+                "value1": 0.0,
+                "value2": 0.0,
+                "data_id": 30
+            }
+        ],
+        "itype_id": 1,
+        "name": "Student Creed"
+    },
+    {
+        "hit_type": 0,
+        "scope": 0,
+        "consumable": false,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 67,
+        "icon_index": 114,
+        "description": "This makes you feel... Different.\r\n(Falls off when jumping or climbing.)",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 50,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [
+            {
+                "code": 44,
+                "value1": 0.0,
+                "value2": 0.0,
+                "data_id": 31
+            }
+        ],
+        "itype_id": 2,
+        "name": "Degrading Dress"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 68,
+        "icon_index": 94,
+        "description": "The ultimate for drying your tears...\r\nWhen you have an issue.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 353,
+        "effects": [
+            {
+                "code": 22,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 3
+            },
+            {
+                "code": 22,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 29
+            }
+        ],
+        "itype_id": 1,
+        "name": "Tissue"
+    },
+    {
+        "hit_type": 0,
+        "scope": 0,
+        "consumable": false,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 69,
+        "icon_index": 95,
+        "description": "A ratty old octopus doll...\r\nRare, but worthless.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 32,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [],
+        "itype_id": 1,
+        "name": "Weird Doll"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 70,
+        "icon_index": 69,
+        "description": "Dried squirrel meat.\r\nRecovers 300 HP.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 2,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 310,
+        "effects": [
+            {
+                "code": 11,
+                "value1": 0.0,
+                "value2": 300.0,
+                "data_id": 0
+            }
+        ],
+        "itype_id": 1,
+        "name": "Squirrel Jerky"
+    },
+    {
+        "hit_type": 0,
+        "scope": 0,
+        "consumable": false,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 71,
+        "icon_index": 127,
+        "description": "It has \"Duffie\" etched on the side of it.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 50,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [],
+        "itype_id": 1,
+        "name": "Duffel Bag"
+    },
+    {
+        "hit_type": 0,
+        "scope": 0,
+        "consumable": false,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 72,
+        "icon_index": 23,
+        "description": "Having a human hostage is a great\r\napocalyptic resource.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 300,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [],
+        "itype_id": 2,
+        "name": "Toby"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 73,
+        "icon_index": 35,
+        "description": "It's written in English. It can't be\r\nTHAT authentic... Increases DEF.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 353,
+        "effects": [
+            {
+                "code": 42,
+                "value1": 8.0,
+                "value2": 0.0,
+                "data_id": 0
+            },
+            {
+                "code": 42,
+                "value1": 8.0,
+                "value2": 0.0,
+                "data_id": 3
+            },
+            {
+                "code": 42,
+                "value1": 8.0,
+                "value2": 0.0,
+                "data_id": 5
+            }
+        ],
+        "itype_id": 2,
+        "name": "Muhammad Style Scroll"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 74,
+        "icon_index": 35,
+        "description": "It's written in English. It can't be\r\nTHAT authentic... Increases ATK.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 353,
+        "effects": [
+            {
+                "code": 42,
+                "value1": 8.0,
+                "value2": 0.0,
+                "data_id": 2
+            },
+            {
+                "code": 42,
+                "value1": 8.0,
+                "value2": 0.0,
+                "data_id": 4
+            }
+        ],
+        "itype_id": 2,
+        "name": "Christ Style Scroll"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 75,
+        "icon_index": 36,
+        "description": "It's written in Oriental language...\r\nIt must be authentic... Increases EVERYTHING.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 353,
+        "effects": [
+            {
+                "code": 42,
+                "value1": 5.0,
+                "value2": 0.0,
+                "data_id": 2
+            },
+            {
+                "code": 42,
+                "value1": 5.0,
+                "value2": 0.0,
+                "data_id": 3
+            },
+            {
+                "code": 42,
+                "value1": 5.0,
+                "value2": 0.0,
+                "data_id": 6
+            },
+            {
+                "code": 42,
+                "value1": 5.0,
+                "value2": 0.0,
+                "data_id": 4
+            },
+            {
+                "code": 42,
+                "value1": 5.0,
+                "value2": 0.0,
+                "data_id": 5
+            }
+        ],
+        "itype_id": 2,
+        "name": "Doomsday Style Scroll"
+    },
+    {
+        "hit_type": 0,
+        "scope": 0,
+        "consumable": false,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 76,
+        "icon_index": 197,
+        "description": "The tag reads \"Mike.\"",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [],
+        "itype_id": 1,
+        "name": "Keys"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 77,
+        "icon_index": 8,
+        "description": "Flavor so smooth, it heals poison!\r\n(This ad is sponsored by Martlo Cigarettes)",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 50,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 353,
+        "effects": [
+            {
+                "code": 22,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 27
+            },
+            {
+                "code": 22,
+                "value1": 1.0,
+                "value2": 0.0,
+                "data_id": 2
+            }
+        ],
+        "itype_id": 1,
+        "name": "Cigarette"
+    },
+    {
+        "hit_type": 0,
+        "scope": 0,
+        "consumable": false,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 78,
+        "icon_index": 238,
+        "description": "The mask worn by Rando.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 300,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [
+            {
+                "code": 44,
+                "value1": 0.0,
+                "value2": 0.0,
+                "data_id": 60
+            }
+        ],
+        "itype_id": 2,
+        "name": "Red Skull Mask"
+    },
+    {
+        "hit_type": 0,
+        "scope": 0,
+        "consumable": false,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 79,
+        "icon_index": 223,
+        "description": "Remove any masks worn.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 300,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [
+            {
+                "code": 44,
+                "value1": 0.0,
+                "value2": 0.0,
+                "data_id": 61
+            }
+        ],
+        "itype_id": 2,
+        "name": "Remove Mask"
+    },
+    {
+        "hit_type": 0,
+        "scope": 11,
+        "consumable": true,
+        "note": "<anti fail>",
+        "occasion": 1,
+        "repeats": 1,
+        "id": 80,
+        "icon_index": 163,
+        "description": "A useful tool that requires bullets.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 55,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [
+            {
+                "code": 44,
+                "value1": 0.0,
+                "value2": 0.0,
+                "data_id": 62
+            }
+        ],
+        "itype_id": 1,
+        "name": "Revolver"
+    },
+    {
+        "hit_type": 0,
+        "scope": 0,
+        "consumable": false,
+        "note": "",
+        "occasion": 3,
+        "repeats": 1,
+        "id": 81,
+        "icon_index": 21,
+        "description": "Ammunition for a gun.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 10,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [],
+        "itype_id": 1,
+        "name": "Bullet"
+    },
+    {
+        "hit_type": 0,
+        "scope": 0,
+        "consumable": false,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 82,
+        "icon_index": 254,
+        "description": "A cheap mask for Terry cosplay.\r\nHe must have made it himself.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 300,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [
+            {
+                "code": 44,
+                "value1": 0.0,
+                "value2": 0.0,
+                "data_id": 63
+            }
+        ],
+        "itype_id": 2,
+        "name": "Hint Mask"
+    },
+    {
+        "hit_type": 0,
+        "scope": 0,
+        "consumable": false,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 83,
+        "icon_index": 238,
+        "description": "The mask worn by Rando.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 300,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [
+            {
+                "code": 44,
+                "value1": 0.0,
+                "value2": 0.0,
+                "data_id": 60
+            }
+        ],
+        "itype_id": 2,
+        "name": "Red Skull Mask"
+    },
+    {
+        "hit_type": 0,
+        "scope": 0,
+        "consumable": false,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 84,
+        "icon_index": 239,
+        "description": "The mask Buzzo's men wear...",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 300,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [
+            {
+                "code": 44,
+                "value1": 0.0,
+                "value2": 0.0,
+                "data_id": 64
+            }
+        ],
+        "itype_id": 2,
+        "name": "Joy Mask"
+    },
+    {
+        "hit_type": 0,
+        "scope": 0,
+        "consumable": false,
+        "note": "",
+        "occasion": 2,
+        "repeats": 1,
+        "id": 85,
+        "icon_index": 204,
+        "description": "It won't fit on your head.",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 300,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [],
+        "itype_id": 1,
+        "name": "Green Helmet"
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 86,
+        "icon_index": 0,
+        "description": "",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [],
+        "itype_id": 1,
+        "name": ""
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 87,
+        "icon_index": 0,
+        "description": "",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [],
+        "itype_id": 1,
+        "name": ""
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 88,
+        "icon_index": 0,
+        "description": "",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [],
+        "itype_id": 1,
+        "name": ""
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 89,
+        "icon_index": 0,
+        "description": "",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [],
+        "itype_id": 1,
+        "name": ""
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 90,
+        "icon_index": 0,
+        "description": "",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [],
+        "itype_id": 1,
+        "name": ""
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 91,
+        "icon_index": 0,
+        "description": "",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [],
+        "itype_id": 1,
+        "name": ""
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 92,
+        "icon_index": 0,
+        "description": "",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [],
+        "itype_id": 1,
+        "name": ""
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 93,
+        "icon_index": 0,
+        "description": "",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [],
+        "itype_id": 1,
+        "name": ""
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 94,
+        "icon_index": 0,
+        "description": "",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [],
+        "itype_id": 1,
+        "name": ""
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 95,
+        "icon_index": 0,
+        "description": "",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [],
+        "itype_id": 1,
+        "name": ""
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 96,
+        "icon_index": 0,
+        "description": "",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [],
+        "itype_id": 1,
+        "name": ""
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 97,
+        "icon_index": 0,
+        "description": "",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [],
+        "itype_id": 1,
+        "name": ""
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 98,
+        "icon_index": 0,
+        "description": "",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [],
+        "itype_id": 1,
+        "name": ""
+    },
+    {
+        "hit_type": 0,
+        "scope": 7,
+        "consumable": true,
+        "note": "",
+        "occasion": 0,
+        "repeats": 1,
+        "id": 99,
+        "icon_index": 0,
+        "description": "",
+        "damage": {
+            "variance": 20,
+            "element_id": 0,
+            "type": 0,
+            "formula": "0",
+            "critical": false
+        },
+        "tp_gain": 0,
+        "speed": 0,
+        "price": 0,
+        "success_rate": 100,
+        "features": [],
+        "animation_id": 0,
+        "effects": [],
+        "itype_id": 1,
+        "name": ""
+    }
+]

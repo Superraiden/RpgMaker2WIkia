@@ -1,0 +1,37 @@
+{{Template:Weapon
+| name       = Wooden Bow
+| image      = File:031WoodenBow.png
+| imagewidth = 100px
+| caption    = 
+| id         = 31
+| weaponType = [[Bow]]
+| Para_ATK   = 7
+| Para_DEF   = 0
+| Para_SATK  = 0
+| Para_SDEF  = 0
+| Para_AGI   = 0
+| Para_LUCK  = 0
+| Para_HP    = 0
+| Para_SP    = 0
+| feature1   = Attack Element: Physical
+| feature2   = Seal Equip: Shield
+| feature3   = [[CRI]] * 3%
+| feature4   = Attack Speed + 5
+| feature5   = 
+| feature6   = 
+| feature7   = 
+| feature8   = 
+| feature9   = 
+| feature10  = 
+| feature11  = 
+| feature12  = 
+}}
+ 
+==Description==
+Nothing special about this bow.
+
+==Features==
+==Locations==
+==Notes==
+
+[[Category:Weapon]]

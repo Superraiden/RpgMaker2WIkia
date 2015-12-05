@@ -1,0 +1,5546 @@
+[
+  {
+    "description": "This makes a very bold statement.",
+    "name": "Bare Chest",
+    "icon_index": 15,
+    "price": 3,
+    "note": "",
+    "id": 1,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 4
+  },
+  {
+    "description": "Make sure to wear an undershirt with this bad boy.",
+    "name": "Itchy Poncho",
+    "icon_index": 170,
+    "price": 2,
+    "note": "",
+    "id": 2,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      4,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 7
+  },
+  {
+    "description": "Made from rabbit murder.",
+    "name": "Leather Poncho",
+    "icon_index": 170,
+    "price": 6,
+    "note": "",
+    "id": 3,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      7,
+      0,
+      2,
+      2,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 7
+  },
+  {
+    "description": "Why is this forever wet? That's really\r\ngross. (Prevents burning.)",
+    "name": "Damp Poncho",
+    "icon_index": 82,
+    "price": 12,
+    "note": "",
+    "id": 4,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "data_id": 26,
+        "value": 0.0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      6,
+      0,
+      4,
+      -2,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 7
+  },
+  {
+    "description": "Probably the only one ever made.\r\nWho loses a nipple?",
+    "name": "Nipple Patch",
+    "icon_index": 123,
+    "price": 6,
+    "note": "",
+    "id": 5,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      4,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 3
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 6,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 7,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "Made from thick plastic. Thick like your skull.",
+    "name": "Thick Pads",
+    "icon_index": 172,
+    "price": 21,
+    "note": "",
+    "id": 8,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0.0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      20,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 3
+  },
+  {
+    "description": "You look like a real dandy with this.",
+    "name": "Dainty Shawl",
+    "icon_index": 233,
+    "price": 20,
+    "note": "",
+    "id": 9,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      8,
+      0,
+      1,
+      3,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 1
+  },
+  {
+    "description": "This is just a square of old carpet.\r\nIt's flammable.",
+    "name": "Shag Poncho",
+    "icon_index": 65,
+    "price": 16,
+    "note": "",
+    "id": 10,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "data_id": 3,
+        "value": 1.0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      13,
+      0,
+      10,
+      -4,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 7
+  },
+  {
+    "description": "A robe made of thick cotten.",
+    "name": "SHAWLS-------------",
+    "icon_index": 171,
+    "price": 100,
+    "note": "",
+    "id": 11,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      4,
+      2,
+      2,
+      0,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 0
+  },
+  {
+    "description": "Does not included tramatic flashbacks,\r\nbut makes you hard to see.",
+    "name": "Camo Shawl",
+    "icon_index": 202,
+    "price": 43,
+    "note": "<auto state: 13>",
+    "id": 12,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "data_id": 13,
+        "value": 0.6
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      31,
+      0,
+      23,
+      0,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 1
+  },
+  {
+    "description": "A shawl made out of a trash bag.\r\nIt produces a stench.",
+    "name": "Trash Bag Shawl",
+    "icon_index": 16,
+    "price": 32,
+    "note": "<auto state: 35>",
+    "id": 13,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      14,
+      0,
+      0,
+      5,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 1
+  },
+  {
+    "description": "A highly flamable women's garment.",
+    "name": "Cotton Shawl",
+    "icon_index": 154,
+    "price": 18,
+    "note": "",
+    "id": 14,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "data_id": 3,
+        "value": 0.5
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      10,
+      0,
+      5,
+      0,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 1
+  },
+  {
+    "description": "Dressing like ninja doesn't give you the right to\r\ndo stupid poses, nerd.",
+    "name": "Ninja Scarf",
+    "icon_index": 81,
+    "price": 28,
+    "note": "",
+    "id": 15,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0.02
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      25,
+      0,
+      18,
+      12,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 1
+  },
+  {
+    "description": "Big enough to cover your chest, but not\r\nbig enough to sleep under.",
+    "name": "Childs Blanket",
+    "icon_index": 65,
+    "price": 21,
+    "note": "",
+    "id": 16,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      15,
+      0,
+      15,
+      3,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 1
+  },
+  {
+    "description": "A very fancy, very warm women's coat.",
+    "name": "Fur Coat",
+    "icon_index": 82,
+    "price": 26,
+    "note": "",
+    "id": 17,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      23,
+      0,
+      3,
+      0,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 2
+  },
+  {
+    "description": "Very uncomfortable, but protects\r\nfrom water damage.",
+    "name": "Plastic Tarp",
+    "icon_index": 234,
+    "price": 33,
+    "note": "",
+    "id": 18,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "data_id": 8,
+        "value": 0.7
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      23,
+      0,
+      23,
+      -8,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 1
+  },
+  {
+    "description": "A shawl of legend.",
+    "name": "Grandma's Shawl",
+    "icon_index": 153,
+    "price": 99,
+    "note": "",
+    "id": 19,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      50,
+      7,
+      43,
+      -5,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 1
+  },
+  {
+    "description": "Empowered by an ancient magical civilization's power.",
+    "name": "PONCHO---------------",
+    "icon_index": 166,
+    "price": 10000,
+    "note": "",
+    "id": 20,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      18,
+      12,
+      11,
+      0,
+      0
+    ],
+    "etype_id": 2,
+    "atype_id": 0
+  },
+  {
+    "description": "Make sure to wear an undershirt with this bad boy.",
+    "name": "Itchy Poncho",
+    "icon_index": 170,
+    "price": 2,
+    "note": "",
+    "id": 21,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      4,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 7
+  },
+  {
+    "description": "Made from rabbit murder.",
+    "name": "Leather Poncho",
+    "icon_index": 170,
+    "price": 6,
+    "note": "",
+    "id": 22,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      7,
+      0,
+      2,
+      2,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 7
+  },
+  {
+    "description": "Why is this forever wet? That's really\r\ngross. (Prevents burning.)",
+    "name": "Damp Poncho",
+    "icon_index": 82,
+    "price": 12,
+    "note": "",
+    "id": 23,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "data_id": 26,
+        "value": 0.0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      6,
+      0,
+      4,
+      -2,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 7
+  },
+  {
+    "description": "This is just a square of old carpet.\r\nIt's flammable.",
+    "name": "Shag Poncho",
+    "icon_index": 65,
+    "price": 16,
+    "note": "",
+    "id": 24,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "data_id": 3,
+        "value": 1.0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      13,
+      0,
+      10,
+      -4,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 7
+  },
+  {
+    "description": "Water just slides right off!",
+    "name": "Rain Poncho",
+    "icon_index": 66,
+    "price": 17,
+    "note": "",
+    "id": 25,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "data_id": 8,
+        "value": 0.8
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      13,
+      0,
+      10,
+      0,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 7
+  },
+  {
+    "description": "Food still remains on this blanket for you\r\nto eat. Restores HP over time.",
+    "name": "Picnic Blanket",
+    "icon_index": 201,
+    "price": 23,
+    "note": "",
+    "id": 26,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 7,
+        "value": 0.02
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      15,
+      0,
+      11,
+      0,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 7
+  },
+  {
+    "description": "Mysterious oil covers this Poncho, making\r\nyou super slick to the touch!",
+    "name": "Greasy Poncho",
+    "icon_index": 217,
+    "price": 26,
+    "note": "<auto state: 46>",
+    "id": 27,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0.05
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      15,
+      0,
+      11,
+      2,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 7
+  },
+  {
+    "description": "A poncho Brad made for Buddy.\r\nThe stitching is poorly done...",
+    "name": "Buddy's Poncho",
+    "icon_index": 233,
+    "price": 4,
+    "note": "",
+    "id": 28,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      5,
+      0,
+      3,
+      0,
+      5
+    ],
+    "etype_id": 3,
+    "atype_id": 7
+  },
+  {
+    "description": "You feel like you have the whole\r\nworld in your hands...",
+    "name": "Hawaiian Poncho",
+    "icon_index": 218,
+    "price": 31,
+    "note": "",
+    "id": 29,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      18,
+      3,
+      26,
+      0,
+      1
+    ],
+    "etype_id": 3,
+    "atype_id": 7
+  },
+  {
+    "description": "A very well made poncho.",
+    "name": "Rando Poncho",
+    "icon_index": 186,
+    "price": 100,
+    "note": "",
+    "id": 30,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0.0
+      },
+      {
+        "code": 33,
+        "data_id": 0,
+        "value": -2.0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      23,
+      0,
+      14,
+      0,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 7
+  },
+  {
+    "description": "A very rare fabric in today's day and age.\r\nWho did this belong to?",
+    "name": "Silk Poncho",
+    "icon_index": 154,
+    "price": 200,
+    "note": "",
+    "id": 31,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0.03
+      },
+      {
+        "code": 33,
+        "data_id": 0,
+        "value": 1.0
+      }
+    ],
+    "params": [
+      0,
+      4,
+      0,
+      35,
+      0,
+      35,
+      9,
+      5
+    ],
+    "etype_id": 3,
+    "atype_id": 7
+  },
+  {
+    "description": "A very well made poncho.",
+    "name": "MANLY---------------",
+    "icon_index": 186,
+    "price": 100,
+    "note": "",
+    "id": 32,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0.0
+      },
+      {
+        "code": 33,
+        "data_id": 0,
+        "value": -2.0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      40,
+      0,
+      40,
+      0,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 0
+  },
+  {
+    "description": "It's rather disrespectful to be wearing\r\nthis like a shirt...",
+    "name": "USA Flag",
+    "icon_index": 169,
+    "price": 100,
+    "note": "",
+    "id": 33,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      },
+      {
+        "code": 11,
+        "data_id": 3,
+        "value": 1.0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      40,
+      0,
+      40,
+      21,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 3
+  },
+  {
+    "description": "Probably the only one ever made.\r\nWho loses a nipple?",
+    "name": "Nipple Patch",
+    "icon_index": 123,
+    "price": 6,
+    "note": "",
+    "id": 34,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      4,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 3
+  },
+  {
+    "description": "Signed by John Freeway, but it's a mass\r\nproduced signature. It's nothing special.",
+    "name": "Football Pads",
+    "icon_index": 156,
+    "price": 7,
+    "note": "",
+    "id": 35,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0.0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      5,
+      0,
+      2,
+      2,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 3
+  },
+  {
+    "description": "Made from thick plastic. Thick like your skull.",
+    "name": "Elite Pads",
+    "icon_index": 172,
+    "price": 13,
+    "note": "",
+    "id": 36,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0.0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      11,
+      0,
+      3,
+      0,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 3
+  },
+  {
+    "description": "If you don't have these in the apocalypse\r\nyou're seriously doing it wrong.",
+    "name": "Spiked Pads",
+    "icon_index": 139,
+    "price": 26,
+    "note": "",
+    "id": 37,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      17,
+      0,
+      5,
+      0,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 3
+  },
+  {
+    "description": "These sure can take a beating.",
+    "name": "Meaty Pads",
+    "icon_index": 155,
+    "price": 30,
+    "note": "",
+    "id": 38,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      21,
+      0,
+      6,
+      -1,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 3
+  },
+  {
+    "description": "Dope western style pads.",
+    "name": "Turquoise Pads",
+    "icon_index": 171,
+    "price": 40,
+    "note": "",
+    "id": 39,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      30,
+      0,
+      15,
+      0,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 3
+  },
+  {
+    "description": "The football pads of the world's most evil\r\nquaterback... Satan Manning.",
+    "name": "Devil's Pads",
+    "icon_index": 187,
+    "price": 666,
+    "note": "",
+    "id": 40,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": -0.005
+      },
+      {
+        "code": 11,
+        "data_id": 3,
+        "value": 0.8
+      },
+      {
+        "code": 33,
+        "data_id": 0,
+        "value": -2.0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      35,
+      0,
+      17,
+      -2,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 3
+  },
+  {
+    "description": "Bright colored pads for roller blading.",
+    "name": "Skate Pads",
+    "icon_index": 188,
+    "price": 22,
+    "note": "",
+    "id": 41,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0.02
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      15,
+      0,
+      8,
+      0,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 3
+  },
+  {
+    "description": "A stiff shield.",
+    "name": "Wood Shield",
+    "icon_index": 84,
+    "price": 22,
+    "note": "",
+    "id": 42,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0.04
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 5
+  },
+  {
+    "description": "This really... STOPS attacks.",
+    "name": "Metal Shield",
+    "icon_index": 83,
+    "price": 50,
+    "note": "",
+    "id": 43,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0.06
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      6,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 5
+  },
+  {
+    "description": "Mithril buckler made of the magic mineral.",
+    "name": "------------------------",
+    "icon_index": 160,
+    "price": 4500,
+    "note": "",
+    "id": 44,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0.08
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      10,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 5
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 45,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 46,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 47,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 48,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 49,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 50,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "An authentic combat belt!",
+    "name": "Karate Belt",
+    "icon_index": 80,
+    "price": 30,
+    "note": "",
+    "id": 51,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      5,
+      5,
+      5,
+      5,
+      5,
+      0
+    ],
+    "etype_id": 4,
+    "atype_id": 8
+  },
+  {
+    "description": "A poncho made out of a trash bag.\r\nIt produces a stench.",
+    "name": "Trash Bag Poncho",
+    "icon_index": 16,
+    "price": 7,
+    "note": "<auto state: Stink>",
+    "id": 52,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      5,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 7
+  },
+  {
+    "description": "Putting this in your cap makes you look\r\nsuper smart!",
+    "name": "Lucky Feather",
+    "icon_index": 51,
+    "price": 12,
+    "note": "",
+    "id": 53,
+    "features": [
+
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      6,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 4,
+    "atype_id": 8
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 54,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "A woman's picture is inside the locket.",
+    "name": "Locket",
+    "icon_index": 191,
+    "price": 24,
+    "note": "",
+    "id": 55,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "data_id": 2,
+        "value": 0.8
+      },
+      {
+        "code": 13,
+        "data_id": 3,
+        "value": 0.8
+      },
+      {
+        "code": 13,
+        "data_id": 36,
+        "value": 0.8
+      },
+      {
+        "code": 13,
+        "data_id": 30,
+        "value": 0.8
+      },
+      {
+        "code": 13,
+        "data_id": 29,
+        "value": 0.8
+      },
+      {
+        "code": 13,
+        "data_id": 7,
+        "value": 0.8
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      4,
+      0,
+      0,
+      2,
+      30
+    ],
+    "etype_id": 4,
+    "atype_id": 8
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 56,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 57,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 58,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 59,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 60,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "LUCHA MASKS-------------------",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 61,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "You must be really out of shape you pig.",
+    "name": "Sweaty Mask",
+    "icon_index": 90,
+    "price": 2,
+    "note": "",
+    "id": 62,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 2,
+    "atype_id": 9
+  },
+  {
+    "description": "The glistening lets people know how\r\ncool you are.",
+    "name": "Sparkly Mask",
+    "icon_index": 90,
+    "price": 14,
+    "note": "",
+    "id": 63,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      20,
+      0,
+      20,
+      0,
+      0
+    ],
+    "etype_id": 2,
+    "atype_id": 9
+  },
+  {
+    "description": "Give it the old college try with this\r\nbad boy.",
+    "name": "Worn Helmet",
+    "icon_index": 13,
+    "price": 18,
+    "note": "",
+    "id": 64,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0.0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      8,
+      0,
+      5,
+      -1,
+      0
+    ],
+    "etype_id": 2,
+    "atype_id": 10
+  },
+  {
+    "description": "There is something written on it: \"Dear son,\r\ndon't drive bulldozers, you'll never succeed.\"",
+    "name": "Horrace's Hardhat",
+    "icon_index": 67,
+    "price": 40,
+    "note": "",
+    "id": 65,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      22,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 2,
+    "atype_id": 10
+  },
+  {
+    "description": "",
+    "name": "ACCESORIES-----------",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 66,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "An assortment of motivational quotes to help\r\nTerry get through the day...",
+    "name": "Diary Entries",
+    "icon_index": 7,
+    "price": 1,
+    "note": "",
+    "id": 67,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 0,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "data_id": 9,
+        "value": 0.04
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1
+    ],
+    "etype_id": 4,
+    "atype_id": 8
+  },
+  {
+    "description": "Super comfy, but super smelly.",
+    "name": "Old Sock",
+    "icon_index": 34,
+    "price": 33,
+    "note": "<auto state: 35>",
+    "id": 68,
+    "features": [
+      {
+        "code": 13,
+        "data_id": 35,
+        "value": 1.0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      14,
+      0
+    ],
+    "etype_id": 4,
+    "atype_id": 8
+  },
+  {
+    "description": "Putting this in your cap makes you look\r\nsuper smart!",
+    "name": "Lucky Feather",
+    "icon_index": 51,
+    "price": 12,
+    "note": "",
+    "id": 69,
+    "features": [
+
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      6,
+      0,
+      0,
+      3
+    ],
+    "etype_id": 4,
+    "atype_id": 8
+  },
+  {
+    "description": "A stench so strong, you can\r\nphysically carry it around.",
+    "name": "Stench",
+    "icon_index": 228,
+    "price": 0,
+    "note": "<auto state: 35>",
+    "id": 70,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "data_id": 35,
+        "value": 1.0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 4,
+    "atype_id": 8
+  },
+  {
+    "description": "A personal keepsake.",
+    "name": "Dead Flower",
+    "icon_index": 43,
+    "price": 17,
+    "note": "",
+    "id": 71,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      10
+    ],
+    "etype_id": 4,
+    "atype_id": 8
+  },
+  {
+    "description": "It's really just an old towel...",
+    "name": "Cape",
+    "icon_index": 233,
+    "price": 17,
+    "note": "",
+    "id": 72,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      12,
+      0,
+      12,
+      12,
+      0
+    ],
+    "etype_id": 4,
+    "atype_id": 8
+  },
+  {
+    "description": "Many people love cats...\r\nMany hate them...",
+    "name": "Cat Paw",
+    "icon_index": 143,
+    "price": 24,
+    "note": "",
+    "id": 73,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0.02
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      10,
+      0
+    ],
+    "etype_id": 4,
+    "atype_id": 8
+  },
+  {
+    "description": "Denim never goes out of style.",
+    "name": "Denim Jeans",
+    "icon_index": 62,
+    "price": 17,
+    "note": "",
+    "id": 74,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      5,
+      0,
+      1,
+      2,
+      3,
+      0,
+      1,
+      10
+    ],
+    "etype_id": 4,
+    "atype_id": 8
+  },
+  {
+    "description": "This mother fucker keeps those fucking\r\npants secure as fuck.",
+    "name": "Badass Belt Buckle",
+    "icon_index": 63,
+    "price": 66,
+    "note": "",
+    "id": 75,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      33,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 4,
+    "atype_id": 8
+  },
+  {
+    "description": "Helps you hit things better. Reduces your coolness,\r\nregardless of your opinion on fashion.",
+    "name": "Glasses",
+    "icon_index": 47,
+    "price": 32,
+    "note": "",
+    "id": 76,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 0,
+        "value": 0.14
+      },
+      {
+        "code": 14,
+        "data_id": 42,
+        "value": 0.0
+      },
+      {
+        "code": 14,
+        "data_id": 43,
+        "value": 0.0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 4,
+    "atype_id": 8
+  },
+  {
+    "description": "The prestigious championship belt.",
+    "name": "Eternal Title Belt",
+    "icon_index": 46,
+    "price": 160,
+    "note": "",
+    "id": 77,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      11,
+      33,
+      33,
+      0,
+      -12,
+      0
+    ],
+    "etype_id": 4,
+    "atype_id": 8
+  },
+  {
+    "description": "The prestigious tag team championship belt.",
+    "name": "Tag Team Title Belt",
+    "icon_index": 30,
+    "price": 160,
+    "note": "",
+    "id": 78,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      6,
+      22,
+      22,
+      0,
+      -12,
+      0
+    ],
+    "etype_id": 4,
+    "atype_id": 8
+  },
+  {
+    "description": "It's just a lonely trucker's belt...",
+    "name": "Mike's Belt Buckle",
+    "icon_index": 63,
+    "price": 400,
+    "note": "",
+    "id": 79,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      20,
+      40,
+      40,
+      40,
+      0,
+      0
+    ],
+    "etype_id": 4,
+    "atype_id": 8
+  },
+  {
+    "description": "A reminder of your choices.",
+    "name": "Nipple",
+    "icon_index": 21,
+    "price": 0,
+    "note": "",
+    "id": 80,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      -4,
+      -4,
+      -4,
+      -4,
+      -4,
+      -4,
+      -4,
+      20
+    ],
+    "etype_id": 4,
+    "atype_id": 8
+  },
+  {
+    "description": "Super comfy, but super smelly.",
+    "name": "Old Sock",
+    "icon_index": 34,
+    "price": 33,
+    "note": "<auto state: 35>",
+    "id": 81,
+    "features": [
+      {
+        "code": 13,
+        "data_id": 35,
+        "value": 1.0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      14,
+      0
+    ],
+    "etype_id": 4,
+    "atype_id": 8
+  },
+  {
+    "description": "The official Black Ranger helmet.",
+    "name": "Black Helmet",
+    "icon_index": 59,
+    "price": 20,
+    "note": "",
+    "id": 82,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      34,
+      0,
+      34,
+      4,
+      0
+    ],
+    "etype_id": 2,
+    "atype_id": 9
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 83,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 84,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 85,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 86,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "A robe made of thick cotten.",
+    "name": "BLOUSES-------------",
+    "icon_index": 171,
+    "price": 100,
+    "note": "",
+    "id": 87,
+    "features": [
+
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      4,
+      2,
+      2,
+      0,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 0
+  },
+  {
+    "description": "A very loud sports jersey.",
+    "name": "Cheetah Jersey   ",
+    "icon_index": 144,
+    "price": 5,
+    "note": "",
+    "id": 88,
+    "features": [
+
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      4,
+      0,
+      0,
+      -2,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 2
+  },
+  {
+    "description": "An earthly colored tank top.",
+    "name": "Drab Tank Top",
+    "icon_index": 160,
+    "price": 11,
+    "note": "",
+    "id": 89,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      6,
+      0,
+      0,
+      -1,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 2
+  },
+  {
+    "description": "Show your team support with this\r\nover priced jersey.",
+    "name": "Sports Jersey",
+    "icon_index": 176,
+    "price": 24,
+    "note": "",
+    "id": 90,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0.03
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      12,
+      0,
+      0,
+      9,
+      -6
+    ],
+    "etype_id": 3,
+    "atype_id": 2
+  },
+  {
+    "description": "Ideal for people with nice abs.\r\nGives you a good chance at looking cool.",
+    "name": "Cutoff Sweatshirt",
+    "icon_index": 192,
+    "price": 37,
+    "note": "",
+    "id": 91,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0.03
+      },
+      {
+        "code": 13,
+        "data_id": 42,
+        "value": 0.8
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      10,
+      0,
+      0,
+      16,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 2
+  },
+  {
+    "description": "The coolest type of shirt ever.\r\nOnly few can pull it off.",
+    "name": "Floral Shirt",
+    "icon_index": 208,
+    "price": 42,
+    "note": "<auto state: 42>",
+    "id": 92,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0.03
+      },
+      {
+        "code": 13,
+        "data_id": 43,
+        "value": 1.0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      20,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 2
+  },
+  {
+    "description": "The legendary blouse of a retiree.\r\nThis shirt has seen many games of golf...",
+    "name": "Grandpa's Shirt",
+    "icon_index": 224,
+    "price": 53,
+    "note": "",
+    "id": 93,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0.03
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      36,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 2
+  },
+  {
+    "description": "A dirty lab coat.",
+    "name": "Lab Coat",
+    "icon_index": 239,
+    "price": 22,
+    "note": "",
+    "id": 94,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0.03
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      21,
+      0,
+      34,
+      0,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 2
+  },
+  {
+    "description": "This shirt is covered in cologne to mask\r\nthe sweat smell.",
+    "name": "Sweaty Shirt",
+    "icon_index": 223,
+    "price": 12,
+    "note": "",
+    "id": 95,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0.03
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      7,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 2
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 96,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 97,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "HEADWEAR--------",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 98,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "Headwear created by cloth winding.",
+    "name": "Turban",
+    "icon_index": 45,
+    "price": 30,
+    "note": "",
+    "id": 99,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      3,
+      0,
+      13,
+      0,
+      0
+    ],
+    "etype_id": 2,
+    "atype_id": 10
+  },
+  {
+    "description": "Origins unknown.",
+    "name": "Odd Helmet",
+    "icon_index": 253,
+    "price": 20,
+    "note": "",
+    "id": 100,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      11,
+      0,
+      4,
+      0,
+      0
+    ],
+    "etype_id": 2,
+    "atype_id": 14
+  },
+  {
+    "description": "Quack, quack? What is this?",
+    "name": "Bird Mask",
+    "icon_index": 245,
+    "price": 25,
+    "note": "",
+    "id": 101,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      11,
+      6,
+      4,
+      0,
+      0
+    ],
+    "etype_id": 2,
+    "atype_id": 15
+  },
+  {
+    "description": "Something Grandmother would\r\nwear.",
+    "name": "Straw Hat",
+    "icon_index": 68,
+    "price": 14,
+    "note": "",
+    "id": 102,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      6,
+      0,
+      4,
+      0,
+      1
+    ],
+    "etype_id": 2,
+    "atype_id": 10
+  },
+  {
+    "description": "The official Pink Ranger helmet.",
+    "name": "Pink Helmet",
+    "icon_index": 204,
+    "price": 20,
+    "note": "",
+    "id": 103,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      7,
+      0,
+      13,
+      2,
+      0
+    ],
+    "etype_id": 2,
+    "atype_id": 9
+  },
+  {
+    "description": "Belonged to the leader of the Gale\r\nMotorcycle Club.",
+    "name": "Motorbike Helmet",
+    "icon_index": 205,
+    "price": 35,
+    "note": "",
+    "id": 104,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      56,
+      0,
+      0,
+      44,
+      0,
+      33,
+      -6,
+      0
+    ],
+    "etype_id": 2,
+    "atype_id": 9
+  },
+  {
+    "description": "This hat increases your office productivity.",
+    "name": "Businessy Hat",
+    "icon_index": 240,
+    "price": 14,
+    "note": "",
+    "id": 105,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      1,
+      7,
+      1,
+      5,
+      0,
+      -2
+    ],
+    "etype_id": 2,
+    "atype_id": 10
+  },
+  {
+    "description": "This has no style whatsoever.\r\nIt's impossible to look cool with this.",
+    "name": "Fisherman's Hat",
+    "icon_index": 256,
+    "price": 23,
+    "note": "",
+    "id": 106,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "data_id": 42,
+        "value": 0.0
+      },
+      {
+        "code": 14,
+        "data_id": 43,
+        "value": 0.0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      11,
+      0,
+      5,
+      3,
+      0
+    ],
+    "etype_id": 2,
+    "atype_id": 10
+  },
+  {
+    "description": "The ultimate in Southern headwear.",
+    "name": "Dandy Hat",
+    "icon_index": 272,
+    "price": 50,
+    "note": "",
+    "id": 107,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      32,
+      0,
+      32,
+      -4,
+      0
+    ],
+    "etype_id": 2,
+    "atype_id": 10
+  },
+  {
+    "description": "Ideal for bald heads.",
+    "name": "Sunscreen",
+    "icon_index": 9,
+    "price": 12,
+    "note": "",
+    "id": 108,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      7,
+      0,
+      6,
+      0,
+      0
+    ],
+    "etype_id": 2,
+    "atype_id": 11
+  },
+  {
+    "description": "The best sunscreen. Reduces burning.",
+    "name": "Deluxe Sunscreen",
+    "icon_index": 9,
+    "price": 40,
+    "note": "",
+    "id": 109,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      },
+      {
+        "code": 14,
+        "data_id": 26,
+        "value": 0.0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      14,
+      0,
+      9,
+      0,
+      0
+    ],
+    "etype_id": 2,
+    "atype_id": 11
+  },
+  {
+    "description": "A hair growth formula. These never\r\nwork, but it helps to dream.",
+    "name": "Hair-Gro",
+    "icon_index": 9,
+    "price": 60,
+    "note": "",
+    "id": 110,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "data_id": 42,
+        "value": 0.5
+      }
+    ],
+    "params": [
+      0,
+      0,
+      2,
+      23,
+      2,
+      23,
+      0,
+      6
+    ],
+    "etype_id": 2,
+    "atype_id": 11
+  },
+  {
+    "description": "A paint can with a hole in it.",
+    "name": "Paint Can",
+    "icon_index": 254,
+    "price": 30,
+    "note": "",
+    "id": 111,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      6,
+      0,
+      6,
+      0,
+      0
+    ],
+    "etype_id": 2,
+    "atype_id": 17
+  },
+  {
+    "description": "Is this even a mask...?",
+    "name": "Tiger Head",
+    "icon_index": 206,
+    "price": 30,
+    "note": "",
+    "id": 112,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0.04
+      }
+    ],
+    "params": [
+      0,
+      0,
+      23,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 2,
+    "atype_id": 13
+  },
+  {
+    "description": "Sonny's best friend. The only one Sonny\r\nfeels comfortable talking to...",
+    "name": "Harvey",
+    "icon_index": 255,
+    "price": 30,
+    "note": "",
+    "id": 113,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0.04
+      }
+    ],
+    "params": [
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10
+    ],
+    "etype_id": 2,
+    "atype_id": 16
+  },
+  {
+    "description": "A tiny hat made for Winter. Worn all year\r\nby homeless people.",
+    "name": "Winter Cap",
+    "icon_index": 111,
+    "price": 21,
+    "note": "",
+    "id": 114,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      8,
+      0,
+      9,
+      0,
+      0
+    ],
+    "etype_id": 2,
+    "atype_id": 10
+  },
+  {
+    "description": "A hair growth formula. These never\r\nwork, but it helps to dream.",
+    "name": "Hyper Hair-Gro",
+    "icon_index": 9,
+    "price": 60,
+    "note": "<auto state: 42>",
+    "id": 115,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      },
+      {
+        "code": 13,
+        "data_id": 42,
+        "value": 0.5
+      }
+    ],
+    "params": [
+      0,
+      0,
+      8,
+      28,
+      2,
+      30,
+      5,
+      6
+    ],
+    "etype_id": 2,
+    "atype_id": 11
+  },
+  {
+    "description": "Is this a real fish head?\r\nIs this a real fishman?!",
+    "name": "Fish Head",
+    "icon_index": 31,
+    "price": 60,
+    "note": "",
+    "id": 116,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      8,
+      7,
+      2,
+      8,
+      5,
+      6
+    ],
+    "etype_id": 2,
+    "atype_id": 12
+  },
+  {
+    "description": "It's something we all go through at some point.",
+    "name": "Mid-Life Crisis Hat",
+    "icon_index": 240,
+    "price": 33,
+    "note": "",
+    "id": 117,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      4,
+      12,
+      4,
+      9,
+      0,
+      -18
+    ],
+    "etype_id": 2,
+    "atype_id": 10
+  },
+  {
+    "description": "",
+    "name": "NUDE-------------------------",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 118,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "Makes you all slippery and sexy!",
+    "name": "Oiled Chest",
+    "icon_index": 9,
+    "price": 43,
+    "note": "",
+    "id": 119,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0.1
+      }
+    ],
+    "params": [
+      0,
+      0,
+      4,
+      23,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 3,
+    "atype_id": 4
+  },
+  {
+    "description": "This looks boss as Hell.",
+    "name": "Eye Patch",
+    "icon_index": 123,
+    "price": 0,
+    "note": "",
+    "id": 120,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      3,
+      5,
+      3,
+      0,
+      -2,
+      0
+    ],
+    "etype_id": 2,
+    "atype_id": 18
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 121,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 122,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 123,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 124,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 125,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "PONCHOS",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 126,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "Hike! Your way into proper safety!",
+    "name": "Football Helmet",
+    "icon_index": 29,
+    "price": 24,
+    "note": "",
+    "id": 127,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0.0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      23,
+      0,
+      5,
+      -4,
+      0
+    ],
+    "etype_id": 2,
+    "atype_id": 10
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 128,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 129,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 130,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 131,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 132,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 133,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 134,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 135,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 136,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 137,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 138,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 139,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 140,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 141,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 142,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 143,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 144,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 145,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 146,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 147,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 148,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 149,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 150,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 151,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 152,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 153,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 154,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 155,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 156,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 157,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 158,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 159,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 160,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 161,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 162,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 163,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 164,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 165,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 166,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 167,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 168,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 169,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 170,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 171,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 172,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 173,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 174,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 175,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 176,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 177,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 178,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 179,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 180,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 181,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 182,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 183,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 184,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 185,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 186,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 187,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 188,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 189,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 190,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 191,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 192,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 193,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 194,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 195,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 196,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 197,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 198,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 199,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  },
+  {
+    "description": "",
+    "name": "",
+    "icon_index": 0,
+    "price": 0,
+    "note": "",
+    "id": 200,
+    "features": [
+      {
+        "code": 22,
+        "data_id": 1,
+        "value": 0
+      }
+    ],
+    "params": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "etype_id": 1,
+    "atype_id": 0
+  }
+]

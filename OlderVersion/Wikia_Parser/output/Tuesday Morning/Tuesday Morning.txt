@@ -1,0 +1,37 @@
+{{Template:Weapon
+| name       = Tuesday Morning
+| image      = File:072TuesdayMorning.png
+| imagewidth = 100px
+| caption    = 
+| id         = 72
+| weaponType = [[Sub Machine Gun]]
+| Para_ATK   = 34
+| Para_DEF   = 0
+| Para_SATK  = 5
+| Para_SDEF  = 0
+| Para_AGI   = 0
+| Para_LUCK  = 0
+| Para_HP    = 0
+| Para_SP    = 0
+| feature1   = Attack Element: Physical
+| feature2   = Attack Speed -5
+| feature3   = [[HIT]] * -10%
+| feature4   = 
+| feature5   = 
+| feature6   = 
+| feature7   = 
+| feature8   = 
+| feature9   = 
+| feature10  = 
+| feature11  = 
+| feature12  = 
+}}
+ 
+==Description==
+A high powered sub machine gun.
+
+==Features==
+==Locations==
+==Notes==
+
+[[Category:Weapon]]

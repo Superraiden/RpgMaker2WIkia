@@ -1,0 +1,165 @@
+{{Template:Party_Member
+| name                = Rage
+| image               = File:RageIronhead.png
+| imagewidth          = 100
+| caption             = An energetic luchador who disregards his own safety for the sake of style. Attacks with his head.
+| title               = 
+| fullname            = Rage Ironhead
+| nickname            = Rage
+| class               = Luchador
+| auto_state          = 
+| location            = 
+| weapon_types        = [[Wristband]]
+| armor_types         = [[Accessory]] / [[Shawl]] / [[Mask]]
+| skill_types         = [[Skills]]
+| Target_Rate         = 100%
+| Evasion             = 5%
+| Hit_Rate            = 95%
+| Crit_Chance         = 4%
+| feature1            = [[Rage]] * 40%
+| feature2            = 
+| feature3            = 
+| feature4            = 
+| feature5            = 
+| feature6            = 
+| feature7            = 
+| feature8            = 
+| feature9            = 
+| feature10           = 
+| feature11           = 
+| feature12           = 
+}}
+This is a Blurb of the Character
+==Appearance and Personality==
+Description of the character
+
+
+
+
+
+
+
+
+
+
+
+==Battle==
+This is a description of the battle styles of the Party Member
+
+===Skills===
+{| class="PartyTable" border="1" cellpadding="2" cellspacing="0"
+| style="width:20%;" class="Header2 TopLeft" |'''Skill Name'''
+| style="width:55%;" class="Header2" |'''Description'''
+| style="width:15%;" class="Header2" |'''Level Learned'''
+| style="width:10%;" class="Header2 TopRight" |'''MP Cost'''
+|-
+| class="Content Text" |[[Head Rush|Head Rush]]
+| class="Content Text" |(AAW) A series of headbutts.
+| class="Content" |1
+| class="Content" |3
+|-
+| class="Content Text" |[[Missle Headbutt|Missle Headbutt]]
+| class="Content Text" |(WASD) A flying headbutt.
+| class="Content" |3
+| class="Content" |5
+|-
+| class="Content Text" |[[Running Splash|Running Splash]]
+| class="Content Text" |(ASSD) A flying body splash.
+| class="Content" |5
+| class="Content" |7
+|-
+| class="Content Text" |[[Tackle Rush|Tackle Rush]]
+| class="Content Text" |(SAWD) A big attempt at knocking the opponent over.
+| class="Content" |7
+| class="Content" |11
+|-
+| class="Content Text" |[[Running Geyser|Running Geyser]]
+| class="Content Text" |(ASAW) A bigger flying body splash.
+| class="Content" |11
+| class="Content" |9
+|-
+| class="Content Text" |[[Massive Head Rush|Massive Head Rush  ]]
+| class="Content Text" |(WWA) A series of headbutts.
+| class="Content" |13
+| class="Content" |11
+|-
+| class="Content Text" |[[Meteor Elbow Drop|Meteor Elbow Drop]]
+| class="Content Text" |(SWWAS) A huge elbow from the sky.
+| class="Content" |19
+| class="Content" |14
+|-
+| class="Content Text" |[[Final Head Rush|Final Head Rush]]
+| class="Content Text" |(WWWA) A series of headbutts.
+| class="Content" |22
+| class="Content" |16
+|-
+| class="Content Text BottomLeft" |[[Astro Elbow Drop|Astro Elbow Drop   ]]
+| class="Content Text" |(SWWAD) A huge elbow from space.
+| class="Content" |25
+| class="Content BottomRight" |20
+
+|}
+
+===Statistics===
+Statistics analysis
+
+{| class="PartyTable" border="1" cellpadding="2" cellspacing="0"
+| colspan="10" class="Header1 TopLeft TopRight" |'''Core Statistics'''
+|-
+| width="10%;" class="Header2" |Level
+| width="10%;" class="Header2" |HP
+| width="10%;" class="Header2" |SP
+| width="10%;" class="Header2" |ATK
+| width="10%;" class="Header2" |DEF
+| width="10%;" class="Header2" |SATK
+| width="10%;" class="Header2" |SDEF
+| width="10%;" class="Header2" |AGI
+| width="10%;" class="Header2" |LUCK
+|-
+| class="Content BottomLeft" |6
+| class="Content" |62
+| class="Content" |31
+| class="Content" |28
+| class="Content" |20
+| class="Content" |30
+| class="Content" |32
+| class="Content" |10
+| class="Content BottomRight" |1
+|}
+
+==Battle Quotes==
+{| class="" style="width:100%; vertical-align: top;" border="0" cellpadding="0" cellspacing="0"
+|
+===Win Quotes===
+|
+===Level Quotes===
+|
+===Drop Quotes===
+|-
+| style="vertical-align: top;" |
+* WOOOOOOOO!!!
+* My head is iron! IRON BABY!
+* Elllllllleleleleleleleleeeee!
+
+| style="vertical-align: top;" |
+* My head is unstoppable!
+
+| style="vertical-align: top;" |
+* Woo!
+
+|}
+
+==Art==
+<gallery>
+Rage_Ironhead_HD.png
+</gallery>
+
+
+
+==Tips==
+
+==Trivia==
+
+{{Party_Members}}
+[[Category:Character]]
+[[Category:Party Member]]

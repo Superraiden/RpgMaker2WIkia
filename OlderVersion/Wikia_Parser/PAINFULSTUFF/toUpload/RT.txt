@@ -1,0 +1,173 @@
+{{Template:Party_Member
+| name                = RT
+| image               = File:RT.png
+| imagewidth          = 100
+| caption             = One wild son of a bitch.
+| title               = 
+| fullname            = RT
+| nickname            = RT
+| class               = Wildcard
+| auto_state          = 
+| location            = 
+| weapon_types        = [[Duffle Bag]]
+| armor_types         = [[Accessory]] / [[Blouse]] / [[Poncho]] / [[Hat]]
+| skill_types         = [[Skills]]
+| Target_Rate         = 100%
+| Evasion             = 5%
+| Hit_Rate            = 95%
+| Crit_Chance         = 4%
+| feature1            = 
+| feature2            = 
+| feature3            = 
+| feature4            = 
+| feature5            = 
+| feature6            = 
+| feature7            = 
+| feature8            = 
+| feature9            = 
+| feature10           = 
+| feature11           = 
+| feature12           = 
+}}
+This is a Blurb of the Character
+==Appearance and Personality==
+Description of the character
+
+
+
+
+
+
+
+
+
+
+
+==Battle==
+This is a description of the battle styles of the Party Member
+
+===Skills===
+{| class="PartyTable" border="1" cellpadding="2" cellspacing="0"
+| style="width:20%;" class="Header2 TopLeft" |'''Skill Name'''
+| style="width:55%;" class="Header2" |'''Description'''
+| style="width:15%;" class="Header2" |'''Level Learned'''
+| style="width:10%;" class="Header2 TopRight" |'''MP Cost'''
+|-
+| class="Content Text" |[[Bag Fire|Bag Fire]]
+| class="Content Text" |Open your bag to reveal surprising contents! Causes burning.
+| class="Content" |1
+| class="Content" |10
+|-
+| class="Content Text" |[[Bag of What|Bag of What?]]
+| class="Content Text" |Open your bag to reveal surprising contents! Causes weirdness.
+| class="Content" |10
+| class="Content" |5
+|-
+| class="Content Text" |[[Savage Elbow|Savage Elbow]]
+| class="Content Text" |Slam your elbow down on the opponent.
+| class="Content" |13
+| class="Content" |10
+|-
+| class="Content Text" |[[Bag Flames|Bag Flames]]
+| class="Content Text" |Open your bag to reveal surprising contents! Causes burning.
+| class="Content" |14
+| class="Content" |20
+|-
+| class="Content Text" |[[Bag Flash|Bag Flash]]
+| class="Content Text" |Open your bag to reveal surprising contents! Causes blindness.
+| class="Content" |15
+| class="Content" |10
+|-
+| class="Content Text" |[[Sleeper Hold|Sleeper Hold]]
+| class="Content Text" |Choke out the opponent till they fall asleep. Can cause sleep.
+| class="Content" |16
+| class="Content" |25
+|-
+| class="Content Text" |[[Savage Elbow 2|Savage Elbow 2]]
+| class="Content Text" |Slam your elbow down on the opponent.
+| class="Content" |17
+| class="Content" |15
+|-
+| class="Content Text" |[[Bag of Yuck|Bag of Yuck]]
+| class="Content Text" |Open your bag to reveal surprising contents! Causes deep poison.
+| class="Content" |18
+| class="Content" |5
+|-
+| class="Content Text" |[[Bag Inferno|Bag Inferno]]
+| class="Content Text" |Open your bag to reveal surprising contents! Causes burning.
+| class="Content" |19
+| class="Content" |30
+|-
+| class="Content Text" |[[Savage Elbow 3|Savage Elbow 3]]
+| class="Content Text" |Slam your elbow down on the opponent.
+| class="Content" |20
+| class="Content" |20
+|-
+| class="Content Text BottomLeft" |[[Nightmare Hold|Nightmare Hold]]
+| class="Content Text" |Choke out the opponent till they fall asleep. Forces sleep.
+| class="Content" |25
+| class="Content BottomRight" |45
+
+|}
+
+===Statistics===
+Statistics analysis
+
+{| class="PartyTable" border="1" cellpadding="2" cellspacing="0"
+| colspan="10" class="Header1 TopLeft TopRight" |'''Core Statistics'''
+|-
+| width="10%;" class="Header2" |Level
+| width="10%;" class="Header2" |HP
+| width="10%;" class="Header2" |SP
+| width="10%;" class="Header2" |ATK
+| width="10%;" class="Header2" |DEF
+| width="10%;" class="Header2" |SATK
+| width="10%;" class="Header2" |SDEF
+| width="10%;" class="Header2" |AGI
+| width="10%;" class="Header2" |LUCK
+|-
+| class="Content BottomLeft" |6
+| class="Content" |62
+| class="Content" |31
+| class="Content" |28
+| class="Content" |20
+| class="Content" |30
+| class="Content" |32
+| class="Content" |10
+| class="Content BottomRight" |1
+|}
+
+==Battle Quotes==
+{| class="" style="width:100%; vertical-align: top;" border="0" cellpadding="0" cellspacing="0"
+|
+===Win Quotes===
+|
+===Level Quotes===
+|
+===Drop Quotes===
+|-
+| style="vertical-align: top;" |
+* Huh?
+
+| style="vertical-align: top;" |
+* Whassat?
+
+| style="vertical-align: top;" |
+* Huh?
+
+|}
+
+==Art==
+<gallery>
+RT_HD.png
+</gallery>
+
+
+
+==Tips==
+
+==Trivia==
+
+{{Party_Members}}
+[[Category:Character]]
+[[Category:Party Member]]
